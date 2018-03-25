@@ -1,0 +1,69 @@
+sElectionAbbr	lOfficeMasterHndl	iContestID	lPartyHndl	sPartyAbbr	szOfficeAbbr1	szOfficeAbbr2	lDistrictHndl	sDistrictID	lSubDistrictHndl	iSubDistrict	szGroupHdg	szBallotHeading	szSubHeading	szOfficeTitle	lLanguageHndl	sLanguageAbbr	iNumToVoteFor	iWriteIns	sCandidateSequence
+2014June3 	2	1030			Governor		882	*0		0	VOTER NOMINATED	STATE		Governor	1	E   	1	1	R
+2014June3 	2	1030			Governor		882	*0		0		ESTADO		Gobernador	2	S   	1	1	R
+2014June3 	3	1040			Lieutenant Governor		882	*0		0	VOTER NOMINATED	STATE		Lieutenant Governor	1	E   	1	1	R
+2014June3 	3	1040			Lieutenant Governor		882	*0		0		ESTADO		Vice Gobernador	2	S   	1	1	R
+2014June3 	4	1050			Secretary of State		882	*0		0	VOTER NOMINATED	STATE		Secretary of State	1	E   	1	1	R
+2014June3 	4	1050			Secretary of State		882	*0		0		ESTADO		Secretario del Estado	2	S   	1	1	R
+2014June3 	5	1060			Controller		882	*0		0	VOTER NOMINATED	STATE		Controller	1	E   	1	1	R
+2014June3 	5	1060			Controller		882	*0		0		ESTADO		Contralor	2	S   	1	1	R
+2014June3 	6	1070			Treasurer		882	*0		0	VOTER NOMINATED	STATE		Treasurer	1	E   	1	1	R
+2014June3 	6	1070			Treasurer		882	*0		0		ESTADO		Tesorero	2	S   	1	1	R
+2014June3 	7	1080			Attorney General		882	*0		0	VOTER NOMINATED	STATE		Attorney General	1	E   	1	1	R
+2014June3 	7	1080			Attorney General		882	*0		0		ESTADO		Procurador General	2	S   	1	1	R
+2014June3 	8	1090			Insurance Commissioner		882	*0		0	VOTER NOMINATED	STATE		Insurance Commissioner	1	E   	1	1	R
+2014June3 	8	1090			Insurance Commissioner		882	*0		0		ESTADO			2	S   	1	1	R
+2014June3 	9	1100			State Board of	Equalization, District 2	985	SE002		0	VOTER NOMINATED	STATE		Member, State Board of Equalization, District 2	1	E   	1	1	R
+2014June3 	9	1100			State Board of	Equalization, District 2	985	SE002		0		ESTADO		"Miembro, Consejo estatal de igualaminto,"/nDistrito 1	2	S   	1	1	R
+2014June3 	12	1130			17th Congressional		1407	CG017		0	VOTER NOMINATED	UNITED STATES REPRESENTATIVE		District 17	1	E   	1	1	R
+2014June3 	12	1130			17th Congressional		1407	CG017		0		REPRESENTANTE DE LOS ESTADOS UNIDOS		Distrito 13	2	S   	1	1	R
+2014June3 	13	1140			18th Congressional		1408	CG018		0	VOTER NOMINATED	UNITED STATES REPRESENTATIVE		District 18	1	E   	1	1	R
+2014June3 	13	1140			18th Congressional		1408	CG018		0		REPRESENTANTE DE LOS ESTADOS UNIDOS		Distrito 14	2	S   	1	1	R
+2014June3 	14	1150			19th Congressional		1409	CG019		0	VOTER NOMINATED	UNITED STATES REPRESENTATIVE		District 19	1	E   	1	1	R
+2014June3 	14	1150			19th Congressional		1409	CG019		0		REPRESENTANTE DE LOS ESTADOS UNIDOS		Distrito 15	2	S   	1	1	R
+2014June3 	15	1160			20th Congressional		1410	CG020		0	VOTER NOMINATED	UNITED STATES REPRESENTATIVE		District 20	1	E   	1	1	R
+2014June3 	15	1160			20th Congressional		1410	CG020		0		REPRESENTANTE DE LOS ESTADOS UNIDOS		Distrito 16	2	S   	1	1	R
+2014June3 	16	1200			10th State Senate		1403	SS010		0	VOTER NOMINATED	STATE SENATOR		District 10	1	E   	1	1	C
+2014June3 	16	1200			10th State Senate		1403	SS010		0		SENADOR DEL ESTADO		Distrito 10	2	S   	1	1	C
+2014June3 	20	1300			24th Assembly		1397	SA024		0	VOTER NOMINATED	MEMBER OF THE STATE ASSEMBLY		District 24	1	E   	1	1	C
+2014June3 	20	1300			24th Assembly		1397	SA024		0		MIEMBRO DE LA ASAMBLEA DEL ESTADO		Distrito 20	2	S   	1	1	C
+2014June3 	21	1310			25th Assembly		1398	SA025		0	VOTER NOMINATED	MEMBER OF THE STATE ASSEMBLY		District 25	1	E   	1	1	C
+2014June3 	21	1310			25th Assembly		1398	SA025		0		MIEMBRO DE LA ASAMBLEA DEL ESTADO		Distrito 21	2	S   	1	1	C
+2014June3 	22	1320			27th Assembly		1399	SA027		0	VOTER NOMINATED	MEMBER OF THE STATE ASSEMBLY		District 27	1	E   	1	1	R
+2014June3 	22	1320			27th Assembly		1399	SA027		0		MIEMBRO DE LA ASAMBLEA DEL ESTADO		Distrito 22	2	S   	1	1	R
+2014June3 	23	1330			28th Assembly		1400	SA028		0	VOTER NOMINATED	MEMBER OF THE STATE ASSEMBLY		District 28	1	E   	1	1	R
+2014June3 	23	1330			28th Assembly		1400	SA028		0		MIEMBRO DE LA ASAMBLEA DEL ESTADO		Distrito 23	2	S   	1	1	R
+2014June3 	24	1340			29th Assembly		1401	SA029		0	VOTER NOMINATED	MEMBER OF THE STATE ASSEMBLY		District 29	1	E   	1	1	C
+2014June3 	24	1340			29th Assembly		1401	SA029		0		MIEMBRO DE LA ASAMBLEA DEL ESTADO		Distrito 24	2	S   	1	1	C
+2014June3 	449	1370			30th Assembly		1402	SA030		0	VOTER NOMINATED	MEMBER OF THE STATE ASSEMBLY		District 30	1	E   	1	1	C
+2014June3 	449	1370			30th Assembly		1402	SA030		0		MIEMBRO DE LA ASAMBLEA DEL ESTADO		Distrito 27	2	S   	1	1	C
+2014June3 	90	2604			Judge - Superior Court	Office #4	882	*0		0	NONPARTISAN	JUDICIAL		Judge of the Superior Court, Office No. 4	1	E   	1	1	R
+2014June3 	90	2604			Judge - Superior Court	Office #4	882	*0		0	No Partisan	JUDICIAL		"Juez de la Corte Superior, Cargo Num. X"	2	S   	1	1	R
+2014June3 	107	2621			Judge - Superior Court	Office #21	882	*0		0	NONPARTISAN	JUDICIAL		Judge of the Superior Court, Office No. 21	1	E   	1	1	R
+2014June3 	107	2621			Judge - Superior Court	Office #21	882	*0		0	No Partisan	JUDICIAL		"Juez de la Corte Municipal, Cargo Num. X"	2	S   	1	1	R
+2014June3 	110	2624			Judge - Superior Court	Office #24	882	*0		0	NONPARTISAN	JUDICIAL		Judge of the Superior Court, Office No. 24	1	E   	1	1	R
+2014June3 	110	2624			Judge - Superior Court	Office #24	882	*0		0	No Partisan	JUDICIAL		"Juez de la Corte Superior, Cargo Num. X"	2	S   	1	1	R
+2014June3 	147	3001			State Superintendent	Of Public Instruction	882	*0		0	NONPARTISAN	SCHOOL		State Superintendent of Public Instruction	1	E   	1	1	R
+2014June3 	147	3001			State Superintendent	Of Public Instruction	882	*0		0	No Partisan	ESCUELA		Superintendente de Instrucci<162>n P<163>blica	2	S   	1	1	R
+2014June3 	299	4401			County Supervisor	District 1	1423	*401		0	NONPARTISAN	COUNTY		Member, Board of Supervisors, District 1	1	E   	1	0	R
+2014June3 	299	4401			County Supervisor	District 1	1423	*401		0	No Partisan	CONDADO		Miembro, Junta de Supervisores, Distrito 1	2	S   	1	0	R
+2014June3 	302	4404			County Supervisor	District 4	1426	*404		0	NONPARTISAN	COUNTY		Member, Board of Supervisors, District 4	1	E   	1	0	R
+2014June3 	302	4404			County Supervisor	District 4	1426	*404		0	No Partisan	CONDADO		Miembro, Junta de Supervisores, Distrito 4	2	S   	1	0	R
+2014June3 	304	4410			Assessor		882	*0		0	NONPARTISAN	COUNTY		Assessor	1	E   	1	0	R
+2014June3 	304	4410			Assessor		882	*0		0	No Partisan	CONDADO		Tasador	2	S   	1	0	R
+2014June3 	305	4420			District Attorney		882	*0		0	NONPARTISAN	COUNTY		District Attorney	1	E   	1	0	R
+2014June3 	305	4420			District Attorney		882	*0		0	No Partisan	CONDADO		Procurador de Justicia	2	S   	1	0	R
+2014June3 	306	4430			Sheriff		882	*0		0	NONPARTISAN	COUNTY		Sheriff	1	E   	1	0	R
+2014June3 	306	4430			Sheriff		882	*0		0	No Partisan	CONDADO		Jerife	2	S   	1	0	R
+2014June3 	348	5200			City of San Jose	Mayor	902	*520		0	NONPARTISAN	CITY	CITY OF SAN JOSE	Mayor	1	E   	1	0	R
+2014June3 	348	5200			City of San Jose	Mayor	902	*520		0	No Partisan	CIUDAD	CIUDAD DE SAN JOSE	Alcalde	2	S   	1	0	R
+2014June3 	461	5201			City of San Jose	Council Member, # 1	902	*520	1413	1	NONPARTISAN	CITY	CITY OF SAN JOSE	Member, City Council, District 1	1	E   	1	0	R
+2014June3 	461	5201			City of San Jose	Council Member, # 1	902	*520	1413	1	No Partisan	CIUDAD	CIUDAD DE SAN JOSE	Miembro del Concejo Municipal, Distrito 1	2	S   	1	0	R
+2014June3 	351	5203			City of SanJose	Council Member, # 3	902	*520	1415	3	NONPARTISAN	CITY	CITY OF SAN JOSE	Member, City Council, District 3	1	E   	1	0	R
+2014June3 	351	5203			City of SanJose	Council Member, # 3	902	*520	1415	3	No Partisan	CIUDAD	CIUDAD DE SAN JOSE	Miembro del Concejo Municipal, Distrito 3	2	S   	1	0	R
+2014June3 	353	5205			City of San Jose	Council Member, # 5	902	*520	1417	5	NONPARTISAN	CITY	CITY OF SAN JOSE	Member, City Council, District 5	1	E   	1	0	R
+2014June3 	353	5205			City of San Jose	Council Member, # 5	902	*520	1417	5	No Partisan	CIUDAD	CIUDAD DE SAN JOSE	Miembro del Concejo Municipal, Distrito 5	2	S   	1	0	R
+2014June3 	355	5207			City of San Jose	Council Member, # 7	902	*520	1419	7	NONPARTISAN	CITY	CITY OF SAN JOSE	Member, City Council, District 7	1	E   	1	0	R
+2014June3 	355	5207			City of San Jose	Council Member, # 7	902	*520	1419	7	No Partisan	CIUDAD	CIUDAD DE SAN JOSE	Miembro del Concejo Municipal, Distrito 7	2	S   	1	0	R
+2014June3 	357	5209			City of San Jose	Council Member, # 9	902	*520	1421	9	NONPARTISAN	CITY	CITY OF SAN JOSE	Member, City Council, District 9	1	E   	1	0	R
+2014June3 	357	5209			City of San Jose	Council Member, # 9	902	*520	1421	9	No Partisan	CIUDAD	CIUDAD DE SAN JOSE	Miembro del Concejo Municipal, Distrito 9	2	S   	1	0	R

@@ -1,0 +1,5455 @@
+[
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 35,
+  "szDistrictTypeOfficialDesc": "County",
+  "lDistrictHndl": 882,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*0",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "County of Santa Clara"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 8,
+  "szDistrictTypeOfficialDesc": "Board of Equalization (State)",
+  "lDistrictHndl": 985,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SE002",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "State Board Of Equalization #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 1459,
+  "lParentDistHndl": 934,
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "Santa Clara Valley Water District - Dist 1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 1460,
+  "lParentDistHndl": 934,
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "Santa Clara Valley Water District - Dist 2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1316,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-861",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5091.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1317,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-862",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5091.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1318,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-863",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5091.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1319,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-864",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5091.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1320,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-865",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5091.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1321,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-866",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5091.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1322,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-867",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5092.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1323,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-868",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5092.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1324,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-869",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5093.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1325,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-870",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5093.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1326,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-871",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5093.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1327,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-872",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5094.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1328,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-873",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5094.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1329,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-874",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5094.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1330,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-875",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5095"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1331,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-876",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5096"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1332,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-877",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5097"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1333,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-878",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5098.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1334,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-879",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5098.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1335,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-880",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5099.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1336,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-881",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5099.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1337,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-882",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5100.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1338,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-883",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5100.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1339,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-884",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5101"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1340,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-885",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5102"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1341,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-886",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5103"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1342,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-887",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5104"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1343,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-888",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5105"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1344,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-889",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5106"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1345,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-890",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5107"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1346,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-891",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5108.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1347,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-892",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5108.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1348,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-893",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5108.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1349,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-894",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5109"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1350,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-895",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5110"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1351,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-896",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT -  5111"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1352,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-897",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5112"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1353,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-898",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5113.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1354,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-899",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5113.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1355,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-900",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5114"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1356,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-901",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5115"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1357,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-902",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5116.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1358,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-903",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5116.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1359,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-904",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5117.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1360,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-905",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5117.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1361,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-906",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5117.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1362,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-907",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5117.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1363,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-908",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5117.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1364,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-909",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5118"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1365,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-910",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1366,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-911",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1367,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-912",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1368,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-913",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1369,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-914",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1370,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-915",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.12"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1371,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-916",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.13"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1372,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-917",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.14"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1373,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-918",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.15"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1374,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-919",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5119.16"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1375,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-920",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1376,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-921",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1377,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-922",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.17"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1378,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-923",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.19"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1379,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-924",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.20"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1380,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-925",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.21"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1381,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-926",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.22"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1382,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-927",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.23"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1383,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-928",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.24"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1384,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-929",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.25"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1385,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-930",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.26"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1386,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-931",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.27"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1387,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-932",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.29"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1388,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-933",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.30"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1389,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-934",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.31"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1390,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-935",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.32"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1391,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-936",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.33"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1392,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-937",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.34"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1393,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-938",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.35"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1450,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-964",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5125.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1451,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-965",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5125.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1452,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-966",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5125.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 888,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*502",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Campbell"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 889,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*503",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Cupertino"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 890,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*504",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Gilroy"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 891,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*505",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Los Altos"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 892,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*506",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Town of Los Altos Hills"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 893,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*507",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Town of Los Gatos"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 894,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*508",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Milpitas"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 895,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*509",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Monte Sereno"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 896,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*510",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Morgan Hill"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 897,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*511",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Mountain View"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 898,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*512",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Palo Alto"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 899,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*513",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Santa Clara"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 900,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*514",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Saratoga"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 901,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*515",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Sunnyvale"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 902,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of San Jose"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1417,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "San Jose-Council District 5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1418,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 6,
+  "szElecDistrictName": "San Jose-Council District 6"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1419,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 7,
+  "szElecDistrictName": "San Jose-Council District 7"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1279,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-824",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5077.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1420,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 8,
+  "szElecDistrictName": "San Jose-Council District 8"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1421,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 9,
+  "szElecDistrictName": "San Jose-Council District 9"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1422,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 10,
+  "szElecDistrictName": "San Jose-Council District 10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 5,
+  "szDistrictTypeOfficialDesc": "County Supervisor",
+  "lDistrictHndl": 1423,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*401",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "1st Supervisorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 5,
+  "szDistrictTypeOfficialDesc": "County Supervisor",
+  "lDistrictHndl": 1424,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*402",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2nd Supervisorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 5,
+  "szDistrictTypeOfficialDesc": "County Supervisor",
+  "lDistrictHndl": 1425,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*403",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "3rd Supervisorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 5,
+  "szDistrictTypeOfficialDesc": "County Supervisor",
+  "lDistrictHndl": 1426,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*404",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "4th Supervisorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 913,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*599  ",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Unincorporated Area"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 914,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*601",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Stanford"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 18,
+  "szDistrictTypeOfficialDesc": "Hospital District",
+  "lDistrictHndl": 919,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "HOSP01",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "El Camino Healthcare District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 921,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK01",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Mid-Peninsula Regional Open Space District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 922,
+  "lParentDistHndl": 921,
+  "sElecDistrictID": "PK01",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "Mid-Peninsula Regional Open Space Dist-Ward 1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 923,
+  "lParentDistHndl": 921,
+  "sElecDistrictID": "PK01",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "Mid-Peninsula Regional Open Space Dist-Ward 2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 924,
+  "lParentDistHndl": 921,
+  "sElecDistrictID": "PK01",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "Mid-Peninsula Regional Open Space Dist-Ward 3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 925,
+  "lParentDistHndl": 921,
+  "sElecDistrictID": "PK01",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "Mid-Peninsula Regional Open Space Dist-Ward 4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 926,
+  "lParentDistHndl": 921,
+  "sElecDistrictID": "PK01",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "Mid-Peninsula Regional Open Space Dist-Ward 5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 33,
+  "szDistrictTypeOfficialDesc": "Recreation & Park District",
+  "lDistrictHndl": 927,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK02",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Rancho Rinconada"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 32,
+  "szDistrictTypeOfficialDesc": "Road Maintenance District",
+  "lDistrictHndl": 933,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK04",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Overlook Road Maintenance District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 30,
+  "szDistrictTypeOfficialDesc": "Flood District",
+  "lDistrictHndl": 942,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK06",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "San Martin County Water District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 22,
+  "szDistrictTypeOfficialDesc": "Resource District",
+  "lDistrictHndl": 943,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK07",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Guadalupe-Coyote Resource Conservation District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 22,
+  "szDistrictTypeOfficialDesc": "Resource District",
+  "lDistrictHndl": 944,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK08",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Loma Prieta Resource District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 945,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Open Space Authority"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 946,
+  "lParentDistHndl": 945,
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "Santa Clara County Open Space Authority Dist- 1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 947,
+  "lParentDistHndl": 945,
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "Santa Clara County Open Space Authority Dist- 2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 948,
+  "lParentDistHndl": 945,
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "Santa Clara County Open Space Authority Dist- 3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 949,
+  "lParentDistHndl": 945,
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "Santa Clara County Open Space Authority Dist- 4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 950,
+  "lParentDistHndl": 945,
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "Santa Clara County Open Space Authority Dist- 5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 951,
+  "lParentDistHndl": 945,
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 6,
+  "szElecDistrictName": "Santa Clara County Open Space Authority Dist- 6"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 29,
+  "szDistrictTypeOfficialDesc": "Open Space District",
+  "lDistrictHndl": 952,
+  "lParentDistHndl": 945,
+  "sElecDistrictID": "PK09",
+  "iElecSubDistrict": 7,
+  "szElecDistrictName": "Santa Clara County Open Space Authority Dist- 7"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 28,
+  "szDistrictTypeOfficialDesc": "Library District",
+  "lDistrictHndl": 953,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK10",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "North County Library Authority"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 28,
+  "szDistrictTypeOfficialDesc": "Library District",
+  "lDistrictHndl": 954,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK11",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Library District Joint Powers Authority"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 24,
+  "szDistrictTypeOfficialDesc": "Storm Water District",
+  "lDistrictHndl": 955,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK12",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Pacheco Storm Water District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 31,
+  "szDistrictTypeOfficialDesc": "Water District",
+  "lDistrictHndl": 956,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK13",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Pacheco Pass Water District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 32,
+  "szDistrictTypeOfficialDesc": "Road Maintenance District",
+  "lDistrictHndl": 957,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK15",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Casa Loma-Loma Chiquita Road Maintenance District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 967,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SCC-1",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Foothill-De Anza CCD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 968,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SCC-2",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Gavilan CCD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 969,
+  "lParentDistHndl": 968,
+  "sElecDistrictID": "SCC-2",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "Gavilan CCD TA #1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 970,
+  "lParentDistHndl": 968,
+  "sElecDistrictID": "SCC-2",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "Gavilan CCD TA #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 971,
+  "lParentDistHndl": 968,
+  "sElecDistrictID": "SCC-2",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "Gavilan CCD TA #3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 972,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "San Jose/Evergreen CCD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 973,
+  "lParentDistHndl": 972,
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "San Jose/Evergreen  CCD TA #1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 974,
+  "lParentDistHndl": 972,
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "San Jose/Evergreen CCD TA #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 975,
+  "lParentDistHndl": 972,
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "San Jose/Evergreen CCD TA #3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 976,
+  "lParentDistHndl": 972,
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "San Jose/Evergreen CCD TA #4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 977,
+  "lParentDistHndl": 972,
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "San Jose/Evergreen CCD TA #5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 978,
+  "lParentDistHndl": 972,
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 6,
+  "szElecDistrictName": "San Jose/Evergreen CCD TA #6"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 979,
+  "lParentDistHndl": 972,
+  "sElecDistrictID": "SCC-3",
+  "iElecSubDistrict": 7,
+  "szElecDistrictName": "San Jose/Evergreen CCD TA #7"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 980,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "West Valley-Mission CCD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 1472,
+  "lParentDistHndl": 980,
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "West Valley-Mission CCD TA #1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 28,
+  "szDistrictTypeOfficialDesc": "Library District",
+  "lDistrictHndl": 1480,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK14",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Library Joint Powers Authority of Santa Clara County Community Facilities District No. 2013-1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 984,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SCC-5",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Yosemite CCD TA #4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 13,
+  "szDistrictTypeOfficialDesc": "High School District",
+  "lDistrictHndl": 986,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SHS-1",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Campbell Union High SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 13,
+  "szDistrictTypeOfficialDesc": "High School District",
+  "lDistrictHndl": 987,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SHS-2",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "East Side Union High SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 13,
+  "szDistrictTypeOfficialDesc": "High School District",
+  "lDistrictHndl": 988,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SHS-3",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Fremont Union High SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 13,
+  "szDistrictTypeOfficialDesc": "High School District",
+  "lDistrictHndl": 989,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SHS-6",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Los Gatos-Saratoga Joint Union High SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 13,
+  "szDistrictTypeOfficialDesc": "High School District",
+  "lDistrictHndl": 990,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SHS-7",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Mountain View-Los Altos Union High School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 13,
+  "szDistrictTypeOfficialDesc": "High School District",
+  "lDistrictHndl": 991,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SHS-8",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "San Benito High SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 996,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-1",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Gilroy Unified SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 997,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-2",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Morgan Hill Unified SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 998,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-3",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara Unified SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 999,
+  "lParentDistHndl": 998,
+  "sElecDistrictID": "SUS-3",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "Santa Clara Unified SD TA  #1   (Alviso)"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1000,
+  "lParentDistHndl": 998,
+  "sElecDistrictID": "SUS-3",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "Santa Clara Unified SD TA  #2  (Jefferson)"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1001,
+  "lParentDistHndl": 998,
+  "sElecDistrictID": "SUS-3",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "Santa Clara Unified SD TA  #3    (Santa Clara)"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1002,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-4",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Palo Alto Unified SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1003,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-5",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "San Jose Unified SD"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1004,
+  "lParentDistHndl": 1003,
+  "sElecDistrictID": "SUS-5",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "San Jose Unified SD TA #1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1005,
+  "lParentDistHndl": 1003,
+  "sElecDistrictID": "SUS-5",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "San Jose Unified SD TA #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1006,
+  "lParentDistHndl": 1003,
+  "sElecDistrictID": "SUS-5",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "San Jose Unified SD TA #3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1007,
+  "lParentDistHndl": 1003,
+  "sElecDistrictID": "SUS-5",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "San Jose Unified SD TA #4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1008,
+  "lParentDistHndl": 1003,
+  "sElecDistrictID": "SUS-5",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "San Jose Unified SD TA #5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1009,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-6",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Milpitas Unified School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1010,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-7",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Mountain View Whisman School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1011,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-A",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Alum Rock Union  School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1012,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-B",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Berryessa Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1013,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-C",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Cambrian School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1014,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-D",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Campbell Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1015,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-E",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Cupertino Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1016,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-F",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Evergreen School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1017,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-G",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Franklin-McKinley School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 12,
+  "szDistrictTypeOfficialDesc": "Unified School District",
+  "lDistrictHndl": 1018,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-H",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Patterson Joint Unified SD - TA #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1019,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-K",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "North County Joint Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1466,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-L",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Oak Grove School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1026,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-M",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Orchard School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1027,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-N",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Lakeside Joint School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1028,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-P",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Loma Prieta Joint Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1029,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-Q",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Los Altos School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1030,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-R",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Los Gatos Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1031,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-S",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Luther Burbank School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1032,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-U",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Moreland School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1033,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-V",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Mount Pleasant School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1034,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-W",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Saratoga Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1035,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-X",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Sunnyvale School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1036,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUS-Y",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Union School District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1037,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-01",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Office of Education TA #1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1038,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-02",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Office of Education TA #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1039,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-03",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Office of Education TA #3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1040,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-04",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Office of Education TA #4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1041,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-05",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Office of Education TA #5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1042,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-07",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Office of Education TA #7"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1043,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-06",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara County Office of Education TA #6"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1044,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-08",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "San Benito County Bd Of Ed - TA #1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1045,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-09",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Stanislaus County Bd Of Ed - TA #5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 31,
+  "szDistrictTypeOfficialDesc": "Water District",
+  "lDistrictHndl": 1047,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-1",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Aldercroft Heights County Water District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 23,
+  "szDistrictTypeOfficialDesc": "Sanitation District",
+  "lDistrictHndl": 1048,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-2",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Burbank Sanitary District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 23,
+  "szDistrictTypeOfficialDesc": "Sanitation District",
+  "lDistrictHndl": 1049,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-3",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Cupertino Sanitary District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 23,
+  "szDistrictTypeOfficialDesc": "Sanitation District",
+  "lDistrictHndl": 1050,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-4",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "West Bay Sanitary District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1056,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-601",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5001"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1060,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-605",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5005"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 31,
+  "szDistrictTypeOfficialDesc": "Water District",
+  "lDistrictHndl": 1051,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-5",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Purissima Hills Water District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 17,
+  "szDistrictTypeOfficialDesc": "Fire District",
+  "lDistrictHndl": 1052,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-6",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Saratoga Fire Protection District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 20,
+  "szDistrictTypeOfficialDesc": "Memorial District",
+  "lDistrictHndl": 1053,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-7",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "South Santa Clara Valley Memorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 23,
+  "szDistrictTypeOfficialDesc": "Sanitation District",
+  "lDistrictHndl": 1054,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-8",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Sunol Sanitary District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 34,
+  "szDistrictTypeOfficialDesc": "Country Club",
+  "lDistrictHndl": 1055,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "UDEL-9",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "GHAD- Silver Creek Country Club"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1064,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-609",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5009.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1065,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-610",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5010"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1066,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-611",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5011.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1067,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-612",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5011.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1068,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-613",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5012"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1069,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-614",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5013"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1070,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-615",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5014.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1071,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-616",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5014.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1072,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-617",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5015.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1073,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-618",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5015.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1074,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-619",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5016"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1075,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-620",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5017"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1076,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-621",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5018"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1077,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-622",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5019"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1078,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-623",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5020.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1079,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-624",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5020.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1080,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-625",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5021.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1081,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-626",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5021.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1082,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-627",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5022.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1083,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-628",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5022.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1084,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-629",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5023.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1085,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-630",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5023.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1086,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-631",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5024"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1087,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-632",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5025"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1088,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-633",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5026.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1089,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-634",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5026.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1090,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-635",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5026.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1091,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-636",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5027.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1092,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-637",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5027.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1093,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-638",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5028"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1094,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-639",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1095,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-640",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1096,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-641",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1097,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-642",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1098,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-643",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1099,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-644",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1100,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-645",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1101,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-646",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5029.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1102,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-647",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5030.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1103,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-648",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5030.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1104,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-649",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5030.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1105,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-650",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1106,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-651",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1107,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-652",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1108,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-653",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1109,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-654",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.12"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1110,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-655",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.13"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1111,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-656",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.15"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1112,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-657",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.16"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1113,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-658",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.17"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1114,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-659",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.18"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1115,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-660",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.21"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1116,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-661",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.22"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1117,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-662",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5031.23"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1118,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-663",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1122,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-667",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1120,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-665",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1121,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-666",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1123,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-668",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.12"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1124,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-669",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.13"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1125,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-670",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.14"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1126,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-671",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.17"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1127,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-672",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.18"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1128,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-673",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1129,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-674",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1130,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-675",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1131,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-676",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.12"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1132,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-677",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.13"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1133,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-678",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.15"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1134,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-679",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.21"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1135,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-680",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.22"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1136,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-681",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.23"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1137,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-682",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.24"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1138,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-683",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.25"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1139,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-684",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.26"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1119,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-664",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5032.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1140,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-685",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.27"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1141,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-686",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.29"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1142,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-687",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.30"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1143,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-688",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.31"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1144,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-689",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.32"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1145,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-690",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.33"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1146,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-691",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.34"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1147,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-692",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.36"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1148,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-693",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5033.37"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1149,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-694",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5034.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1150,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-695",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5034.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1151,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-696",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5035.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1152,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-697",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5035.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1153,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-698",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5035.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1154,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-699",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5035.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1155,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-700",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5035.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1156,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-701",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5035.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1157,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-702",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5035.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1158,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-703",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5036.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1159,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-704",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5036.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1160,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-705",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1161,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-706",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1162,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-707",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1163,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-708",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1164,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-709",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1165,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-710",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1166,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-711",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.12"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1167,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-712",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5037.13"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1168,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-713",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5038.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1169,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-714",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5038.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1170,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-715",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5038.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1171,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-716",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5039.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1172,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-717",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5039.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1173,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-718",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5040.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1174,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-719",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5040.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1175,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-720",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5041.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1176,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-721",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5041.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1177,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-722",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5042.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1178,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-723",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5042.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1179,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-724",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1180,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-725",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1181,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-726",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1182,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-727",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.14"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1183,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-728",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.15"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1184,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-729",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.16"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1185,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-730",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.17"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1186,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-731",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.18"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1187,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-732",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.19"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1188,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-733",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.20"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1189,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-734",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.21"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1190,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-735",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.22"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1191,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-736",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5043.23"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1192,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-737",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1193,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-738",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1194,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-739",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.12"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1195,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-740",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.13"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1196,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-741",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.14"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1197,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-742",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.15"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1198,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-743",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.16"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1199,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-744",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.17"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1200,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-745",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.18"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1201,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-746",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.20"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1202,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-747",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.21"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1203,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-748",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.22"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1204,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-749",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5044.23"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1205,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-750",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5045.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1206,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-751",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5045.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1207,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-752",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5045.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1208,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-753",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5045.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1209,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-754",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5046.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1210,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-755",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5046.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1211,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-756",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5047"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1212,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-757",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5048.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1213,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-758",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5048.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1214,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-759",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5048.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1215,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-760",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5048.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1216,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-761",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5049.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1217,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-762",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5050.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1218,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-763",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5050.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1219,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-764",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5050.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1220,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-765",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5050.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1221,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-766",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5050.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1222,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-767",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5051"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1223,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-768",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5052.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1224,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-769",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5052.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1225,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-770",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5053.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1226,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-771",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5053.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1227,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-772",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5053.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1228,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-773",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5053.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1229,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-774",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5053.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1230,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-775",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5054.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1231,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-776",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5054.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1232,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-777",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5054.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1233,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-778",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5055"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 10,
+  "szDistrictTypeOfficialDesc": "County Board of Education",
+  "lDistrictHndl": 1046,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SUT-10",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "SCC Board of Education- Transfer of Territory"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1234,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-779",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5056"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1235,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-780",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5057"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1236,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-781",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5058"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1237,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-782",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5059"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1238,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-783",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5060"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1239,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-784",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5061.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1240,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-785",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5061.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1241,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-786",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5061.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1242,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-787",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5062.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1243,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-788",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5062.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1244,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-789",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5062.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1245,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-790",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5063.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1246,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-791",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5063.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1247,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-792",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5063.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1248,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-793",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5063.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1249,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-794",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5064.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1250,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-795",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5064.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1251,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-796",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5065.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1252,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-797",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5065.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1253,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-798",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5065.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1254,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-799",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5066.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1255,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-800",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5066.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1256,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-801",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5066.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1257,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-802",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5066.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1258,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-803",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5066.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1259,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-804",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5067.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1260,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-805",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5067.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1261,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-806",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5067.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1262,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-807",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5068.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1263,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-808",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5068.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1264,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-809",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5068.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1265,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-810",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5068.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1266,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-811",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5069"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1267,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-812",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5070.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1268,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-813",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5070.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1269,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-814",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5071"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1270,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-815",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5072.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1271,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-816",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5072.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1272,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-817",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5072.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1273,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-818",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5073.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1274,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-819",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5073.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1275,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-820",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5074.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1276,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-821",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5074.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1277,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-822",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5075"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1278,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-823",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5076"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1280,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-825",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5077.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1281,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-826",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5077.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1282,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-827",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5078.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1283,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-828",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5078.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1284,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-829",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5078.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1285,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-830",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5078.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1286,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-831",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5079.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1287,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-832",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5079.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1288,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-833",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5079.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1289,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-834",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5079.06"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1290,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-835",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5080.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1291,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-836",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5080.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1292,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-837",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5080.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1293,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-838",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5081.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1294,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-839",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5081.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1295,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-840",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5082.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1296,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-841",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5082.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1297,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-842",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5082.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1298,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-843",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5083.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1299,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-844",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5083.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1300,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-845",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5083.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1301,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-846",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5084.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1302,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-847",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5084.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1303,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-848",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5084.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1304,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-849",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5085.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1305,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-850",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5085.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1306,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-851",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5085.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1307,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-852",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5085.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1308,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-853",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5085.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1309,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-854",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5086.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1310,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-855",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5086.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1311,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-856",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5087.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1312,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-857",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5087.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1313,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-858",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5088"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1314,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-859",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5089"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1315,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-860",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5090"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1394,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-939",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.36"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1395,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-940",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.37"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1396,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-941",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.38"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1057,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-602",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5002"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1058,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-603",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5003"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1059,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-604",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5004"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1061,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-606",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5006"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1062,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-607",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5008"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1063,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-608",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5009.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 934,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Santa Clara Valley Water District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 1461,
+  "lParentDistHndl": 934,
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "Santa Clara Valley Water District - Dist 3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 1462,
+  "lParentDistHndl": 934,
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "Santa Clara Valley Water District - Dist 4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 1463,
+  "lParentDistHndl": 934,
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "Santa Clara Valley Water District - Dist 5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 1464,
+  "lParentDistHndl": 934,
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 6,
+  "szElecDistrictName": "Santa Clara Valley Water District - Dist 6"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 46,
+  "szDistrictTypeOfficialDesc": "Santa Clara Valley Water Dist",
+  "lDistrictHndl": 1465,
+  "lParentDistHndl": 934,
+  "sElecDistrictID": "PK05",
+  "iElecSubDistrict": 7,
+  "szElecDistrictName": "Santa Clara Valley Water District - Dist 7"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 5,
+  "szDistrictTypeOfficialDesc": "County Supervisor",
+  "lDistrictHndl": 1427,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "*405",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "5th Supervisorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1428,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-942",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.39"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1429,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-943",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.42"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1430,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-944",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.43"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1431,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-945",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.45"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 4,
+  "szDistrictTypeOfficialDesc": "Member of the State Assembly",
+  "lDistrictHndl": 1397,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SA024",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "24th Assembly District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 4,
+  "szDistrictTypeOfficialDesc": "Member of the State Assembly",
+  "lDistrictHndl": 1398,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SA025",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "25th Assembly District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 4,
+  "szDistrictTypeOfficialDesc": "Member of the State Assembly",
+  "lDistrictHndl": 1399,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SA027",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "27th Assembly District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1432,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-946",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.47"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1433,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-947",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.52"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 4,
+  "szDistrictTypeOfficialDesc": "Member of the State Assembly",
+  "lDistrictHndl": 1400,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SA028",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "28th Assembly District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 4,
+  "szDistrictTypeOfficialDesc": "Member of the State Assembly",
+  "lDistrictHndl": 1401,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SA029",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "29th Assembly District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 4,
+  "szDistrictTypeOfficialDesc": "Member of the State Assembly",
+  "lDistrictHndl": 1402,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SA030",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "30th Assembly District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 3,
+  "szDistrictTypeOfficialDesc": "State Senator",
+  "lDistrictHndl": 1403,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SS010",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "10th Senatorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 3,
+  "szDistrictTypeOfficialDesc": "State Senator",
+  "lDistrictHndl": 1404,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SS013",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "13th Senatorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 2,
+  "szDistrictTypeOfficialDesc": "Congressional District",
+  "lDistrictHndl": 1407,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "CG017",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "17th Congressional District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 2,
+  "szDistrictTypeOfficialDesc": "Congressional District",
+  "lDistrictHndl": 1408,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "CG018",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "18th Congressional District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 25,
+  "szDistrictTypeOfficialDesc": "Special Annexation Election District",
+  "lDistrictHndl": 959,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK18",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Lion's Gate Community Services District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 47,
+  "szDistrictTypeOfficialDesc": "Community Facilities District",
+  "lDistrictHndl": 1479,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK-26",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "City of Campbell Community Facilities District No. 1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 47,
+  "szDistrictTypeOfficialDesc": "Community Facilities District",
+  "lDistrictHndl": 920,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "PK-25",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "Community Facilities District No. 2011-1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 2,
+  "szDistrictTypeOfficialDesc": "Congressional District",
+  "lDistrictHndl": 1409,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "CG019",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "19th Congressional District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 2,
+  "szDistrictTypeOfficialDesc": "Congressional District",
+  "lDistrictHndl": 1410,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "CG020",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "20th Congressional District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1413,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "San Jose-Council District 1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1414,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "San Jose-Council District 2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1415,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "San Jose-Council District 3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 6,
+  "szDistrictTypeOfficialDesc": "City",
+  "lDistrictHndl": 1416,
+  "lParentDistHndl": 902,
+  "sElecDistrictID": "*520",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "San Jose-Council District 4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 3,
+  "szDistrictTypeOfficialDesc": "State Senator",
+  "lDistrictHndl": 1405,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SS015",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "15th Senatorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 3,
+  "szDistrictTypeOfficialDesc": "State Senator",
+  "lDistrictHndl": 1406,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "SS017",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "17th Senatorial District"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1444,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-958",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.13"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1445,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-959",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.14"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1446,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-960",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5124.01"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1447,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-961",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5124.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1448,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-962",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5125.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1449,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-963",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5125.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1467,
+  "lParentDistHndl": 1466,
+  "sElecDistrictID": "SUS-L",
+  "iElecSubDistrict": 1,
+  "szElecDistrictName": "Oak Grove School District TA #1"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1468,
+  "lParentDistHndl": 1466,
+  "sElecDistrictID": "SUS-L",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "Oak Grove School District TA #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1469,
+  "lParentDistHndl": 1466,
+  "sElecDistrictID": "SUS-L",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "Oak Grove School District TA #3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1470,
+  "lParentDistHndl": 1466,
+  "sElecDistrictID": "SUS-L",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "Oak Grove School District TA #4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 14,
+  "szDistrictTypeOfficialDesc": "Elementary School District",
+  "lDistrictHndl": 1471,
+  "lParentDistHndl": 1466,
+  "sElecDistrictID": "SUS-L",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "Oak Grove School District TA #5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 1473,
+  "lParentDistHndl": 980,
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 2,
+  "szElecDistrictName": "West Valley-Mission CCD TA #2"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 1474,
+  "lParentDistHndl": 980,
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 3,
+  "szElecDistrictName": "West Valley-Mission CCD TA #3"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 1475,
+  "lParentDistHndl": 980,
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 4,
+  "szElecDistrictName": "West Valley-Mission CCD TA #4"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 1476,
+  "lParentDistHndl": 980,
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 5,
+  "szElecDistrictName": "West Valley-Mission CCD TA #5"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 1477,
+  "lParentDistHndl": 980,
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 6,
+  "szElecDistrictName": "West Valley-Mission CCD TA #6"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 11,
+  "szDistrictTypeOfficialDesc": "Community College",
+  "lDistrictHndl": 1478,
+  "lParentDistHndl": 980,
+  "sElecDistrictID": "SCC-4",
+  "iElecSubDistrict": 7,
+  "szElecDistrictName": "West Valley-Mission CCD TA #7"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1434,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-948",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5120.53"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1435,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-949",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5121"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1436,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-950",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5122"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1437,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-951",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.05"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1438,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-952",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.07"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1439,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-953",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.08"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1440,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-954",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.09"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1441,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-955",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1442,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-956",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.11"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1443,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-957",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5123.12"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1453,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-967",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5125.10"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1454,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-968",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5126.02"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1455,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-969",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5126.03"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1456,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-970",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5126.04"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1457,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-971",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5130"
+ },
+ {
+  "sElectionAbbr": "2014June3 ",
+  "lDistTypeHndl": 42,
+  "szDistrictTypeOfficialDesc": "Census Tract District (2010)",
+  "lDistrictHndl": 1458,
+  "lParentDistHndl": "",
+  "sElecDistrictID": "ZT-972",
+  "iElecSubDistrict": 0,
+  "szElecDistrictName": "2010 CT - 5135"
+ },
+ {
+  "sElectionAbbr": ""
+ }
+]

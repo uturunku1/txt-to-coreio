@@ -1,0 +1,546 @@
+sElectionAbbr	lDistTypeHndl	szDistrictTypeOfficialDesc	lDistrictHndl	lParentDistHndl	sElecDistrictID	iElecSubDistrict	szElecDistrictName
+2014June3 	35	County	882		*0	0	County of Santa Clara
+2014June3 	8	Board of Equalization (State)	985		SE002	0	State Board Of Equalization #2
+2014June3 	46	Santa Clara Valley Water Dist	1459	934	PK05	1	Santa Clara Valley Water District - Dist 1
+2014June3 	46	Santa Clara Valley Water Dist	1460	934	PK05	2	Santa Clara Valley Water District - Dist 2
+2014June3 	42	Census Tract District (2010)	1316		ZT-861	0	2010 CT - 5091.02
+2014June3 	42	Census Tract District (2010)	1317		ZT-862	0	2010 CT - 5091.05
+2014June3 	42	Census Tract District (2010)	1318		ZT-863	0	2010 CT - 5091.06
+2014June3 	42	Census Tract District (2010)	1319		ZT-864	0	2010 CT - 5091.07
+2014June3 	42	Census Tract District (2010)	1320		ZT-865	0	2010 CT - 5091.08
+2014June3 	42	Census Tract District (2010)	1321		ZT-866	0	2010 CT - 5091.09
+2014June3 	42	Census Tract District (2010)	1322		ZT-867	0	2010 CT - 5092.01
+2014June3 	42	Census Tract District (2010)	1323		ZT-868	0	2010 CT - 5092.02
+2014June3 	42	Census Tract District (2010)	1324		ZT-869	0	2010 CT - 5093.02
+2014June3 	42	Census Tract District (2010)	1325		ZT-870	0	2010 CT - 5093.03
+2014June3 	42	Census Tract District (2010)	1326		ZT-871	0	2010 CT - 5093.04
+2014June3 	42	Census Tract District (2010)	1327		ZT-872	0	2010 CT - 5094.01
+2014June3 	42	Census Tract District (2010)	1328		ZT-873	0	2010 CT - 5094.03
+2014June3 	42	Census Tract District (2010)	1329		ZT-874	0	2010 CT - 5094.04
+2014June3 	42	Census Tract District (2010)	1330		ZT-875	0	2010 CT - 5095
+2014June3 	42	Census Tract District (2010)	1331		ZT-876	0	2010 CT - 5096
+2014June3 	42	Census Tract District (2010)	1332		ZT-877	0	2010 CT - 5097
+2014June3 	42	Census Tract District (2010)	1333		ZT-878	0	2010 CT - 5098.01
+2014June3 	42	Census Tract District (2010)	1334		ZT-879	0	2010 CT - 5098.02
+2014June3 	42	Census Tract District (2010)	1335		ZT-880	0	2010 CT - 5099.01
+2014June3 	42	Census Tract District (2010)	1336		ZT-881	0	2010 CT - 5099.02
+2014June3 	42	Census Tract District (2010)	1337		ZT-882	0	2010 CT - 5100.01
+2014June3 	42	Census Tract District (2010)	1338		ZT-883	0	2010 CT - 5100.02
+2014June3 	42	Census Tract District (2010)	1339		ZT-884	0	2010 CT - 5101
+2014June3 	42	Census Tract District (2010)	1340		ZT-885	0	2010 CT - 5102
+2014June3 	42	Census Tract District (2010)	1341		ZT-886	0	2010 CT - 5103
+2014June3 	42	Census Tract District (2010)	1342		ZT-887	0	2010 CT - 5104
+2014June3 	42	Census Tract District (2010)	1343		ZT-888	0	2010 CT - 5105
+2014June3 	42	Census Tract District (2010)	1344		ZT-889	0	2010 CT - 5106
+2014June3 	42	Census Tract District (2010)	1345		ZT-890	0	2010 CT - 5107
+2014June3 	42	Census Tract District (2010)	1346		ZT-891	0	2010 CT - 5108.01
+2014June3 	42	Census Tract District (2010)	1347		ZT-892	0	2010 CT - 5108.02
+2014June3 	42	Census Tract District (2010)	1348		ZT-893	0	2010 CT - 5108.03
+2014June3 	42	Census Tract District (2010)	1349		ZT-894	0	2010 CT - 5109
+2014June3 	42	Census Tract District (2010)	1350		ZT-895	0	2010 CT - 5110
+2014June3 	42	Census Tract District (2010)	1351		ZT-896	0	2010 CT -  5111
+2014June3 	42	Census Tract District (2010)	1352		ZT-897	0	2010 CT - 5112
+2014June3 	42	Census Tract District (2010)	1353		ZT-898	0	2010 CT - 5113.01
+2014June3 	42	Census Tract District (2010)	1354		ZT-899	0	2010 CT - 5113.02
+2014June3 	42	Census Tract District (2010)	1355		ZT-900	0	2010 CT - 5114
+2014June3 	42	Census Tract District (2010)	1356		ZT-901	0	2010 CT - 5115
+2014June3 	42	Census Tract District (2010)	1357		ZT-902	0	2010 CT - 5116.08
+2014June3 	42	Census Tract District (2010)	1358		ZT-903	0	2010 CT - 5116.09
+2014June3 	42	Census Tract District (2010)	1359		ZT-904	0	2010 CT - 5117.01
+2014June3 	42	Census Tract District (2010)	1360		ZT-905	0	2010 CT - 5117.02
+2014June3 	42	Census Tract District (2010)	1361		ZT-906	0	2010 CT - 5117.04
+2014June3 	42	Census Tract District (2010)	1362		ZT-907	0	2010 CT - 5117.05
+2014June3 	42	Census Tract District (2010)	1363		ZT-908	0	2010 CT - 5117.07
+2014June3 	42	Census Tract District (2010)	1364		ZT-909	0	2010 CT - 5118
+2014June3 	42	Census Tract District (2010)	1365		ZT-910	0	2010 CT - 5119.05
+2014June3 	42	Census Tract District (2010)	1366		ZT-911	0	2010 CT - 5119.07
+2014June3 	42	Census Tract District (2010)	1367		ZT-912	0	2010 CT - 5119.09
+2014June3 	42	Census Tract District (2010)	1368		ZT-913	0	2010 CT - 5119.10
+2014June3 	42	Census Tract District (2010)	1369		ZT-914	0	2010 CT - 5119.11
+2014June3 	42	Census Tract District (2010)	1370		ZT-915	0	2010 CT - 5119.12
+2014June3 	42	Census Tract District (2010)	1371		ZT-916	0	2010 CT - 5119.13
+2014June3 	42	Census Tract District (2010)	1372		ZT-917	0	2010 CT - 5119.14
+2014June3 	42	Census Tract District (2010)	1373		ZT-918	0	2010 CT - 5119.15
+2014June3 	42	Census Tract District (2010)	1374		ZT-919	0	2010 CT - 5119.16
+2014June3 	42	Census Tract District (2010)	1375		ZT-920	0	2010 CT - 5120.01
+2014June3 	42	Census Tract District (2010)	1376		ZT-921	0	2010 CT - 5120.05
+2014June3 	42	Census Tract District (2010)	1377		ZT-922	0	2010 CT - 5120.17
+2014June3 	42	Census Tract District (2010)	1378		ZT-923	0	2010 CT - 5120.19
+2014June3 	42	Census Tract District (2010)	1379		ZT-924	0	2010 CT - 5120.20
+2014June3 	42	Census Tract District (2010)	1380		ZT-925	0	2010 CT - 5120.21
+2014June3 	42	Census Tract District (2010)	1381		ZT-926	0	2010 CT - 5120.22
+2014June3 	42	Census Tract District (2010)	1382		ZT-927	0	2010 CT - 5120.23
+2014June3 	42	Census Tract District (2010)	1383		ZT-928	0	2010 CT - 5120.24
+2014June3 	42	Census Tract District (2010)	1384		ZT-929	0	2010 CT - 5120.25
+2014June3 	42	Census Tract District (2010)	1385		ZT-930	0	2010 CT - 5120.26
+2014June3 	42	Census Tract District (2010)	1386		ZT-931	0	2010 CT - 5120.27
+2014June3 	42	Census Tract District (2010)	1387		ZT-932	0	2010 CT - 5120.29
+2014June3 	42	Census Tract District (2010)	1388		ZT-933	0	2010 CT - 5120.30
+2014June3 	42	Census Tract District (2010)	1389		ZT-934	0	2010 CT - 5120.31
+2014June3 	42	Census Tract District (2010)	1390		ZT-935	0	2010 CT - 5120.32
+2014June3 	42	Census Tract District (2010)	1391		ZT-936	0	2010 CT - 5120.33
+2014June3 	42	Census Tract District (2010)	1392		ZT-937	0	2010 CT - 5120.34
+2014June3 	42	Census Tract District (2010)	1393		ZT-938	0	2010 CT - 5120.35
+2014June3 	42	Census Tract District (2010)	1450		ZT-964	0	2010 CT - 5125.06
+2014June3 	42	Census Tract District (2010)	1451		ZT-965	0	2010 CT - 5125.08
+2014June3 	42	Census Tract District (2010)	1452		ZT-966	0	2010 CT - 5125.09
+2014June3 	6	City	888		*502	0	City of Campbell
+2014June3 	6	City	889		*503	0	City of Cupertino
+2014June3 	6	City	890		*504	0	City of Gilroy
+2014June3 	6	City	891		*505	0	City of Los Altos
+2014June3 	6	City	892		*506	0	Town of Los Altos Hills
+2014June3 	6	City	893		*507	0	Town of Los Gatos
+2014June3 	6	City	894		*508	0	City of Milpitas
+2014June3 	6	City	895		*509	0	City of Monte Sereno
+2014June3 	6	City	896		*510	0	City of Morgan Hill
+2014June3 	6	City	897		*511	0	City of Mountain View
+2014June3 	6	City	898		*512	0	City of Palo Alto
+2014June3 	6	City	899		*513	0	City of Santa Clara
+2014June3 	6	City	900		*514	0	City of Saratoga
+2014June3 	6	City	901		*515	0	City of Sunnyvale
+2014June3 	6	City	902		*520	0	City of San Jose
+2014June3 	6	City	1417	902	*520	5	San Jose-Council District 5
+2014June3 	6	City	1418	902	*520	6	San Jose-Council District 6
+2014June3 	6	City	1419	902	*520	7	San Jose-Council District 7
+2014June3 	42	Census Tract District (2010)	1279		ZT-824	0	2010 CT - 5077.01
+2014June3 	6	City	1420	902	*520	8	San Jose-Council District 8
+2014June3 	6	City	1421	902	*520	9	San Jose-Council District 9
+2014June3 	6	City	1422	902	*520	10	San Jose-Council District 10
+2014June3 	5	County Supervisor	1423		*401	0	1st Supervisorial District
+2014June3 	5	County Supervisor	1424		*402	0	2nd Supervisorial District
+2014June3 	5	County Supervisor	1425		*403	0	3rd Supervisorial District
+2014June3 	5	County Supervisor	1426		*404	0	4th Supervisorial District
+2014June3 	6	City	913		*599  	0	Unincorporated Area
+2014June3 	6	City	914		*601	0	Stanford
+2014June3 	18	Hospital District	919		HOSP01	0	El Camino Healthcare District
+2014June3 	29	Open Space District	921		PK01	0	Mid-Peninsula Regional Open Space District
+2014June3 	29	Open Space District	922	921	PK01	1	Mid-Peninsula Regional Open Space Dist-Ward 1
+2014June3 	29	Open Space District	923	921	PK01	2	Mid-Peninsula Regional Open Space Dist-Ward 2
+2014June3 	29	Open Space District	924	921	PK01	3	Mid-Peninsula Regional Open Space Dist-Ward 3
+2014June3 	29	Open Space District	925	921	PK01	4	Mid-Peninsula Regional Open Space Dist-Ward 4
+2014June3 	29	Open Space District	926	921	PK01	5	Mid-Peninsula Regional Open Space Dist-Ward 5
+2014June3 	33	Recreation & Park District	927		PK02	0	Rancho Rinconada
+2014June3 	32	Road Maintenance District	933		PK04	0	Overlook Road Maintenance District
+2014June3 	30	Flood District	942		PK06	0	San Martin County Water District
+2014June3 	22	Resource District	943		PK07	0	Guadalupe-Coyote Resource Conservation District
+2014June3 	22	Resource District	944		PK08	0	Loma Prieta Resource District
+2014June3 	29	Open Space District	945		PK09	0	Santa Clara County Open Space Authority
+2014June3 	29	Open Space District	946	945	PK09	1	Santa Clara County Open Space Authority Dist- 1
+2014June3 	29	Open Space District	947	945	PK09	2	Santa Clara County Open Space Authority Dist- 2
+2014June3 	29	Open Space District	948	945	PK09	3	Santa Clara County Open Space Authority Dist- 3
+2014June3 	29	Open Space District	949	945	PK09	4	Santa Clara County Open Space Authority Dist- 4
+2014June3 	29	Open Space District	950	945	PK09	5	Santa Clara County Open Space Authority Dist- 5
+2014June3 	29	Open Space District	951	945	PK09	6	Santa Clara County Open Space Authority Dist- 6
+2014June3 	29	Open Space District	952	945	PK09	7	Santa Clara County Open Space Authority Dist- 7
+2014June3 	28	Library District	953		PK10	0	North County Library Authority
+2014June3 	28	Library District	954		PK11	0	Santa Clara County Library District Joint Powers Authority
+2014June3 	24	Storm Water District	955		PK12	0	Pacheco Storm Water District
+2014June3 	31	Water District	956		PK13	0	Pacheco Pass Water District
+2014June3 	32	Road Maintenance District	957		PK15	0	Casa Loma-Loma Chiquita Road Maintenance District
+2014June3 	11	Community College	967		SCC-1	0	Foothill-De Anza CCD
+2014June3 	11	Community College	968		SCC-2	0	Gavilan CCD
+2014June3 	11	Community College	969	968	SCC-2	1	Gavilan CCD TA #1
+2014June3 	11	Community College	970	968	SCC-2	2	Gavilan CCD TA #2
+2014June3 	11	Community College	971	968	SCC-2	3	Gavilan CCD TA #3
+2014June3 	11	Community College	972		SCC-3	0	San Jose/Evergreen CCD
+2014June3 	11	Community College	973	972	SCC-3	1	San Jose/Evergreen  CCD TA #1
+2014June3 	11	Community College	974	972	SCC-3	2	San Jose/Evergreen CCD TA #2
+2014June3 	11	Community College	975	972	SCC-3	3	San Jose/Evergreen CCD TA #3
+2014June3 	11	Community College	976	972	SCC-3	4	San Jose/Evergreen CCD TA #4
+2014June3 	11	Community College	977	972	SCC-3	5	San Jose/Evergreen CCD TA #5
+2014June3 	11	Community College	978	972	SCC-3	6	San Jose/Evergreen CCD TA #6
+2014June3 	11	Community College	979	972	SCC-3	7	San Jose/Evergreen CCD TA #7
+2014June3 	11	Community College	980		SCC-4	0	West Valley-Mission CCD
+2014June3 	11	Community College	1472	980	SCC-4	1	West Valley-Mission CCD TA #1
+2014June3 	28	Library District	1480		PK14	0	Library Joint Powers Authority of Santa Clara County Community Facilities District No. 2013-1
+2014June3 	11	Community College	984		SCC-5	0	Yosemite CCD TA #4
+2014June3 	13	High School District	986		SHS-1	0	Campbell Union High SD
+2014June3 	13	High School District	987		SHS-2	0	East Side Union High SD
+2014June3 	13	High School District	988		SHS-3	0	Fremont Union High SD
+2014June3 	13	High School District	989		SHS-6	0	Los Gatos-Saratoga Joint Union High SD
+2014June3 	13	High School District	990		SHS-7	0	Mountain View-Los Altos Union High School District
+2014June3 	13	High School District	991		SHS-8	0	San Benito High SD
+2014June3 	12	Unified School District	996		SUS-1	0	Gilroy Unified SD
+2014June3 	12	Unified School District	997		SUS-2	0	Morgan Hill Unified SD
+2014June3 	12	Unified School District	998		SUS-3	0	Santa Clara Unified SD
+2014June3 	12	Unified School District	999	998	SUS-3	1	Santa Clara Unified SD TA  #1   (Alviso)
+2014June3 	12	Unified School District	1000	998	SUS-3	2	Santa Clara Unified SD TA  #2  (Jefferson)
+2014June3 	12	Unified School District	1001	998	SUS-3	3	Santa Clara Unified SD TA  #3    (Santa Clara)
+2014June3 	12	Unified School District	1002		SUS-4	0	Palo Alto Unified SD
+2014June3 	12	Unified School District	1003		SUS-5	0	San Jose Unified SD
+2014June3 	12	Unified School District	1004	1003	SUS-5	1	San Jose Unified SD TA #1
+2014June3 	12	Unified School District	1005	1003	SUS-5	2	San Jose Unified SD TA #2
+2014June3 	12	Unified School District	1006	1003	SUS-5	3	San Jose Unified SD TA #3
+2014June3 	12	Unified School District	1007	1003	SUS-5	4	San Jose Unified SD TA #4
+2014June3 	12	Unified School District	1008	1003	SUS-5	5	San Jose Unified SD TA #5
+2014June3 	12	Unified School District	1009		SUS-6	0	Milpitas Unified School District
+2014June3 	14	Elementary School District	1010		SUS-7	0	Mountain View Whisman School District
+2014June3 	14	Elementary School District	1011		SUS-A	0	Alum Rock Union  School District
+2014June3 	14	Elementary School District	1012		SUS-B	0	Berryessa Union School District
+2014June3 	14	Elementary School District	1013		SUS-C	0	Cambrian School District
+2014June3 	14	Elementary School District	1014		SUS-D	0	Campbell Union School District
+2014June3 	14	Elementary School District	1015		SUS-E	0	Cupertino Union School District
+2014June3 	14	Elementary School District	1016		SUS-F	0	Evergreen School District
+2014June3 	14	Elementary School District	1017		SUS-G	0	Franklin-McKinley School District
+2014June3 	12	Unified School District	1018		SUS-H	0	Patterson Joint Unified SD - TA #2
+2014June3 	14	Elementary School District	1019		SUS-K	0	North County Joint Union School District
+2014June3 	14	Elementary School District	1466		SUS-L	0	Oak Grove School District
+2014June3 	14	Elementary School District	1026		SUS-M	0	Orchard School District
+2014June3 	14	Elementary School District	1027		SUS-N	0	Lakeside Joint School District
+2014June3 	14	Elementary School District	1028		SUS-P	0	Loma Prieta Joint Union School District
+2014June3 	14	Elementary School District	1029		SUS-Q	0	Los Altos School District
+2014June3 	14	Elementary School District	1030		SUS-R	0	Los Gatos Union School District
+2014June3 	14	Elementary School District	1031		SUS-S	0	Luther Burbank School District
+2014June3 	14	Elementary School District	1032		SUS-U	0	Moreland School District
+2014June3 	14	Elementary School District	1033		SUS-V	0	Mount Pleasant School District
+2014June3 	14	Elementary School District	1034		SUS-W	0	Saratoga Union School District
+2014June3 	14	Elementary School District	1035		SUS-X	0	Sunnyvale School District
+2014June3 	14	Elementary School District	1036		SUS-Y	0	Union School District
+2014June3 	10	County Board of Education	1037		SUT-01	0	Santa Clara County Office of Education TA #1
+2014June3 	10	County Board of Education	1038		SUT-02	0	Santa Clara County Office of Education TA #2
+2014June3 	10	County Board of Education	1039		SUT-03	0	Santa Clara County Office of Education TA #3
+2014June3 	10	County Board of Education	1040		SUT-04	0	Santa Clara County Office of Education TA #4
+2014June3 	10	County Board of Education	1041		SUT-05	0	Santa Clara County Office of Education TA #5
+2014June3 	10	County Board of Education	1042		SUT-07	0	Santa Clara County Office of Education TA #7
+2014June3 	10	County Board of Education	1043		SUT-06	0	Santa Clara County Office of Education TA #6
+2014June3 	10	County Board of Education	1044		SUT-08	0	San Benito County Bd Of Ed - TA #1
+2014June3 	10	County Board of Education	1045		SUT-09	0	Stanislaus County Bd Of Ed - TA #5
+2014June3 	31	Water District	1047		UDEL-1	0	Aldercroft Heights County Water District
+2014June3 	23	Sanitation District	1048		UDEL-2	0	Burbank Sanitary District
+2014June3 	23	Sanitation District	1049		UDEL-3	0	Cupertino Sanitary District
+2014June3 	23	Sanitation District	1050		UDEL-4	0	West Bay Sanitary District
+2014June3 	42	Census Tract District (2010)	1056		ZT-601	0	2010 CT - 5001
+2014June3 	42	Census Tract District (2010)	1060		ZT-605	0	2010 CT - 5005
+2014June3 	31	Water District	1051		UDEL-5	0	Purissima Hills Water District
+2014June3 	17	Fire District	1052		UDEL-6	0	Saratoga Fire Protection District
+2014June3 	20	Memorial District	1053		UDEL-7	0	South Santa Clara Valley Memorial District
+2014June3 	23	Sanitation District	1054		UDEL-8	0	Sunol Sanitary District
+2014June3 	34	Country Club	1055		UDEL-9	0	GHAD- Silver Creek Country Club
+2014June3 	42	Census Tract District (2010)	1064		ZT-609	0	2010 CT - 5009.02
+2014June3 	42	Census Tract District (2010)	1065		ZT-610	0	2010 CT - 5010
+2014June3 	42	Census Tract District (2010)	1066		ZT-611	0	2010 CT - 5011.01
+2014June3 	42	Census Tract District (2010)	1067		ZT-612	0	2010 CT - 5011.02
+2014June3 	42	Census Tract District (2010)	1068		ZT-613	0	2010 CT - 5012
+2014June3 	42	Census Tract District (2010)	1069		ZT-614	0	2010 CT - 5013
+2014June3 	42	Census Tract District (2010)	1070		ZT-615	0	2010 CT - 5014.01
+2014June3 	42	Census Tract District (2010)	1071		ZT-616	0	2010 CT - 5014.02
+2014June3 	42	Census Tract District (2010)	1072		ZT-617	0	2010 CT - 5015.01
+2014June3 	42	Census Tract District (2010)	1073		ZT-618	0	2010 CT - 5015.02
+2014June3 	42	Census Tract District (2010)	1074		ZT-619	0	2010 CT - 5016
+2014June3 	42	Census Tract District (2010)	1075		ZT-620	0	2010 CT - 5017
+2014June3 	42	Census Tract District (2010)	1076		ZT-621	0	2010 CT - 5018
+2014June3 	42	Census Tract District (2010)	1077		ZT-622	0	2010 CT - 5019
+2014June3 	42	Census Tract District (2010)	1078		ZT-623	0	2010 CT - 5020.01
+2014June3 	42	Census Tract District (2010)	1079		ZT-624	0	2010 CT - 5020.02
+2014June3 	42	Census Tract District (2010)	1080		ZT-625	0	2010 CT - 5021.01
+2014June3 	42	Census Tract District (2010)	1081		ZT-626	0	2010 CT - 5021.02
+2014June3 	42	Census Tract District (2010)	1082		ZT-627	0	2010 CT - 5022.01
+2014June3 	42	Census Tract District (2010)	1083		ZT-628	0	2010 CT - 5022.02
+2014June3 	42	Census Tract District (2010)	1084		ZT-629	0	2010 CT - 5023.01
+2014June3 	42	Census Tract District (2010)	1085		ZT-630	0	2010 CT - 5023.02
+2014June3 	42	Census Tract District (2010)	1086		ZT-631	0	2010 CT - 5024
+2014June3 	42	Census Tract District (2010)	1087		ZT-632	0	2010 CT - 5025
+2014June3 	42	Census Tract District (2010)	1088		ZT-633	0	2010 CT - 5026.01
+2014June3 	42	Census Tract District (2010)	1089		ZT-634	0	2010 CT - 5026.03
+2014June3 	42	Census Tract District (2010)	1090		ZT-635	0	2010 CT - 5026.04
+2014June3 	42	Census Tract District (2010)	1091		ZT-636	0	2010 CT - 5027.01
+2014June3 	42	Census Tract District (2010)	1092		ZT-637	0	2010 CT - 5027.02
+2014June3 	42	Census Tract District (2010)	1093		ZT-638	0	2010 CT - 5028
+2014June3 	42	Census Tract District (2010)	1094		ZT-639	0	2010 CT - 5029.01
+2014June3 	42	Census Tract District (2010)	1095		ZT-640	0	2010 CT - 5029.02
+2014June3 	42	Census Tract District (2010)	1096		ZT-641	0	2010 CT - 5029.03
+2014June3 	42	Census Tract District (2010)	1097		ZT-642	0	2010 CT - 5029.06
+2014June3 	42	Census Tract District (2010)	1098		ZT-643	0	2010 CT - 5029.07
+2014June3 	42	Census Tract District (2010)	1099		ZT-644	0	2010 CT - 5029.08
+2014June3 	42	Census Tract District (2010)	1100		ZT-645	0	2010 CT - 5029.09
+2014June3 	42	Census Tract District (2010)	1101		ZT-646	0	2010 CT - 5029.10
+2014June3 	42	Census Tract District (2010)	1102		ZT-647	0	2010 CT - 5030.01
+2014June3 	42	Census Tract District (2010)	1103		ZT-648	0	2010 CT - 5030.02
+2014June3 	42	Census Tract District (2010)	1104		ZT-649	0	2010 CT - 5030.03
+2014June3 	42	Census Tract District (2010)	1105		ZT-650	0	2010 CT - 5031.05
+2014June3 	42	Census Tract District (2010)	1106		ZT-651	0	2010 CT - 5031.08
+2014June3 	42	Census Tract District (2010)	1107		ZT-652	0	2010 CT - 5031.10
+2014June3 	42	Census Tract District (2010)	1108		ZT-653	0	2010 CT - 5031.11
+2014June3 	42	Census Tract District (2010)	1109		ZT-654	0	2010 CT - 5031.12
+2014June3 	42	Census Tract District (2010)	1110		ZT-655	0	2010 CT - 5031.13
+2014June3 	42	Census Tract District (2010)	1111		ZT-656	0	2010 CT - 5031.15
+2014June3 	42	Census Tract District (2010)	1112		ZT-657	0	2010 CT - 5031.16
+2014June3 	42	Census Tract District (2010)	1113		ZT-658	0	2010 CT - 5031.17
+2014June3 	42	Census Tract District (2010)	1114		ZT-659	0	2010 CT - 5031.18
+2014June3 	42	Census Tract District (2010)	1115		ZT-660	0	2010 CT - 5031.21
+2014June3 	42	Census Tract District (2010)	1116		ZT-661	0	2010 CT - 5031.22
+2014June3 	42	Census Tract District (2010)	1117		ZT-662	0	2010 CT - 5031.23
+2014June3 	42	Census Tract District (2010)	1118		ZT-663	0	2010 CT - 5032.04
+2014June3 	42	Census Tract District (2010)	1122		ZT-667	0	2010 CT - 5032.11
+2014June3 	42	Census Tract District (2010)	1120		ZT-665	0	2010 CT - 5032.08
+2014June3 	42	Census Tract District (2010)	1121		ZT-666	0	2010 CT - 5032.10
+2014June3 	42	Census Tract District (2010)	1123		ZT-668	0	2010 CT - 5032.12
+2014June3 	42	Census Tract District (2010)	1124		ZT-669	0	2010 CT - 5032.13
+2014June3 	42	Census Tract District (2010)	1125		ZT-670	0	2010 CT - 5032.14
+2014June3 	42	Census Tract District (2010)	1126		ZT-671	0	2010 CT - 5032.17
+2014June3 	42	Census Tract District (2010)	1127		ZT-672	0	2010 CT - 5032.18
+2014June3 	42	Census Tract District (2010)	1128		ZT-673	0	2010 CT - 5033.04
+2014June3 	42	Census Tract District (2010)	1129		ZT-674	0	2010 CT - 5033.05
+2014June3 	42	Census Tract District (2010)	1130		ZT-675	0	2010 CT - 5033.06
+2014June3 	42	Census Tract District (2010)	1131		ZT-676	0	2010 CT - 5033.12
+2014June3 	42	Census Tract District (2010)	1132		ZT-677	0	2010 CT - 5033.13
+2014June3 	42	Census Tract District (2010)	1133		ZT-678	0	2010 CT - 5033.15
+2014June3 	42	Census Tract District (2010)	1134		ZT-679	0	2010 CT - 5033.21
+2014June3 	42	Census Tract District (2010)	1135		ZT-680	0	2010 CT - 5033.22
+2014June3 	42	Census Tract District (2010)	1136		ZT-681	0	2010 CT - 5033.23
+2014June3 	42	Census Tract District (2010)	1137		ZT-682	0	2010 CT - 5033.24
+2014June3 	42	Census Tract District (2010)	1138		ZT-683	0	2010 CT - 5033.25
+2014June3 	42	Census Tract District (2010)	1139		ZT-684	0	2010 CT - 5033.26
+2014June3 	42	Census Tract District (2010)	1119		ZT-664	0	2010 CT - 5032.07
+2014June3 	42	Census Tract District (2010)	1140		ZT-685	0	2010 CT - 5033.27
+2014June3 	42	Census Tract District (2010)	1141		ZT-686	0	2010 CT - 5033.29
+2014June3 	42	Census Tract District (2010)	1142		ZT-687	0	2010 CT - 5033.30
+2014June3 	42	Census Tract District (2010)	1143		ZT-688	0	2010 CT - 5033.31
+2014June3 	42	Census Tract District (2010)	1144		ZT-689	0	2010 CT - 5033.32
+2014June3 	42	Census Tract District (2010)	1145		ZT-690	0	2010 CT - 5033.33
+2014June3 	42	Census Tract District (2010)	1146		ZT-691	0	2010 CT - 5033.34
+2014June3 	42	Census Tract District (2010)	1147		ZT-692	0	2010 CT - 5033.36
+2014June3 	42	Census Tract District (2010)	1148		ZT-693	0	2010 CT - 5033.37
+2014June3 	42	Census Tract District (2010)	1149		ZT-694	0	2010 CT - 5034.01
+2014June3 	42	Census Tract District (2010)	1150		ZT-695	0	2010 CT - 5034.02
+2014June3 	42	Census Tract District (2010)	1151		ZT-696	0	2010 CT - 5035.04
+2014June3 	42	Census Tract District (2010)	1152		ZT-697	0	2010 CT - 5035.06
+2014June3 	42	Census Tract District (2010)	1153		ZT-698	0	2010 CT - 5035.07
+2014June3 	42	Census Tract District (2010)	1154		ZT-699	0	2010 CT - 5035.08
+2014June3 	42	Census Tract District (2010)	1155		ZT-700	0	2010 CT - 5035.09
+2014June3 	42	Census Tract District (2010)	1156		ZT-701	0	2010 CT - 5035.10
+2014June3 	42	Census Tract District (2010)	1157		ZT-702	0	2010 CT - 5035.11
+2014June3 	42	Census Tract District (2010)	1158		ZT-703	0	2010 CT - 5036.01
+2014June3 	42	Census Tract District (2010)	1159		ZT-704	0	2010 CT - 5036.02
+2014June3 	42	Census Tract District (2010)	1160		ZT-705	0	2010 CT - 5037.03
+2014June3 	42	Census Tract District (2010)	1161		ZT-706	0	2010 CT - 5037.07
+2014June3 	42	Census Tract District (2010)	1162		ZT-707	0	2010 CT - 5037.08
+2014June3 	42	Census Tract District (2010)	1163		ZT-708	0	2010 CT - 5037.09
+2014June3 	42	Census Tract District (2010)	1164		ZT-709	0	2010 CT - 5037.10
+2014June3 	42	Census Tract District (2010)	1165		ZT-710	0	2010 CT - 5037.11
+2014June3 	42	Census Tract District (2010)	1166		ZT-711	0	2010 CT - 5037.12
+2014June3 	42	Census Tract District (2010)	1167		ZT-712	0	2010 CT - 5037.13
+2014June3 	42	Census Tract District (2010)	1168		ZT-713	0	2010 CT - 5038.02
+2014June3 	42	Census Tract District (2010)	1169		ZT-714	0	2010 CT - 5038.03
+2014June3 	42	Census Tract District (2010)	1170		ZT-715	0	2010 CT - 5038.04
+2014June3 	42	Census Tract District (2010)	1171		ZT-716	0	2010 CT - 5039.02
+2014June3 	42	Census Tract District (2010)	1172		ZT-717	0	2010 CT - 5039.03
+2014June3 	42	Census Tract District (2010)	1173		ZT-718	0	2010 CT - 5040.01
+2014June3 	42	Census Tract District (2010)	1174		ZT-719	0	2010 CT - 5040.02
+2014June3 	42	Census Tract District (2010)	1175		ZT-720	0	2010 CT - 5041.01
+2014June3 	42	Census Tract District (2010)	1176		ZT-721	0	2010 CT - 5041.02
+2014June3 	42	Census Tract District (2010)	1177		ZT-722	0	2010 CT - 5042.01
+2014June3 	42	Census Tract District (2010)	1178		ZT-723	0	2010 CT - 5042.02
+2014June3 	42	Census Tract District (2010)	1179		ZT-724	0	2010 CT - 5043.07
+2014June3 	42	Census Tract District (2010)	1180		ZT-725	0	2010 CT - 5043.08
+2014June3 	42	Census Tract District (2010)	1181		ZT-726	0	2010 CT - 5043.11
+2014June3 	42	Census Tract District (2010)	1182		ZT-727	0	2010 CT - 5043.14
+2014June3 	42	Census Tract District (2010)	1183		ZT-728	0	2010 CT - 5043.15
+2014June3 	42	Census Tract District (2010)	1184		ZT-729	0	2010 CT - 5043.16
+2014June3 	42	Census Tract District (2010)	1185		ZT-730	0	2010 CT - 5043.17
+2014June3 	42	Census Tract District (2010)	1186		ZT-731	0	2010 CT - 5043.18
+2014June3 	42	Census Tract District (2010)	1187		ZT-732	0	2010 CT - 5043.19
+2014June3 	42	Census Tract District (2010)	1188		ZT-733	0	2010 CT - 5043.20
+2014June3 	42	Census Tract District (2010)	1189		ZT-734	0	2010 CT - 5043.21
+2014June3 	42	Census Tract District (2010)	1190		ZT-735	0	2010 CT - 5043.22
+2014June3 	42	Census Tract District (2010)	1191		ZT-736	0	2010 CT - 5043.23
+2014June3 	42	Census Tract District (2010)	1192		ZT-737	0	2010 CT - 5044.10
+2014June3 	42	Census Tract District (2010)	1193		ZT-738	0	2010 CT - 5044.11
+2014June3 	42	Census Tract District (2010)	1194		ZT-739	0	2010 CT - 5044.12
+2014June3 	42	Census Tract District (2010)	1195		ZT-740	0	2010 CT - 5044.13
+2014June3 	42	Census Tract District (2010)	1196		ZT-741	0	2010 CT - 5044.14
+2014June3 	42	Census Tract District (2010)	1197		ZT-742	0	2010 CT - 5044.15
+2014June3 	42	Census Tract District (2010)	1198		ZT-743	0	2010 CT - 5044.16
+2014June3 	42	Census Tract District (2010)	1199		ZT-744	0	2010 CT - 5044.17
+2014June3 	42	Census Tract District (2010)	1200		ZT-745	0	2010 CT - 5044.18
+2014June3 	42	Census Tract District (2010)	1201		ZT-746	0	2010 CT - 5044.20
+2014June3 	42	Census Tract District (2010)	1202		ZT-747	0	2010 CT - 5044.21
+2014June3 	42	Census Tract District (2010)	1203		ZT-748	0	2010 CT - 5044.22
+2014June3 	42	Census Tract District (2010)	1204		ZT-749	0	2010 CT - 5044.23
+2014June3 	42	Census Tract District (2010)	1205		ZT-750	0	2010 CT - 5045.04
+2014June3 	42	Census Tract District (2010)	1206		ZT-751	0	2010 CT - 5045.05
+2014June3 	42	Census Tract District (2010)	1207		ZT-752	0	2010 CT - 5045.06
+2014June3 	42	Census Tract District (2010)	1208		ZT-753	0	2010 CT - 5045.07
+2014June3 	42	Census Tract District (2010)	1209		ZT-754	0	2010 CT - 5046.01
+2014June3 	42	Census Tract District (2010)	1210		ZT-755	0	2010 CT - 5046.02
+2014June3 	42	Census Tract District (2010)	1211		ZT-756	0	2010 CT - 5047
+2014June3 	42	Census Tract District (2010)	1212		ZT-757	0	2010 CT - 5048.02
+2014June3 	42	Census Tract District (2010)	1213		ZT-758	0	2010 CT - 5048.03
+2014June3 	42	Census Tract District (2010)	1214		ZT-759	0	2010 CT - 5048.05
+2014June3 	42	Census Tract District (2010)	1215		ZT-760	0	2010 CT - 5048.06
+2014June3 	42	Census Tract District (2010)	1216		ZT-761	0	2010 CT - 5049.01
+2014June3 	42	Census Tract District (2010)	1217		ZT-762	0	2010 CT - 5050.01
+2014June3 	42	Census Tract District (2010)	1218		ZT-763	0	2010 CT - 5050.06
+2014June3 	42	Census Tract District (2010)	1219		ZT-764	0	2010 CT - 5050.07
+2014June3 	42	Census Tract District (2010)	1220		ZT-765	0	2010 CT - 5050.08
+2014June3 	42	Census Tract District (2010)	1221		ZT-766	0	2010 CT - 5050.09
+2014June3 	42	Census Tract District (2010)	1222		ZT-767	0	2010 CT - 5051
+2014June3 	42	Census Tract District (2010)	1223		ZT-768	0	2010 CT - 5052.02
+2014June3 	42	Census Tract District (2010)	1224		ZT-769	0	2010 CT - 5052.03
+2014June3 	42	Census Tract District (2010)	1225		ZT-770	0	2010 CT - 5053.01
+2014June3 	42	Census Tract District (2010)	1226		ZT-771	0	2010 CT - 5053.02
+2014June3 	42	Census Tract District (2010)	1227		ZT-772	0	2010 CT - 5053.03
+2014June3 	42	Census Tract District (2010)	1228		ZT-773	0	2010 CT - 5053.04
+2014June3 	42	Census Tract District (2010)	1229		ZT-774	0	2010 CT - 5053.05
+2014June3 	42	Census Tract District (2010)	1230		ZT-775	0	2010 CT - 5054.01
+2014June3 	42	Census Tract District (2010)	1231		ZT-776	0	2010 CT - 5054.02
+2014June3 	42	Census Tract District (2010)	1232		ZT-777	0	2010 CT - 5054.03
+2014June3 	42	Census Tract District (2010)	1233		ZT-778	0	2010 CT - 5055
+2014June3 	10	County Board of Education	1046		SUT-10	0	SCC Board of Education- Transfer of Territory
+2014June3 	42	Census Tract District (2010)	1234		ZT-779	0	2010 CT - 5056
+2014June3 	42	Census Tract District (2010)	1235		ZT-780	0	2010 CT - 5057
+2014June3 	42	Census Tract District (2010)	1236		ZT-781	0	2010 CT - 5058
+2014June3 	42	Census Tract District (2010)	1237		ZT-782	0	2010 CT - 5059
+2014June3 	42	Census Tract District (2010)	1238		ZT-783	0	2010 CT - 5060
+2014June3 	42	Census Tract District (2010)	1239		ZT-784	0	2010 CT - 5061.01
+2014June3 	42	Census Tract District (2010)	1240		ZT-785	0	2010 CT - 5061.02
+2014June3 	42	Census Tract District (2010)	1241		ZT-786	0	2010 CT - 5061.03
+2014June3 	42	Census Tract District (2010)	1242		ZT-787	0	2010 CT - 5062.02
+2014June3 	42	Census Tract District (2010)	1243		ZT-788	0	2010 CT - 5062.03
+2014June3 	42	Census Tract District (2010)	1244		ZT-789	0	2010 CT - 5062.04
+2014June3 	42	Census Tract District (2010)	1245		ZT-790	0	2010 CT - 5063.01
+2014June3 	42	Census Tract District (2010)	1246		ZT-791	0	2010 CT - 5063.02
+2014June3 	42	Census Tract District (2010)	1247		ZT-792	0	2010 CT - 5063.04
+2014June3 	42	Census Tract District (2010)	1248		ZT-793	0	2010 CT - 5063.05
+2014June3 	42	Census Tract District (2010)	1249		ZT-794	0	2010 CT - 5064.01
+2014June3 	42	Census Tract District (2010)	1250		ZT-795	0	2010 CT - 5064.02
+2014June3 	42	Census Tract District (2010)	1251		ZT-796	0	2010 CT - 5065.01
+2014June3 	42	Census Tract District (2010)	1252		ZT-797	0	2010 CT - 5065.02
+2014June3 	42	Census Tract District (2010)	1253		ZT-798	0	2010 CT - 5065.03
+2014June3 	42	Census Tract District (2010)	1254		ZT-799	0	2010 CT - 5066.01
+2014June3 	42	Census Tract District (2010)	1255		ZT-800	0	2010 CT - 5066.03
+2014June3 	42	Census Tract District (2010)	1256		ZT-801	0	2010 CT - 5066.04
+2014June3 	42	Census Tract District (2010)	1257		ZT-802	0	2010 CT - 5066.05
+2014June3 	42	Census Tract District (2010)	1258		ZT-803	0	2010 CT - 5066.06
+2014June3 	42	Census Tract District (2010)	1259		ZT-804	0	2010 CT - 5067.01
+2014June3 	42	Census Tract District (2010)	1260		ZT-805	0	2010 CT - 5067.02
+2014June3 	42	Census Tract District (2010)	1261		ZT-806	0	2010 CT - 5067.03
+2014June3 	42	Census Tract District (2010)	1262		ZT-807	0	2010 CT - 5068.01
+2014June3 	42	Census Tract District (2010)	1263		ZT-808	0	2010 CT - 5068.02
+2014June3 	42	Census Tract District (2010)	1264		ZT-809	0	2010 CT - 5068.03
+2014June3 	42	Census Tract District (2010)	1265		ZT-810	0	2010 CT - 5068.04
+2014June3 	42	Census Tract District (2010)	1266		ZT-811	0	2010 CT - 5069
+2014June3 	42	Census Tract District (2010)	1267		ZT-812	0	2010 CT - 5070.01
+2014June3 	42	Census Tract District (2010)	1268		ZT-813	0	2010 CT - 5070.02
+2014June3 	42	Census Tract District (2010)	1269		ZT-814	0	2010 CT - 5071
+2014June3 	42	Census Tract District (2010)	1270		ZT-815	0	2010 CT - 5072.03
+2014June3 	42	Census Tract District (2010)	1271		ZT-816	0	2010 CT - 5072.05
+2014June3 	42	Census Tract District (2010)	1272		ZT-817	0	2010 CT - 5072.06
+2014June3 	42	Census Tract District (2010)	1273		ZT-818	0	2010 CT - 5073.01
+2014June3 	42	Census Tract District (2010)	1274		ZT-819	0	2010 CT - 5073.02
+2014June3 	42	Census Tract District (2010)	1275		ZT-820	0	2010 CT - 5074.01
+2014June3 	42	Census Tract District (2010)	1276		ZT-821	0	2010 CT - 5074.02
+2014June3 	42	Census Tract District (2010)	1277		ZT-822	0	2010 CT - 5075
+2014June3 	42	Census Tract District (2010)	1278		ZT-823	0	2010 CT - 5076
+2014June3 	42	Census Tract District (2010)	1280		ZT-825	0	2010 CT - 5077.02
+2014June3 	42	Census Tract District (2010)	1281		ZT-826	0	2010 CT - 5077.03
+2014June3 	42	Census Tract District (2010)	1282		ZT-827	0	2010 CT - 5078.05
+2014June3 	42	Census Tract District (2010)	1283		ZT-828	0	2010 CT - 5078.06
+2014June3 	42	Census Tract District (2010)	1284		ZT-829	0	2010 CT - 5078.07
+2014June3 	42	Census Tract District (2010)	1285		ZT-830	0	2010 CT - 5078.08
+2014June3 	42	Census Tract District (2010)	1286		ZT-831	0	2010 CT - 5079.03
+2014June3 	42	Census Tract District (2010)	1287		ZT-832	0	2010 CT - 5079.04
+2014June3 	42	Census Tract District (2010)	1288		ZT-833	0	2010 CT - 5079.05
+2014June3 	42	Census Tract District (2010)	1289		ZT-834	0	2010 CT - 5079.06
+2014June3 	42	Census Tract District (2010)	1290		ZT-835	0	2010 CT - 5080.01
+2014June3 	42	Census Tract District (2010)	1291		ZT-836	0	2010 CT - 5080.03
+2014June3 	42	Census Tract District (2010)	1292		ZT-837	0	2010 CT - 5080.04
+2014June3 	42	Census Tract District (2010)	1293		ZT-838	0	2010 CT - 5081.01
+2014June3 	42	Census Tract District (2010)	1294		ZT-839	0	2010 CT - 5081.02
+2014June3 	42	Census Tract District (2010)	1295		ZT-840	0	2010 CT - 5082.02
+2014June3 	42	Census Tract District (2010)	1296		ZT-841	0	2010 CT - 5082.03
+2014June3 	42	Census Tract District (2010)	1297		ZT-842	0	2010 CT - 5082.04
+2014June3 	42	Census Tract District (2010)	1298		ZT-843	0	2010 CT - 5083.01
+2014June3 	42	Census Tract District (2010)	1299		ZT-844	0	2010 CT - 5083.03
+2014June3 	42	Census Tract District (2010)	1300		ZT-845	0	2010 CT - 5083.04
+2014June3 	42	Census Tract District (2010)	1301		ZT-846	0	2010 CT - 5084.01
+2014June3 	42	Census Tract District (2010)	1302		ZT-847	0	2010 CT - 5084.03
+2014June3 	42	Census Tract District (2010)	1303		ZT-848	0	2010 CT - 5084.04
+2014June3 	42	Census Tract District (2010)	1304		ZT-849	0	2010 CT - 5085.03
+2014June3 	42	Census Tract District (2010)	1305		ZT-850	0	2010 CT - 5085.04
+2014June3 	42	Census Tract District (2010)	1306		ZT-851	0	2010 CT - 5085.05
+2014June3 	42	Census Tract District (2010)	1307		ZT-852	0	2010 CT - 5085.07
+2014June3 	42	Census Tract District (2010)	1308		ZT-853	0	2010 CT - 5085.08
+2014June3 	42	Census Tract District (2010)	1309		ZT-854	0	2010 CT - 5086.01
+2014June3 	42	Census Tract District (2010)	1310		ZT-855	0	2010 CT - 5086.02
+2014June3 	42	Census Tract District (2010)	1311		ZT-856	0	2010 CT - 5087.03
+2014June3 	42	Census Tract District (2010)	1312		ZT-857	0	2010 CT - 5087.04
+2014June3 	42	Census Tract District (2010)	1313		ZT-858	0	2010 CT - 5088
+2014June3 	42	Census Tract District (2010)	1314		ZT-859	0	2010 CT - 5089
+2014June3 	42	Census Tract District (2010)	1315		ZT-860	0	2010 CT - 5090
+2014June3 	42	Census Tract District (2010)	1394		ZT-939	0	2010 CT - 5120.36
+2014June3 	42	Census Tract District (2010)	1395		ZT-940	0	2010 CT - 5120.37
+2014June3 	42	Census Tract District (2010)	1396		ZT-941	0	2010 CT - 5120.38
+2014June3 	42	Census Tract District (2010)	1057		ZT-602	0	2010 CT - 5002
+2014June3 	42	Census Tract District (2010)	1058		ZT-603	0	2010 CT - 5003
+2014June3 	42	Census Tract District (2010)	1059		ZT-604	0	2010 CT - 5004
+2014June3 	42	Census Tract District (2010)	1061		ZT-606	0	2010 CT - 5006
+2014June3 	42	Census Tract District (2010)	1062		ZT-607	0	2010 CT - 5008
+2014June3 	42	Census Tract District (2010)	1063		ZT-608	0	2010 CT - 5009.01
+2014June3 	46	Santa Clara Valley Water Dist	934		PK05	0	Santa Clara Valley Water District
+2014June3 	46	Santa Clara Valley Water Dist	1461	934	PK05	3	Santa Clara Valley Water District - Dist 3
+2014June3 	46	Santa Clara Valley Water Dist	1462	934	PK05	4	Santa Clara Valley Water District - Dist 4
+2014June3 	46	Santa Clara Valley Water Dist	1463	934	PK05	5	Santa Clara Valley Water District - Dist 5
+2014June3 	46	Santa Clara Valley Water Dist	1464	934	PK05	6	Santa Clara Valley Water District - Dist 6
+2014June3 	46	Santa Clara Valley Water Dist	1465	934	PK05	7	Santa Clara Valley Water District - Dist 7
+2014June3 	5	County Supervisor	1427		*405	0	5th Supervisorial District
+2014June3 	42	Census Tract District (2010)	1428		ZT-942	0	2010 CT - 5120.39
+2014June3 	42	Census Tract District (2010)	1429		ZT-943	0	2010 CT - 5120.42
+2014June3 	42	Census Tract District (2010)	1430		ZT-944	0	2010 CT - 5120.43
+2014June3 	42	Census Tract District (2010)	1431		ZT-945	0	2010 CT - 5120.45
+2014June3 	4	Member of the State Assembly	1397		SA024	0	24th Assembly District
+2014June3 	4	Member of the State Assembly	1398		SA025	0	25th Assembly District
+2014June3 	4	Member of the State Assembly	1399		SA027	0	27th Assembly District
+2014June3 	42	Census Tract District (2010)	1432		ZT-946	0	2010 CT - 5120.47
+2014June3 	42	Census Tract District (2010)	1433		ZT-947	0	2010 CT - 5120.52
+2014June3 	4	Member of the State Assembly	1400		SA028	0	28th Assembly District
+2014June3 	4	Member of the State Assembly	1401		SA029	0	29th Assembly District
+2014June3 	4	Member of the State Assembly	1402		SA030	0	30th Assembly District
+2014June3 	3	State Senator	1403		SS010	0	10th Senatorial District
+2014June3 	3	State Senator	1404		SS013	0	13th Senatorial District
+2014June3 	2	Congressional District	1407		CG017	0	17th Congressional District
+2014June3 	2	Congressional District	1408		CG018	0	18th Congressional District
+2014June3 	25	Special Annexation Election District	959		PK18	0	Lion's Gate Community Services District
+2014June3 	47	Community Facilities District	1479		PK-26	0	City of Campbell Community Facilities District No. 1
+2014June3 	47	Community Facilities District	920		PK-25	0	Community Facilities District No. 2011-1
+2014June3 	2	Congressional District	1409		CG019	0	19th Congressional District
+2014June3 	2	Congressional District	1410		CG020	0	20th Congressional District
+2014June3 	6	City	1413	902	*520	1	San Jose-Council District 1
+2014June3 	6	City	1414	902	*520	2	San Jose-Council District 2
+2014June3 	6	City	1415	902	*520	3	San Jose-Council District 3
+2014June3 	6	City	1416	902	*520	4	San Jose-Council District 4
+2014June3 	3	State Senator	1405		SS015	0	15th Senatorial District
+2014June3 	3	State Senator	1406		SS017	0	17th Senatorial District
+2014June3 	42	Census Tract District (2010)	1444		ZT-958	0	2010 CT - 5123.13
+2014June3 	42	Census Tract District (2010)	1445		ZT-959	0	2010 CT - 5123.14
+2014June3 	42	Census Tract District (2010)	1446		ZT-960	0	2010 CT - 5124.01
+2014June3 	42	Census Tract District (2010)	1447		ZT-961	0	2010 CT - 5124.02
+2014June3 	42	Census Tract District (2010)	1448		ZT-962	0	2010 CT - 5125.03
+2014June3 	42	Census Tract District (2010)	1449		ZT-963	0	2010 CT - 5125.05
+2014June3 	14	Elementary School District	1467	1466	SUS-L	1	Oak Grove School District TA #1
+2014June3 	14	Elementary School District	1468	1466	SUS-L	2	Oak Grove School District TA #2
+2014June3 	14	Elementary School District	1469	1466	SUS-L	3	Oak Grove School District TA #3
+2014June3 	14	Elementary School District	1470	1466	SUS-L	4	Oak Grove School District TA #4
+2014June3 	14	Elementary School District	1471	1466	SUS-L	5	Oak Grove School District TA #5
+2014June3 	11	Community College	1473	980	SCC-4	2	West Valley-Mission CCD TA #2
+2014June3 	11	Community College	1474	980	SCC-4	3	West Valley-Mission CCD TA #3
+2014June3 	11	Community College	1475	980	SCC-4	4	West Valley-Mission CCD TA #4
+2014June3 	11	Community College	1476	980	SCC-4	5	West Valley-Mission CCD TA #5
+2014June3 	11	Community College	1477	980	SCC-4	6	West Valley-Mission CCD TA #6
+2014June3 	11	Community College	1478	980	SCC-4	7	West Valley-Mission CCD TA #7
+2014June3 	42	Census Tract District (2010)	1434		ZT-948	0	2010 CT - 5120.53
+2014June3 	42	Census Tract District (2010)	1435		ZT-949	0	2010 CT - 5121
+2014June3 	42	Census Tract District (2010)	1436		ZT-950	0	2010 CT - 5122
+2014June3 	42	Census Tract District (2010)	1437		ZT-951	0	2010 CT - 5123.05
+2014June3 	42	Census Tract District (2010)	1438		ZT-952	0	2010 CT - 5123.07
+2014June3 	42	Census Tract District (2010)	1439		ZT-953	0	2010 CT - 5123.08
+2014June3 	42	Census Tract District (2010)	1440		ZT-954	0	2010 CT - 5123.09
+2014June3 	42	Census Tract District (2010)	1441		ZT-955	0	2010 CT - 5123.10
+2014June3 	42	Census Tract District (2010)	1442		ZT-956	0	2010 CT - 5123.11
+2014June3 	42	Census Tract District (2010)	1443		ZT-957	0	2010 CT - 5123.12
+2014June3 	42	Census Tract District (2010)	1453		ZT-967	0	2010 CT - 5125.10
+2014June3 	42	Census Tract District (2010)	1454		ZT-968	0	2010 CT - 5126.02
+2014June3 	42	Census Tract District (2010)	1455		ZT-969	0	2010 CT - 5126.03
+2014June3 	42	Census Tract District (2010)	1456		ZT-970	0	2010 CT - 5126.04
+2014June3 	42	Census Tract District (2010)	1457		ZT-971	0	2010 CT - 5130
+2014June3 	42	Census Tract District (2010)	1458		ZT-972	0	2010 CT - 5135

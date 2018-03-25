@@ -1,0 +1,17 @@
+{
+  "name": "csv-converter",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "watch": "tsc -w",
+    "parse": "node dist/index.js"
+  },
+  "dependencies": {
+    "papaparse": "^4.3.7"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.7",
+    "typescript": "^2.7.2"
+  }
+}

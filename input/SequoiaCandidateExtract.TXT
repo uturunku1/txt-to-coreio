@@ -1,0 +1,133 @@
+sElectionAbbr	iContestID	iCandidateID	szCandNameLast	szCandNameFirst	szCandNameMiddle	sCandNameSuffix	szCandidateBallotName	szCandidateAbbr	lLanguageHndl	sLanguageAbbr	szBallotDesignation	lPartyHndl	sPartyAbbr	iVotingPosition
+2014June3 	1030	3	Rodriguez	Luis	J.		LUIS J. RODRIGUEZ	Luis J. Rodriguez                                 	1	E   	Author/Community Organizer	23	GRN 	1
+2014June3 	1030	17	Winston	Alma Marie			ALMA MARIE WINSTON	Alma Marie Winston                                	1	E   	Project Funding CEO	3	REP 	2
+2014June3 	1030	10	Brown	Edmund	G. "Jerry"		EDMUND G. "JERRY" BROWN	Edmund G. "Jerry" Brown                           	1	E   	Governor of California	2	DEM 	3
+2014June3 	1030	11	Buycks	Janel	Hyeshia		JANEL HYESHIA BUYCKS	Janel Hyeshia Buycks                              	1	E   	Minister/Business Owner	1	NPP 	4
+2014June3 	1030	9	Blount	Andrew			ANDREW BLOUNT	Andrew Blount                                     	1	E   	Mayor/Businessperson	3	REP 	5
+2014June3 	1030	13	Christian	Rakesh	Kumar		RAKESH KUMAR CHRISTIAN	Rakesh Kumar Christian                            	1	E   	Small Business Owner	1	NPP 	6
+2014June3 	1030	12	Champ	Glenn			GLENN CHAMP	Glenn Champ                                       	1	E   	Business Owner/Engineer	3	REP 	7
+2014June3 	1030	14	Kashkari	Neel			NEEL KASHKARI	Neel Kashkari                                     	1	E   	Businessman	3	REP 	8
+2014June3 	1030	4	Donnelly	Tim			TIM DONNELLY	Tim Donnelly                                      	1	E   	California State Assemblyman	3	REP 	9
+2014June3 	1030	8	Ambrozewicz	"BO" Bogdan			"BO" BOGDAN AMBROZEWICZ	"BO" Bogdan Ambrozewicz                           	1	E   	Small Business Owner	1	NPP 	10
+2014June3 	1030	6	Agbede	Akinyemi			AKINYEMI AGBEDE	Akinyemi Agbede                                   	1	E   	Doctoral Student	2	DEM 	11
+2014June3 	1030	7	Aguirre	Richard	William		RICHARD WILLIAM AGUIRRE	Richard William Aguirre                           	1	E   	Real Estate Investor	3	REP 	12
+2014June3 	1030	5	Newman	Robert			ROBERT NEWMAN	Robert Newman                                     	1	E   	Psychologist/Farmer	1	NPP 	13
+2014June3 	1030	2	Sheehan	Cindy	L		CINDY L. SHEEHAN	Cindy L. Sheehan                                  	1	E   	Author/Non-Profit Director	21	PF  	14
+2014June3 	1030	15	Leicht	Joe			JOE LEICHT	Joe Leicht                                        	1	E   	Golf Course Operator	1	NPP 	15
+2014June3 	1040	8	Reynolds	Alan			ALAN REYNOLDS	Alan Reynolds                                     	1	E   	Commissioner/Engineer/Businessman	59	AE  	1
+2014June3 	1040	1	Yang	George			GEORGE YANG	George Yang                                       	1	E   	Father/Software Developer	3	REP 	2
+2014June3 	1040	5	Korevaar	Eric			ERIC KOREVAAR	Eric Korevaar                                     	1	E   	Scientist/Businessman/Parent	2	DEM 	3
+2014June3 	1040	2	Fennell	David			DAVID FENNELL	David Fennell                                     	1	E   	Entrepreneur	3	REP 	4
+2014June3 	1040	4	Johnson	Amos			AMOS JOHNSON	Amos Johnson                                      	1	E   	Security Guard	21	PF  	5
+2014June3 	1040	7	Newsom	Gavin			GAVIN NEWSOM	Gavin Newsom                                      	1	E   	Lieutenant Governor	2	DEM 	6
+2014June3 	1040	6	Nehring	Ron			RON NEHRING	Ron Nehring                                       	1	E   	Small Businessman/Educator	3	REP 	7
+2014June3 	1040	3	Goodman	Jena	F.		JENA F. GOODMAN	Jena F. Goodman                                   	1	E   	Student	23	GRN 	8
+2014June3 	1050	3	Yee	Leland			LELAND YEE	Leland Yee                                        	1	E   	California State Senator	2	DEM 	1
+2014June3 	1050	5	Cressman	Derek			DEREK CRESSMAN	Derek Cressman                                    	1	E   	Voting Rights Advocate	2	DEM 	2
+2014June3 	1050	2	Curtis	David			DAVID CURTIS	David Curtis                                      	1	E   	Dad/Designer	23	GRN 	3
+2014June3 	1050	7	Padilla	Alex			ALEX PADILLA	Alex Padilla                                      	1	E   	California State Senator	2	DEM 	4
+2014June3 	1050	8	Peterson	Pete			PETE PETERSON	Pete Peterson                                     	1	E   	Educator/Institute Director	3	REP 	5
+2014June3 	1050	6	Drobman	Jeffrey	H.		JEFFREY H. DROBMAN	Jeffrey H. Drobman                                	1	E   	Computer Scientist/Engineer	2	DEM 	6
+2014June3 	1050	4	Allmond	Roy			ROY ALLMOND	Roy Allmond                                       	1	E   	California State Employee	3	REP 	7
+2014June3 	1050	9	Schnur	Dan			DAN SCHNUR	Dan Schnur                                        	1	E   	Political Involvement Educator	1	NPP 	8
+2014June3 	1060	6	Yee	Betty	T.		BETTY T. YEE	Betty T. Yee                                      	1	E   	California State Board of Equalization Member	2	DEM 	1
+2014June3 	1060	1	Wells	Laura			LAURA WELLS	Laura Wells                                       	1	E   	Financial Analyst	23	GRN 	2
+2014June3 	1060	2	Blair	Tammy	D.		TAMMY D. BLAIR	Tammy D. Blair                                    	1	E   	Administrator	2	DEM 	3
+2014June3 	1060	4	Perez	John	A.		JOHN A. PEREZ	John A. Perez                                     	1	E   	California Assembly Speaker	2	DEM 	4
+2014June3 	1060	3	Evans	David			DAVID EVANS	David Evans                                       	1	E   	Chief Financial Officer	3	REP 	5
+2014June3 	1060	5	Swearengin	Ashley			ASHLEY SWEARENGIN	Ashley Swearengin                                 	1	E   	Mayor, City of Fresno	3	REP 	6
+2014June3 	1070	1	Brown	Ellen	H.		ELLEN H. BROWN	Ellen H. Brown                                    	1	E   	Public Banking Author	23	GRN 	1
+2014June3 	1070	3	Conlon	Greg			GREG CONLON	Greg Conlon                                       	1	E   	Businessman/CPA	3	REP 	2
+2014June3 	1070	2	Chiang	John			JOHN CHIANG	John Chiang                                       	1	E   	California State Controller	2	DEM 	3
+2014June3 	1080	9	Wyman	Phil			PHIL WYMAN	Phil Wyman                                        	1	E   	Attorney/Rancher	3	REP 	1
+2014June3 	1080	7	King	David			DAVID KING	David King                                        	1	E   	Attorney/Small Businessman	3	REP 	2
+2014June3 	1080	3	Taitz	Orly			ORLY TAITZ	Orly Taitz                                        	1	E   	Attorney/Doctor/Businesswoman	1	NPP 	3
+2014June3 	1080	5	Harris	Kamala	D		KAMALA D. HARRIS	Kamala D. Harris                                  	1	E   	Attorney General of California	2	DEM 	4
+2014June3 	1080	2	Haggerty	John			JOHN HAGGERTY	John Haggerty                                     	1	E   	NONE	3	REP 	5
+2014June3 	1080	1	Jaech	Jonathan			JONATHAN JAECH	Jonathan Jaech                                    	1	E   	Attorney	27	LIB 	6
+2014June3 	1080	4	Gold	Ronald			RONALD GOLD	Ronald Gold                                       	1	E   	Retired State Prosecutor	3	REP 	7
+2014June3 	1090	2	Hrizi	Nathalie			NATHALIE HRIZI	Nathalie Hrizi                                    	1	E   	Public School Teacher	21	PF  	1
+2014June3 	1090	4	Jones	Dave			DAVE JONES	Dave Jones                                        	1	E   	Insurance Commissioner	2	DEM 	2
+2014June3 	1090	3	Gaines	Ted			TED GAINES	Ted Gaines                                        	1	E   	Independent Insurance Agent	3	REP 	3
+2014June3 	1100	1	Ma	FIona			FIONA MA	FIona Ma                                          	1	E   	CPA/Taxpayer Representative	2	DEM 	1
+2014June3 	1100	2	Theis	James	E.		JAMES E. THEIS	James E. Theis                                    	1	E   	Organic Foods Manager	3	REP 	2
+2014June3 	1130	4	Khanna	Ro			RO KHANNA	Ro Khanna                                         	1	E   	Economics Author/Educator	2	DEM 	1
+2014June3 	1130	7	Vanlandingham	Joel			JOEL VANLANDINGHAM	Joel VanLandingham                                	1	E   	Technology Company Executive	3	REP 	2
+2014June3 	1130	3	Honda	Mike			MIKE HONDA	Mike Honda                                        	1	E   	United States Congressman	2	DEM 	3
+2014June3 	1130	6	Singh	Vanila			VANILA SINGH	Vanila Singh                                      	1	E   	Medical Doctor/Teacher	3	REP 	4
+2014June3 	1140	6	Braun	Oscar	Alejandro		OSCAR ALEJANDRO BRAUN	Oscar Alejandro Braun                             	1	E   	Healthcare Website Publisher	3	REP 	1
+2014June3 	1140	4	Fox	Richard	B		RICHARD B. FOX	Richard B. Fox                                    	1	E   	Pediatrician/Attorney	3	REP 	2
+2014June3 	1140	3	Anderson	Bruce			BRUCE ANDERSON	Bruce Anderson                                    	1	E   	High School Teacher	3	REP 	3
+2014June3 	1140	5	Eshoo	Anna	G		ANNA G. ESHOO	Anna G. Eshoo                                     	1	E   	Member of Congress	2	DEM 	4
+2014June3 	1150	1	Murray	Robert			ROBERT MURRAY	Robert Murray                                     	1	E   	Businessman	2	DEM 	1
+2014June3 	1150	2	Lofgren	Zoe			ZOE LOFGREN	Zoe Lofgren                                       	1	E   	Congresswoman	2	DEM 	2
+2014June3 	1160	2	Kabat	Ronald Paul			RONALD PAUL KABAT	Ronald Paul Kabat                                 	1	E   	Certified Public Accountant	1	NPP 	1
+2014June3 	1160	1	Farr	Sam			SAM FARR	Sam Farr                                          	1	E   	United States Representative	2	DEM 	2
+2014June3 	1200	1	Kuo	Peter			PETER KUO	Peter Kuo                                         	1	E   	Small Business Owner	3	REP 	1
+2014June3 	1200	2	Bock	Audie			AUDIE BOCK	Audie Bock                                        	1	E   	Fairview Fire Protection District Director	1	NPP 	2
+2014June3 	1200	4	Reed	Roman			ROMAN REED	Roman Reed                                        	1	E   	Medical Research Director	2	DEM 	3
+2014June3 	1200	5	Hayashi	Mary			MARY HAYASHI	Mary Hayashi                                      	1	E   	Healthcare Education Advocate	2	DEM 	4
+2014June3 	1200	3	Wieckowski	Bob			BOB WIECKOWSKI	Bob Wieckowski                                    	1	E   	Assemblymember	2	DEM 	5
+2014June3 	1300	4	Coladonato	Greg			GREG COLADONATO	Greg Coladonato                                   	1	E   	Businessman	2	DEM 	1
+2014June3 	1300	3	Gabl	Diane			DIANE GABL	Diane Gabl                                        	1	E   	Intellectual Property Attorney	3	REP 	2
+2014June3 	1300	2	Gordon	Richard	S.		RICHARD S. GORDON	Richard S. Gordon                                 	1	E   	Member, California State Assembly	2	DEM 	3
+2014June3 	1310	1	Brunton	Bob			BOB BRUNTON	Bob Brunton                                       	1	E   	Electronics Manufacturers' Representative	3	REP 	1
+2014June3 	1310	2	Chu	Kansen			KANSEN CHU	Kansen Chu                                        	1	E   	Councilmember, City of San Jose	2	DEM 	2
+2014June3 	1310	4	Cox	Teresa			TERESA COX	Teresa Cox                                        	1	E   	Ohlone Community College District Trustee	2	DEM 	3
+2014June3 	1310	3	Gomez	Armando			ARMANDO GOMEZ	Armando Gomez                                     	1	E   	Councilmember/Budget Director	2	DEM 	4
+2014June3 	1310	5	Steckler	Craig	T.		CRAIG T. STECKLER	Craig T. Steckler                                 	1	E   	Retired Police Chief	2	DEM 	5
+2014June3 	1320	2	Campos	Nora			NORA CAMPOS	Nora Campos                                       	1	E   	Incumbent	2	DEM 	1
+2014June3 	1320	3	Lancaster	G	Burt		G. BURT LANCASTER	G. Burt Lancaster                                 	1	E   	Consultant	3	REP 	2
+2014June3 	1330	3	Chang	Barry			BARRY CHANG	Barry Chang                                       	1	E   	Cupertino City Council Member	2	DEM 	1
+2014June3 	1330	4	Page	Chuck			CHUCK PAGE	Chuck Page                                        	1	E   	Councilmember/Businessman	3	REP 	2
+2014June3 	1330	1	Hunsweck	Michael			MICHAEL HUNSWECK	Michael Hunsweck                                  	1	E   	Semiconductor Chip Engineer	3	REP 	3
+2014June3 	1330	2	Low	Evan			EVAN LOW	Evan Low                                          	1	E   	City Councilmember/Educator	2	DEM 	4
+2014June3 	1340	2	Kain	Palmer			PALMER KAIN	Palmer Kain                                       	1	E   	NONE	3	REP 	1
+2014June3 	1340	1	Stone	Mark			MARK STONE	Mark Stone                                        	1	E   	Assemblymember	2	DEM 	2
+2014June3 	1370	1	Alejo	Luis			LUIS ALEJO	Luis Alejo                                        	1	E   	Member of the State Assembly	2	DEM 	1
+2014June3 	1370	2	Starritt	Mark			MARK STARRITT	Mark Starritt                                     	1	E   	Commercial Pilot/Builder	3	REP 	2
+2014June3 	2604	1	Scott	Stuart			STUART SCOTT	Stuart Scott                                      	1	E   	Deputy District Attorney			1
+2014June3 	2621	1	Sylva	Julianne			JULIANNE SYLVA	Julianne Sylva                                    	1	E   	Deputy District Attorney			1
+2014June3 	2621	2	Lempert	D A			D A LEMPERT	D A Lempert                                       	1	E   	Trial Attorney			2
+2014June3 	2624	1	Ritchie	Diane			DIANE RITCHIE	Diane Ritchie                                     	1	E   	Judge of the Superior Court			1
+2014June3 	2624	3	Harris	Matthew	S.		MATTHEW S. HARRIS	Matthew S. Harris                                 	1	E   	Deputy District Attorney			2
+2014June3 	2624	2	Angel	Annrae			ANNRAE ANGEL	Annrae Angel                                      	1	E   	Independent Private Attorney			3
+2014June3 	3001	2	Torlakson	Tom			TOM TORLAKSON	Tom Torlakson                                     	1	E   	California Schools Superintendent			1
+2014June3 	3001	3	Tuck	Marshall			MARSHALL TUCK	Marshall Tuck                                     	1	E   	Educator/Schools' Executive			2
+2014June3 	3001	1	Gutierrez	Lydia	A.		LYDIA A. GUTIERREZ	Lydia A. Gutierrez                                	1	E   	Teacher/Neighborhood Councilmember			3
+2014June3 	4401	1	Wasserman	Mike			MIKE WASSERMAN	Mike  Wasserman                                   	1	E   	Incumbent			1
+2014June3 	4404	1	Yeager	Ken			KEN YEAGER	Ken Yeager                                        	1	E   	Member, Board of Supervisors, District 4			1
+2014June3 	4410	1	Stone	Larry			LARRY STONE	Larry Stone                                       	1	E   	Assessor			1
+2014June3 	4420	1	Rosen	Jeff			JEFF ROSEN	Jeff Rosen                                        	1	E   	District Attorney			1
+2014June3 	4430	2	Jensen	Kevin			KEVIN JENSEN	Kevin Jensen                                      	1	E   	Retired Sheriff's Captain			1
+2014June3 	4430	3	Smith	Laurie			LAURIE SMITH	Laurie Smith                                      	1	E   	Sheriff, County of Santa Clara			2
+2014June3 	5200	1	Oliverio	Pierluigi	C.		PIERLUIGI C. OLIVERIO	Pierluigi C. Oliverio                             	1	E   	Councilmember/High-Tech Worker			1
+2014June3 	5200	6	Cortese	Dave			DAVE CORTESE	Dave Cortese                                      	1	E   	County Supervisor/Businessman			2
+2014June3 	5200	8	Chew	Bill			BILL CHEW	BIll Chew                                         	1	E   	Fitness Consultant			3
+2014June3 	5200	2	Harrison	Timothy			TIMOTHY HARRISON	Timothy Harrison                                  	1	E   	Quality Assurance Representative			4
+2014June3 	5200	4	Herrera	Rose			ROSE HERRERA	Rose Herrera                                      	1	E   	San Jose City Councilwoman			5
+2014June3 	5200	7	Alvarado	Mike			MIKE ALVARADO	Mike Alvarado                                     	1	E   	Worker			6
+2014June3 	5200	3	Nguyen	Madison			MADISON NGUYEN	Madison Nguyen                                    	1	E   	Vice Mayor/Mother			7
+2014June3 	5200	9	Liccardo	Sam			SAM LICCARDO	Sam Liccardo                                      	1	E   	San Jose City Councilmember			8
+2014June3 	5201	6	McCoy	Richard			RICHARD MCCOY	Richard McCoy                                     	1	E   	Retired Electronics Engineer			1
+2014June3 	5201	7	Marsland	Susan			SUSAN MARSLAND	Susan Marsland                                    	1	E   	Educator/Mother			2
+2014June3 	5201	2	Fong	Paul			PAUL FONG	Paul Fong                                         	1	E   	Legislator/Professor/Businessman			3
+2014June3 	5201	3	Jones	Charles	'Chappie'		CHARLES 'CHAPPIE' JONES	Charles 'Chappie' Jones                           	1	E   	High-tech Manager/Father			4
+2014June3 	5201	1	Gildersleeve	Tim			TIM GILDERSLEEVE	Tim Gildersleeve                                  	1	E   	Paratransit Operator			5
+2014June3 	5201	4	Zimmermann	Art			ART ZIMMERMANN	Art Zimmermann                                    	1	E   	Community Volunteer			6
+2014June3 	5201	5	Levy	Bob			BOB LEVY	Bob Levy                                          	1	E   	Senior Business Analyst			7
+2014June3 	5203	3	Mejia	Mauricio			MAURICIO MEJIA	Mauricio Mejia                                    	1	E   	Business Owner/Entrepreneur			1
+2014June3 	5203	5	Kleidon	George			GEORGE KLEIDON	George Kleidon                                    	1	E   	Teacher/Youth Coach			2
+2014June3 	5203	4	Peralez	Raul			RAUL PERALEZ	Raul Peralez                                      	1	E   	Police Officer/Teacher			3
+2014June3 	5203	2	Hosmon	John	H		JOHN H. HOSMON	John H. Hosmon                                    	1	E   	EMT/Union Treasurer			4
+2014June3 	5203	6	Gagliardi	Don			DON GAGLIARDI	Don Gagliardi                                     	1	E   	Community Businessman			5
+2014June3 	5203	1	Sutherland	Kathy	Yamada		KATHY YAMADA SUTHERLAND	Kathy Yamada Sutherland                           	1	E   	Mother/Retired Manager			6
+2014June3 	5205	1	Resendez	Aaron			AARON RESENDEZ	Aaron Resendez                                    	1	E   	Business Consultant			1
+2014June3 	5205	4	Carrasco	Magdalena			MAGDALENA CARRASCO	Magdalena Carrasco                                	1	E   	State Commissioner/Educator			2
+2014June3 	5205	2	Campos	Xavier			XAVIER CAMPOS	Xavier Campos                                     	1	E   	Incumbent			3
+2014June3 	5207	1	Thai	Buu			BUU THAI	Buu Thai                                          	1	E   	School Board President			1
+2014June3 	5207	3	Nguyen	Tam			TAM NGUYEN	Tam Nguyen                                        	1	E   	Attorney			2
+2014June3 	5207	4	Esparza	Maya			MAYA ESPARZA	Maya Esparza                                      	1	E   	Governing Board Member, Franklin-McKinley School District			3
+2014June3 	5207	2	Le	Van			VAN LE	Van Le                                            	1	E   	School Trustee/Businesswoman			4
+2014June3 	5209	2	Rocha	Donald			DONALD ROCHA	Donald Rocha                                      	1	E   	Councilmember District 9			1
+2014June3 	5209	1	Wilco-Owens	Lois			LOIS WILCO-OWENS	Lois Wilco-Owens                                  	1	E   	Licensed Family Therapist			2
