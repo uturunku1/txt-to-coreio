@@ -89,7 +89,6 @@ export class District {
   id: string;
   name: string;
   type: string;
-
   districthndl: number;
 
   constructor(data: DistrictData) {
@@ -168,31 +167,31 @@ export class Party {
 export class Contest {
   static sequence = 10;
   id: string;
+  selections: number;
+  num_writeins: number;
+  sequence: number;
+
   name: string;
   ballothead: string;
-  // text: TranslatableText[];
-  selections: number;
-  writeins: number;
-  sequence: number;
   officemaster: number;
+  text: TranslatableText[];
   // termlength: number;
   // type: 'contest'|'measure'|'text';
-
-  // external_district_ids: string[] = [];
-
-  // titleManager: TranslatableTextManager;
-  // textManager: TranslatableTextManager;
+  external_district_ids: string[] = [];
+  titleManager: TranslatableTextManager;
+  textManager: TranslatableTextManager;
   // district: string;
   // boxSelections: number;
   // boxWriteins: number;
   // headerNames: string[] = [];
   constructor(data: ContestData) {
     this.id = String(data.icontestid);
+    this.selections = +data.inumtovotefor;
+    this.num_writeins = +data.iwriteins;
+    this.sequence = Contest.sequence;
     this.name = data.szofficetitle;
     this.officemaster = data.lofficemasterhndl;
     this.ballothead = data.szballotheading;
-    this.selections = +data.inumtovotefor;
-    this.writeins = +data.iwriteins;
     // this.boxSelections = data.overridevotefor === '1' ? +data.votefor : +data.officevotefor;
     // this.boxWriteins = data.overridewriteins === '1' ? +data.writeins : +data.officewriteins;
 
@@ -216,7 +215,6 @@ export class Contest {
 
     // @todo: Do we get sequence from order exported, id, or reporting order?
     // @assumption - Getting contest order from order appearing in file
-    this.sequence = Contest.sequence;
 
     // this.titleManager = new TranslatableTextManager();
     // this.textManager = new TranslatableTextManager();
@@ -265,55 +263,51 @@ export class Contest {
 
 export class Choice {
   static sequence = 10;
-  candidateID: string;
+  candidate_id: string;
   name: string;
-  // type: string;
-  sequence: number;
-  contestID: number;
-  designation: string;
-  partyName: string;
-  contestName: string;
   titleManager: TranslatableTextManager;
+  sequence: number;
+  contest_id: number;
+  designation: string;
+  party_name: string;
+  party_hndl: number;
+  type: string;
+
   constructor(data: ChoiceData) {
-    this.candidateID = String(data.icandidateid);
     this.name = data.szcandidateballotname;
-    this.partyName = data.spartyabbr;
-    this.contestID = data.icontestid;
-    // this.type = 'default';
-    this.designation = data.szballotdesignation;
-    // if (data.type === 'Write In') {
-    //   this.type = 'writein';
-    // } else if (data.type === 'Qualified Writein') {
-    //   // @assumption - Skip qualified writeins
-    //   this.type = 'skip';
-    // }
-    // @todo: Candidate order
     this.sequence = Choice.sequence;
+    this.candidate_id = String(data.icandidateid);
+    this.designation = data.szballotdesignation;
+    this.party_name = data.spartyabbr;
+    this.contest_id = data.icontestid;
+    this.party_hndl = data.lpartyhndl;
+    this.type = 'default';
+
     this.titleManager = new TranslatableTextManager();
     // @todo: Write ins aren't provided in display table
     this.titleManager.add(0, this.name, 'English');
+    this.titleManager.add(1, this.designation, 'English');
     Choice.sequence += 10;
   }
-
-  setDisplayData(displayData: ChoiceDisplayData[]) {
-    displayData.filter(item => {
-      return item.choicename === this.name // Match the choice name
-        && item.contestname === this.contestName // Match the contest
-        && item.purpose === 'Audio' // Audio is the field that holds translations
-    }).forEach(item => {
-      const tus = +item.numoftu;
-      for (let i = 0; i < tus; i++) {
-        this.titleManager.add(i, item[`tu${i+1}`], item.language);
-      }
-
-      // @todo: tus/rtf - Sometimes it's possible to have only rtf defined.
-      // We can't/don't want to rely on rtf because it has special formatting.
-      const appearance = item.appearance.toLowerCase();
-      if (tus === 0 && appearance === 'rtf' && item.rtftext) {
-        this.titleManager.add(0, item.rtftext, item.language);
-      }
-    })
-  }
+  // setDisplayData(displayData: ChoiceDisplayData[]) {
+  //   displayData.filter(item => {
+  //     return item.choicename === this.name // Match the choice name
+  //       && item.contestname === this.contestName // Match the contest
+  //       && item.purpose === 'Audio' // Audio is the field that holds translations
+  //   }).forEach(item => {
+  //     const tus = +item.numoftu;
+  //     for (let i = 0; i < tus; i++) {
+  //       this.titleManager.add(i, item[`tu${i+1}`], item.language);
+  //     }
+  //
+  //     // @todo: tus/rtf - Sometimes it's possible to have only rtf defined.
+  //     // We can't/don't want to rely on rtf because it has special formatting.
+  //     const appearance = item.appearance.toLowerCase();
+  //     if (tus === 0 && appearance === 'rtf' && item.rtftext) {
+  //       this.titleManager.add(0, item.rtftext, item.language);
+  //     }
+  //   })
+  // }
 }
 
 

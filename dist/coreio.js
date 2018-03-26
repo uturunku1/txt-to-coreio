@@ -293,25 +293,23 @@ var Party = /** @class */ (function () {
 }());
 exports.Party = Party;
 var Office = /** @class */ (function () {
+    // titles: TranslatableText[] = [];
+    // text: TranslatableText[] = [];
+    // term_start: number = 0;
+    // term: number = 0;
+    // external_district_ids: string[] = [];
     function Office(defaultValues) {
         if (defaultValues === void 0) { defaultValues = {}; }
         var _this = this;
         this.account_id = '';
         this.external_id = '';
-        // titles: TranslatableText[] = [];
-        // text: TranslatableText[] = [];
         this.num_selections = 1;
         this.num_writeins = 0;
         this.sequence = 0;
-        // term_start: number = 0;
-        // term: number = 0;
-        // external_district_ids: string[] = [];
         this.id = '';
         this.name = '';
         this.ballothead = '';
         this.officemaster = 0;
-        // text: TranslatableText[];
-        this.writeins = 0;
         Object.keys(this).forEach(function (key) {
             if (defaultValues[key] !== undefined) {
                 _this[key] = defaultValues[key];
@@ -389,13 +387,11 @@ var Candidate = /** @class */ (function () {
         var _this = this;
         this.account_id = '';
         this.external_id = '';
-        this.name = '';
-        // type: string = '';
-        this.candidateID = '';
-        this.designation = '';
-        this.partyName = '';
-        // contestName: string='';
-        this.contestID = 0;
+        // candidate_id: string='';
+        // designation: string='';
+        this.party_name = '';
+        this.contest_id = 0;
+        this.party_hndl = 0;
         this.titles = [];
         this.sequence = 0;
         Object.keys(this).forEach(function (key) {

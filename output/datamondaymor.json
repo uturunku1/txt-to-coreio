@@ -1,0 +1,4224 @@
+{
+ "languages": [],
+ "districts": [
+  {
+   "account_id": "dev",
+   "external_id": "*0",
+   "name": "County of Santa Clara",
+   "type": "County",
+   "districthndl": 882
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SE002",
+   "name": "State Board Of Equalization #2",
+   "type": "Board of Equalization (State)",
+   "districthndl": 985
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK05",
+   "name": "Santa Clara Valley Water District - Dist 1",
+   "type": "Santa Clara Valley Water Dist",
+   "districthndl": 1459
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-861",
+   "name": "2010 CT - 5091.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1316
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-862",
+   "name": "2010 CT - 5091.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1317
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-863",
+   "name": "2010 CT - 5091.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1318
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-864",
+   "name": "2010 CT - 5091.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1319
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-865",
+   "name": "2010 CT - 5091.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1320
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-866",
+   "name": "2010 CT - 5091.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1321
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-867",
+   "name": "2010 CT - 5092.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1322
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-868",
+   "name": "2010 CT - 5092.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1323
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-869",
+   "name": "2010 CT - 5093.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1324
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-870",
+   "name": "2010 CT - 5093.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1325
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-871",
+   "name": "2010 CT - 5093.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1326
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-872",
+   "name": "2010 CT - 5094.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1327
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-873",
+   "name": "2010 CT - 5094.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1328
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-874",
+   "name": "2010 CT - 5094.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1329
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-875",
+   "name": "2010 CT - 5095",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1330
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-876",
+   "name": "2010 CT - 5096",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1331
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-877",
+   "name": "2010 CT - 5097",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1332
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-878",
+   "name": "2010 CT - 5098.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1333
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-879",
+   "name": "2010 CT - 5098.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1334
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-880",
+   "name": "2010 CT - 5099.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1335
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-881",
+   "name": "2010 CT - 5099.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1336
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-882",
+   "name": "2010 CT - 5100.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1337
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-883",
+   "name": "2010 CT - 5100.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1338
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-884",
+   "name": "2010 CT - 5101",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1339
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-885",
+   "name": "2010 CT - 5102",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1340
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-886",
+   "name": "2010 CT - 5103",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1341
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-887",
+   "name": "2010 CT - 5104",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1342
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-888",
+   "name": "2010 CT - 5105",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1343
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-889",
+   "name": "2010 CT - 5106",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1344
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-890",
+   "name": "2010 CT - 5107",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1345
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-891",
+   "name": "2010 CT - 5108.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1346
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-892",
+   "name": "2010 CT - 5108.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1347
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-893",
+   "name": "2010 CT - 5108.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1348
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-894",
+   "name": "2010 CT - 5109",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1349
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-895",
+   "name": "2010 CT - 5110",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1350
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-896",
+   "name": "2010 CT -  5111",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1351
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-897",
+   "name": "2010 CT - 5112",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1352
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-898",
+   "name": "2010 CT - 5113.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1353
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-899",
+   "name": "2010 CT - 5113.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1354
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-900",
+   "name": "2010 CT - 5114",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1355
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-901",
+   "name": "2010 CT - 5115",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1356
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-902",
+   "name": "2010 CT - 5116.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1357
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-903",
+   "name": "2010 CT - 5116.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1358
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-904",
+   "name": "2010 CT - 5117.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1359
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-905",
+   "name": "2010 CT - 5117.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1360
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-906",
+   "name": "2010 CT - 5117.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1361
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-907",
+   "name": "2010 CT - 5117.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1362
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-908",
+   "name": "2010 CT - 5117.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1363
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-909",
+   "name": "2010 CT - 5118",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1364
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-910",
+   "name": "2010 CT - 5119.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1365
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-911",
+   "name": "2010 CT - 5119.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1366
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-912",
+   "name": "2010 CT - 5119.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1367
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-913",
+   "name": "2010 CT - 5119.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1368
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-914",
+   "name": "2010 CT - 5119.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1369
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-915",
+   "name": "2010 CT - 5119.12",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1370
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-916",
+   "name": "2010 CT - 5119.13",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1371
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-917",
+   "name": "2010 CT - 5119.14",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1372
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-918",
+   "name": "2010 CT - 5119.15",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1373
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-919",
+   "name": "2010 CT - 5119.16",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1374
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-920",
+   "name": "2010 CT - 5120.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1375
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-921",
+   "name": "2010 CT - 5120.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1376
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-922",
+   "name": "2010 CT - 5120.17",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1377
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-923",
+   "name": "2010 CT - 5120.19",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1378
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-924",
+   "name": "2010 CT - 5120.20",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1379
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-925",
+   "name": "2010 CT - 5120.21",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1380
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-926",
+   "name": "2010 CT - 5120.22",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1381
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-927",
+   "name": "2010 CT - 5120.23",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1382
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-928",
+   "name": "2010 CT - 5120.24",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1383
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-929",
+   "name": "2010 CT - 5120.25",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1384
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-930",
+   "name": "2010 CT - 5120.26",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1385
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-931",
+   "name": "2010 CT - 5120.27",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1386
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-932",
+   "name": "2010 CT - 5120.29",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1387
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-933",
+   "name": "2010 CT - 5120.30",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1388
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-934",
+   "name": "2010 CT - 5120.31",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1389
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-935",
+   "name": "2010 CT - 5120.32",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1390
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-936",
+   "name": "2010 CT - 5120.33",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1391
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-937",
+   "name": "2010 CT - 5120.34",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1392
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-938",
+   "name": "2010 CT - 5120.35",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1393
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-964",
+   "name": "2010 CT - 5125.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1450
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-965",
+   "name": "2010 CT - 5125.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1451
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-966",
+   "name": "2010 CT - 5125.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1452
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*502",
+   "name": "City of Campbell",
+   "type": "City",
+   "districthndl": 888
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*503",
+   "name": "City of Cupertino",
+   "type": "City",
+   "districthndl": 889
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*504",
+   "name": "City of Gilroy",
+   "type": "City",
+   "districthndl": 890
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*505",
+   "name": "City of Los Altos",
+   "type": "City",
+   "districthndl": 891
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*506",
+   "name": "Town of Los Altos Hills",
+   "type": "City",
+   "districthndl": 892
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*507",
+   "name": "Town of Los Gatos",
+   "type": "City",
+   "districthndl": 893
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*508",
+   "name": "City of Milpitas",
+   "type": "City",
+   "districthndl": 894
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*509",
+   "name": "City of Monte Sereno",
+   "type": "City",
+   "districthndl": 895
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*510",
+   "name": "City of Morgan Hill",
+   "type": "City",
+   "districthndl": 896
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*511",
+   "name": "City of Mountain View",
+   "type": "City",
+   "districthndl": 897
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*512",
+   "name": "City of Palo Alto",
+   "type": "City",
+   "districthndl": 898
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*513",
+   "name": "City of Santa Clara",
+   "type": "City",
+   "districthndl": 899
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*514",
+   "name": "City of Saratoga",
+   "type": "City",
+   "districthndl": 900
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*515",
+   "name": "City of Sunnyvale",
+   "type": "City",
+   "districthndl": 901
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*520",
+   "name": "City of San Jose",
+   "type": "City",
+   "districthndl": 902
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-824",
+   "name": "2010 CT - 5077.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1279
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*401",
+   "name": "1st Supervisorial District",
+   "type": "County Supervisor",
+   "districthndl": 1423
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*402",
+   "name": "2nd Supervisorial District",
+   "type": "County Supervisor",
+   "districthndl": 1424
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*403",
+   "name": "3rd Supervisorial District",
+   "type": "County Supervisor",
+   "districthndl": 1425
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*404",
+   "name": "4th Supervisorial District",
+   "type": "County Supervisor",
+   "districthndl": 1426
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*599  ",
+   "name": "Unincorporated Area",
+   "type": "City",
+   "districthndl": 913
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*601",
+   "name": "Stanford",
+   "type": "City",
+   "districthndl": 914
+  },
+  {
+   "account_id": "dev",
+   "external_id": "HOSP01",
+   "name": "El Camino Healthcare District",
+   "type": "Hospital District",
+   "districthndl": 919
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK01",
+   "name": "Mid-Peninsula Regional Open Space District",
+   "type": "Open Space District",
+   "districthndl": 921
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK02",
+   "name": "Rancho Rinconada",
+   "type": "Recreation & Park District",
+   "districthndl": 927
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK04",
+   "name": "Overlook Road Maintenance District",
+   "type": "Road Maintenance District",
+   "districthndl": 933
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK06",
+   "name": "San Martin County Water District",
+   "type": "Flood District",
+   "districthndl": 942
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK07",
+   "name": "Guadalupe-Coyote Resource Conservation District",
+   "type": "Resource District",
+   "districthndl": 943
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK08",
+   "name": "Loma Prieta Resource District",
+   "type": "Resource District",
+   "districthndl": 944
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK09",
+   "name": "Santa Clara County Open Space Authority",
+   "type": "Open Space District",
+   "districthndl": 945
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK10",
+   "name": "North County Library Authority",
+   "type": "Library District",
+   "districthndl": 953
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK11",
+   "name": "Santa Clara County Library District Joint Powers Authority",
+   "type": "Library District",
+   "districthndl": 954
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK12",
+   "name": "Pacheco Storm Water District",
+   "type": "Storm Water District",
+   "districthndl": 955
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK13",
+   "name": "Pacheco Pass Water District",
+   "type": "Water District",
+   "districthndl": 956
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK15",
+   "name": "Casa Loma-Loma Chiquita Road Maintenance District",
+   "type": "Road Maintenance District",
+   "districthndl": 957
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SCC-1",
+   "name": "Foothill-De Anza CCD",
+   "type": "Community College",
+   "districthndl": 967
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SCC-2",
+   "name": "Gavilan CCD",
+   "type": "Community College",
+   "districthndl": 968
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SCC-3",
+   "name": "San Jose/Evergreen CCD",
+   "type": "Community College",
+   "districthndl": 972
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SCC-4",
+   "name": "West Valley-Mission CCD",
+   "type": "Community College",
+   "districthndl": 980
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK14",
+   "name": "Library Joint Powers Authority of Santa Clara County Community Facilities District No. 2013-1",
+   "type": "Library District",
+   "districthndl": 1480
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SCC-5",
+   "name": "Yosemite CCD TA #4",
+   "type": "Community College",
+   "districthndl": 984
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SHS-1",
+   "name": "Campbell Union High SD",
+   "type": "High School District",
+   "districthndl": 986
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SHS-2",
+   "name": "East Side Union High SD",
+   "type": "High School District",
+   "districthndl": 987
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SHS-3",
+   "name": "Fremont Union High SD",
+   "type": "High School District",
+   "districthndl": 988
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SHS-6",
+   "name": "Los Gatos-Saratoga Joint Union High SD",
+   "type": "High School District",
+   "districthndl": 989
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SHS-7",
+   "name": "Mountain View-Los Altos Union High School District",
+   "type": "High School District",
+   "districthndl": 990
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SHS-8",
+   "name": "San Benito High SD",
+   "type": "High School District",
+   "districthndl": 991
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-1",
+   "name": "Gilroy Unified SD",
+   "type": "Unified School District",
+   "districthndl": 996
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-2",
+   "name": "Morgan Hill Unified SD",
+   "type": "Unified School District",
+   "districthndl": 997
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-3",
+   "name": "Santa Clara Unified SD",
+   "type": "Unified School District",
+   "districthndl": 998
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-4",
+   "name": "Palo Alto Unified SD",
+   "type": "Unified School District",
+   "districthndl": 1002
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-5",
+   "name": "San Jose Unified SD",
+   "type": "Unified School District",
+   "districthndl": 1003
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-6",
+   "name": "Milpitas Unified School District",
+   "type": "Unified School District",
+   "districthndl": 1009
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-7",
+   "name": "Mountain View Whisman School District",
+   "type": "Elementary School District",
+   "districthndl": 1010
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-A",
+   "name": "Alum Rock Union  School District",
+   "type": "Elementary School District",
+   "districthndl": 1011
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-B",
+   "name": "Berryessa Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1012
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-C",
+   "name": "Cambrian School District",
+   "type": "Elementary School District",
+   "districthndl": 1013
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-D",
+   "name": "Campbell Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1014
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-E",
+   "name": "Cupertino Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1015
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-F",
+   "name": "Evergreen School District",
+   "type": "Elementary School District",
+   "districthndl": 1016
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-G",
+   "name": "Franklin-McKinley School District",
+   "type": "Elementary School District",
+   "districthndl": 1017
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-H",
+   "name": "Patterson Joint Unified SD - TA #2",
+   "type": "Unified School District",
+   "districthndl": 1018
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-K",
+   "name": "North County Joint Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1019
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-L",
+   "name": "Oak Grove School District",
+   "type": "Elementary School District",
+   "districthndl": 1466
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-M",
+   "name": "Orchard School District",
+   "type": "Elementary School District",
+   "districthndl": 1026
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-N",
+   "name": "Lakeside Joint School District",
+   "type": "Elementary School District",
+   "districthndl": 1027
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-P",
+   "name": "Loma Prieta Joint Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1028
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-Q",
+   "name": "Los Altos School District",
+   "type": "Elementary School District",
+   "districthndl": 1029
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-R",
+   "name": "Los Gatos Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1030
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-S",
+   "name": "Luther Burbank School District",
+   "type": "Elementary School District",
+   "districthndl": 1031
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-U",
+   "name": "Moreland School District",
+   "type": "Elementary School District",
+   "districthndl": 1032
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-V",
+   "name": "Mount Pleasant School District",
+   "type": "Elementary School District",
+   "districthndl": 1033
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-W",
+   "name": "Saratoga Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1034
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-X",
+   "name": "Sunnyvale School District",
+   "type": "Elementary School District",
+   "districthndl": 1035
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUS-Y",
+   "name": "Union School District",
+   "type": "Elementary School District",
+   "districthndl": 1036
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-01",
+   "name": "Santa Clara County Office of Education TA #1",
+   "type": "County Board of Education",
+   "districthndl": 1037
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-02",
+   "name": "Santa Clara County Office of Education TA #2",
+   "type": "County Board of Education",
+   "districthndl": 1038
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-03",
+   "name": "Santa Clara County Office of Education TA #3",
+   "type": "County Board of Education",
+   "districthndl": 1039
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-04",
+   "name": "Santa Clara County Office of Education TA #4",
+   "type": "County Board of Education",
+   "districthndl": 1040
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-05",
+   "name": "Santa Clara County Office of Education TA #5",
+   "type": "County Board of Education",
+   "districthndl": 1041
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-07",
+   "name": "Santa Clara County Office of Education TA #7",
+   "type": "County Board of Education",
+   "districthndl": 1042
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-06",
+   "name": "Santa Clara County Office of Education TA #6",
+   "type": "County Board of Education",
+   "districthndl": 1043
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-08",
+   "name": "San Benito County Bd Of Ed - TA #1",
+   "type": "County Board of Education",
+   "districthndl": 1044
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-09",
+   "name": "Stanislaus County Bd Of Ed - TA #5",
+   "type": "County Board of Education",
+   "districthndl": 1045
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-1",
+   "name": "Aldercroft Heights County Water District",
+   "type": "Water District",
+   "districthndl": 1047
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-2",
+   "name": "Burbank Sanitary District",
+   "type": "Sanitation District",
+   "districthndl": 1048
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-3",
+   "name": "Cupertino Sanitary District",
+   "type": "Sanitation District",
+   "districthndl": 1049
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-4",
+   "name": "West Bay Sanitary District",
+   "type": "Sanitation District",
+   "districthndl": 1050
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-601",
+   "name": "2010 CT - 5001",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1056
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-605",
+   "name": "2010 CT - 5005",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1060
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-5",
+   "name": "Purissima Hills Water District",
+   "type": "Water District",
+   "districthndl": 1051
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-6",
+   "name": "Saratoga Fire Protection District",
+   "type": "Fire District",
+   "districthndl": 1052
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-7",
+   "name": "South Santa Clara Valley Memorial District",
+   "type": "Memorial District",
+   "districthndl": 1053
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-8",
+   "name": "Sunol Sanitary District",
+   "type": "Sanitation District",
+   "districthndl": 1054
+  },
+  {
+   "account_id": "dev",
+   "external_id": "UDEL-9",
+   "name": "GHAD- Silver Creek Country Club",
+   "type": "Country Club",
+   "districthndl": 1055
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-609",
+   "name": "2010 CT - 5009.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1064
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-610",
+   "name": "2010 CT - 5010",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1065
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-611",
+   "name": "2010 CT - 5011.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1066
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-612",
+   "name": "2010 CT - 5011.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1067
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-613",
+   "name": "2010 CT - 5012",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1068
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-614",
+   "name": "2010 CT - 5013",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1069
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-615",
+   "name": "2010 CT - 5014.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1070
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-616",
+   "name": "2010 CT - 5014.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1071
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-617",
+   "name": "2010 CT - 5015.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1072
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-618",
+   "name": "2010 CT - 5015.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1073
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-619",
+   "name": "2010 CT - 5016",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1074
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-620",
+   "name": "2010 CT - 5017",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1075
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-621",
+   "name": "2010 CT - 5018",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1076
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-622",
+   "name": "2010 CT - 5019",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1077
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-623",
+   "name": "2010 CT - 5020.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1078
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-624",
+   "name": "2010 CT - 5020.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1079
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-625",
+   "name": "2010 CT - 5021.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1080
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-626",
+   "name": "2010 CT - 5021.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1081
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-627",
+   "name": "2010 CT - 5022.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1082
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-628",
+   "name": "2010 CT - 5022.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1083
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-629",
+   "name": "2010 CT - 5023.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1084
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-630",
+   "name": "2010 CT - 5023.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1085
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-631",
+   "name": "2010 CT - 5024",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1086
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-632",
+   "name": "2010 CT - 5025",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1087
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-633",
+   "name": "2010 CT - 5026.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1088
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-634",
+   "name": "2010 CT - 5026.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1089
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-635",
+   "name": "2010 CT - 5026.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1090
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-636",
+   "name": "2010 CT - 5027.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1091
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-637",
+   "name": "2010 CT - 5027.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1092
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-638",
+   "name": "2010 CT - 5028",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1093
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-639",
+   "name": "2010 CT - 5029.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1094
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-640",
+   "name": "2010 CT - 5029.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1095
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-641",
+   "name": "2010 CT - 5029.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1096
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-642",
+   "name": "2010 CT - 5029.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1097
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-643",
+   "name": "2010 CT - 5029.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1098
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-644",
+   "name": "2010 CT - 5029.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1099
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-645",
+   "name": "2010 CT - 5029.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1100
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-646",
+   "name": "2010 CT - 5029.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1101
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-647",
+   "name": "2010 CT - 5030.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1102
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-648",
+   "name": "2010 CT - 5030.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1103
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-649",
+   "name": "2010 CT - 5030.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1104
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-650",
+   "name": "2010 CT - 5031.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1105
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-651",
+   "name": "2010 CT - 5031.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1106
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-652",
+   "name": "2010 CT - 5031.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1107
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-653",
+   "name": "2010 CT - 5031.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1108
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-654",
+   "name": "2010 CT - 5031.12",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1109
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-655",
+   "name": "2010 CT - 5031.13",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1110
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-656",
+   "name": "2010 CT - 5031.15",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1111
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-657",
+   "name": "2010 CT - 5031.16",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1112
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-658",
+   "name": "2010 CT - 5031.17",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1113
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-659",
+   "name": "2010 CT - 5031.18",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1114
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-660",
+   "name": "2010 CT - 5031.21",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1115
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-661",
+   "name": "2010 CT - 5031.22",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1116
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-662",
+   "name": "2010 CT - 5031.23",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1117
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-663",
+   "name": "2010 CT - 5032.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1118
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-667",
+   "name": "2010 CT - 5032.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1122
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-665",
+   "name": "2010 CT - 5032.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1120
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-666",
+   "name": "2010 CT - 5032.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1121
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-668",
+   "name": "2010 CT - 5032.12",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1123
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-669",
+   "name": "2010 CT - 5032.13",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1124
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-670",
+   "name": "2010 CT - 5032.14",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1125
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-671",
+   "name": "2010 CT - 5032.17",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1126
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-672",
+   "name": "2010 CT - 5032.18",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1127
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-673",
+   "name": "2010 CT - 5033.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1128
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-674",
+   "name": "2010 CT - 5033.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1129
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-675",
+   "name": "2010 CT - 5033.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1130
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-676",
+   "name": "2010 CT - 5033.12",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1131
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-677",
+   "name": "2010 CT - 5033.13",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1132
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-678",
+   "name": "2010 CT - 5033.15",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1133
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-679",
+   "name": "2010 CT - 5033.21",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1134
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-680",
+   "name": "2010 CT - 5033.22",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1135
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-681",
+   "name": "2010 CT - 5033.23",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1136
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-682",
+   "name": "2010 CT - 5033.24",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1137
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-683",
+   "name": "2010 CT - 5033.25",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1138
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-684",
+   "name": "2010 CT - 5033.26",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1139
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-664",
+   "name": "2010 CT - 5032.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1119
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-685",
+   "name": "2010 CT - 5033.27",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1140
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-686",
+   "name": "2010 CT - 5033.29",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1141
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-687",
+   "name": "2010 CT - 5033.30",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1142
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-688",
+   "name": "2010 CT - 5033.31",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1143
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-689",
+   "name": "2010 CT - 5033.32",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1144
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-690",
+   "name": "2010 CT - 5033.33",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1145
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-691",
+   "name": "2010 CT - 5033.34",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1146
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-692",
+   "name": "2010 CT - 5033.36",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1147
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-693",
+   "name": "2010 CT - 5033.37",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1148
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-694",
+   "name": "2010 CT - 5034.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1149
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-695",
+   "name": "2010 CT - 5034.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1150
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-696",
+   "name": "2010 CT - 5035.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1151
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-697",
+   "name": "2010 CT - 5035.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1152
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-698",
+   "name": "2010 CT - 5035.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1153
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-699",
+   "name": "2010 CT - 5035.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1154
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-700",
+   "name": "2010 CT - 5035.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1155
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-701",
+   "name": "2010 CT - 5035.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1156
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-702",
+   "name": "2010 CT - 5035.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1157
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-703",
+   "name": "2010 CT - 5036.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1158
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-704",
+   "name": "2010 CT - 5036.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1159
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-705",
+   "name": "2010 CT - 5037.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1160
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-706",
+   "name": "2010 CT - 5037.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1161
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-707",
+   "name": "2010 CT - 5037.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1162
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-708",
+   "name": "2010 CT - 5037.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1163
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-709",
+   "name": "2010 CT - 5037.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1164
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-710",
+   "name": "2010 CT - 5037.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1165
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-711",
+   "name": "2010 CT - 5037.12",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1166
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-712",
+   "name": "2010 CT - 5037.13",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1167
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-713",
+   "name": "2010 CT - 5038.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1168
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-714",
+   "name": "2010 CT - 5038.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1169
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-715",
+   "name": "2010 CT - 5038.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1170
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-716",
+   "name": "2010 CT - 5039.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1171
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-717",
+   "name": "2010 CT - 5039.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1172
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-718",
+   "name": "2010 CT - 5040.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1173
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-719",
+   "name": "2010 CT - 5040.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1174
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-720",
+   "name": "2010 CT - 5041.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1175
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-721",
+   "name": "2010 CT - 5041.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1176
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-722",
+   "name": "2010 CT - 5042.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1177
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-723",
+   "name": "2010 CT - 5042.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1178
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-724",
+   "name": "2010 CT - 5043.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1179
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-725",
+   "name": "2010 CT - 5043.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1180
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-726",
+   "name": "2010 CT - 5043.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1181
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-727",
+   "name": "2010 CT - 5043.14",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1182
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-728",
+   "name": "2010 CT - 5043.15",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1183
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-729",
+   "name": "2010 CT - 5043.16",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1184
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-730",
+   "name": "2010 CT - 5043.17",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1185
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-731",
+   "name": "2010 CT - 5043.18",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1186
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-732",
+   "name": "2010 CT - 5043.19",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1187
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-733",
+   "name": "2010 CT - 5043.20",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1188
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-734",
+   "name": "2010 CT - 5043.21",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1189
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-735",
+   "name": "2010 CT - 5043.22",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1190
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-736",
+   "name": "2010 CT - 5043.23",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1191
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-737",
+   "name": "2010 CT - 5044.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1192
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-738",
+   "name": "2010 CT - 5044.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1193
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-739",
+   "name": "2010 CT - 5044.12",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1194
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-740",
+   "name": "2010 CT - 5044.13",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1195
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-741",
+   "name": "2010 CT - 5044.14",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1196
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-742",
+   "name": "2010 CT - 5044.15",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1197
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-743",
+   "name": "2010 CT - 5044.16",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1198
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-744",
+   "name": "2010 CT - 5044.17",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1199
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-745",
+   "name": "2010 CT - 5044.18",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1200
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-746",
+   "name": "2010 CT - 5044.20",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1201
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-747",
+   "name": "2010 CT - 5044.21",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1202
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-748",
+   "name": "2010 CT - 5044.22",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1203
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-749",
+   "name": "2010 CT - 5044.23",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1204
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-750",
+   "name": "2010 CT - 5045.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1205
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-751",
+   "name": "2010 CT - 5045.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1206
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-752",
+   "name": "2010 CT - 5045.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1207
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-753",
+   "name": "2010 CT - 5045.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1208
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-754",
+   "name": "2010 CT - 5046.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1209
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-755",
+   "name": "2010 CT - 5046.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1210
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-756",
+   "name": "2010 CT - 5047",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1211
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-757",
+   "name": "2010 CT - 5048.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1212
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-758",
+   "name": "2010 CT - 5048.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1213
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-759",
+   "name": "2010 CT - 5048.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1214
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-760",
+   "name": "2010 CT - 5048.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1215
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-761",
+   "name": "2010 CT - 5049.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1216
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-762",
+   "name": "2010 CT - 5050.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1217
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-763",
+   "name": "2010 CT - 5050.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1218
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-764",
+   "name": "2010 CT - 5050.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1219
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-765",
+   "name": "2010 CT - 5050.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1220
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-766",
+   "name": "2010 CT - 5050.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1221
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-767",
+   "name": "2010 CT - 5051",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1222
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-768",
+   "name": "2010 CT - 5052.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1223
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-769",
+   "name": "2010 CT - 5052.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1224
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-770",
+   "name": "2010 CT - 5053.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1225
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-771",
+   "name": "2010 CT - 5053.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1226
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-772",
+   "name": "2010 CT - 5053.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1227
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-773",
+   "name": "2010 CT - 5053.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1228
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-774",
+   "name": "2010 CT - 5053.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1229
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-775",
+   "name": "2010 CT - 5054.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1230
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-776",
+   "name": "2010 CT - 5054.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1231
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-777",
+   "name": "2010 CT - 5054.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1232
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-778",
+   "name": "2010 CT - 5055",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1233
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SUT-10",
+   "name": "SCC Board of Education- Transfer of Territory",
+   "type": "County Board of Education",
+   "districthndl": 1046
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-779",
+   "name": "2010 CT - 5056",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1234
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-780",
+   "name": "2010 CT - 5057",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1235
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-781",
+   "name": "2010 CT - 5058",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1236
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-782",
+   "name": "2010 CT - 5059",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1237
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-783",
+   "name": "2010 CT - 5060",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1238
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-784",
+   "name": "2010 CT - 5061.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1239
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-785",
+   "name": "2010 CT - 5061.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1240
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-786",
+   "name": "2010 CT - 5061.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1241
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-787",
+   "name": "2010 CT - 5062.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1242
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-788",
+   "name": "2010 CT - 5062.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1243
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-789",
+   "name": "2010 CT - 5062.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1244
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-790",
+   "name": "2010 CT - 5063.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1245
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-791",
+   "name": "2010 CT - 5063.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1246
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-792",
+   "name": "2010 CT - 5063.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1247
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-793",
+   "name": "2010 CT - 5063.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1248
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-794",
+   "name": "2010 CT - 5064.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1249
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-795",
+   "name": "2010 CT - 5064.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1250
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-796",
+   "name": "2010 CT - 5065.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1251
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-797",
+   "name": "2010 CT - 5065.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1252
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-798",
+   "name": "2010 CT - 5065.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1253
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-799",
+   "name": "2010 CT - 5066.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1254
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-800",
+   "name": "2010 CT - 5066.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1255
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-801",
+   "name": "2010 CT - 5066.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1256
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-802",
+   "name": "2010 CT - 5066.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1257
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-803",
+   "name": "2010 CT - 5066.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1258
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-804",
+   "name": "2010 CT - 5067.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1259
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-805",
+   "name": "2010 CT - 5067.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1260
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-806",
+   "name": "2010 CT - 5067.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1261
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-807",
+   "name": "2010 CT - 5068.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1262
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-808",
+   "name": "2010 CT - 5068.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1263
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-809",
+   "name": "2010 CT - 5068.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1264
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-810",
+   "name": "2010 CT - 5068.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1265
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-811",
+   "name": "2010 CT - 5069",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1266
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-812",
+   "name": "2010 CT - 5070.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1267
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-813",
+   "name": "2010 CT - 5070.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1268
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-814",
+   "name": "2010 CT - 5071",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1269
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-815",
+   "name": "2010 CT - 5072.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1270
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-816",
+   "name": "2010 CT - 5072.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1271
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-817",
+   "name": "2010 CT - 5072.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1272
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-818",
+   "name": "2010 CT - 5073.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1273
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-819",
+   "name": "2010 CT - 5073.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1274
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-820",
+   "name": "2010 CT - 5074.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1275
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-821",
+   "name": "2010 CT - 5074.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1276
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-822",
+   "name": "2010 CT - 5075",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1277
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-823",
+   "name": "2010 CT - 5076",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1278
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-825",
+   "name": "2010 CT - 5077.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1280
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-826",
+   "name": "2010 CT - 5077.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1281
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-827",
+   "name": "2010 CT - 5078.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1282
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-828",
+   "name": "2010 CT - 5078.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1283
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-829",
+   "name": "2010 CT - 5078.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1284
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-830",
+   "name": "2010 CT - 5078.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1285
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-831",
+   "name": "2010 CT - 5079.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1286
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-832",
+   "name": "2010 CT - 5079.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1287
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-833",
+   "name": "2010 CT - 5079.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1288
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-834",
+   "name": "2010 CT - 5079.06",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1289
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-835",
+   "name": "2010 CT - 5080.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1290
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-836",
+   "name": "2010 CT - 5080.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1291
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-837",
+   "name": "2010 CT - 5080.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1292
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-838",
+   "name": "2010 CT - 5081.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1293
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-839",
+   "name": "2010 CT - 5081.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1294
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-840",
+   "name": "2010 CT - 5082.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1295
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-841",
+   "name": "2010 CT - 5082.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1296
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-842",
+   "name": "2010 CT - 5082.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1297
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-843",
+   "name": "2010 CT - 5083.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1298
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-844",
+   "name": "2010 CT - 5083.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1299
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-845",
+   "name": "2010 CT - 5083.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1300
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-846",
+   "name": "2010 CT - 5084.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1301
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-847",
+   "name": "2010 CT - 5084.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1302
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-848",
+   "name": "2010 CT - 5084.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1303
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-849",
+   "name": "2010 CT - 5085.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1304
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-850",
+   "name": "2010 CT - 5085.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1305
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-851",
+   "name": "2010 CT - 5085.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1306
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-852",
+   "name": "2010 CT - 5085.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1307
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-853",
+   "name": "2010 CT - 5085.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1308
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-854",
+   "name": "2010 CT - 5086.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1309
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-855",
+   "name": "2010 CT - 5086.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1310
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-856",
+   "name": "2010 CT - 5087.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1311
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-857",
+   "name": "2010 CT - 5087.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1312
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-858",
+   "name": "2010 CT - 5088",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1313
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-859",
+   "name": "2010 CT - 5089",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1314
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-860",
+   "name": "2010 CT - 5090",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1315
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-939",
+   "name": "2010 CT - 5120.36",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1394
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-940",
+   "name": "2010 CT - 5120.37",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1395
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-941",
+   "name": "2010 CT - 5120.38",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1396
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-602",
+   "name": "2010 CT - 5002",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1057
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-603",
+   "name": "2010 CT - 5003",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1058
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-604",
+   "name": "2010 CT - 5004",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1059
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-606",
+   "name": "2010 CT - 5006",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1061
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-607",
+   "name": "2010 CT - 5008",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1062
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-608",
+   "name": "2010 CT - 5009.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1063
+  },
+  {
+   "account_id": "dev",
+   "external_id": "*405",
+   "name": "5th Supervisorial District",
+   "type": "County Supervisor",
+   "districthndl": 1427
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-942",
+   "name": "2010 CT - 5120.39",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1428
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-943",
+   "name": "2010 CT - 5120.42",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1429
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-944",
+   "name": "2010 CT - 5120.43",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1430
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-945",
+   "name": "2010 CT - 5120.45",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1431
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SA024",
+   "name": "24th Assembly District",
+   "type": "Member of the State Assembly",
+   "districthndl": 1397
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SA025",
+   "name": "25th Assembly District",
+   "type": "Member of the State Assembly",
+   "districthndl": 1398
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SA027",
+   "name": "27th Assembly District",
+   "type": "Member of the State Assembly",
+   "districthndl": 1399
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-946",
+   "name": "2010 CT - 5120.47",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1432
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-947",
+   "name": "2010 CT - 5120.52",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1433
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SA028",
+   "name": "28th Assembly District",
+   "type": "Member of the State Assembly",
+   "districthndl": 1400
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SA029",
+   "name": "29th Assembly District",
+   "type": "Member of the State Assembly",
+   "districthndl": 1401
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SA030",
+   "name": "30th Assembly District",
+   "type": "Member of the State Assembly",
+   "districthndl": 1402
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SS010",
+   "name": "10th Senatorial District",
+   "type": "State Senator",
+   "districthndl": 1403
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SS013",
+   "name": "13th Senatorial District",
+   "type": "State Senator",
+   "districthndl": 1404
+  },
+  {
+   "account_id": "dev",
+   "external_id": "CG017",
+   "name": "17th Congressional District",
+   "type": "Congressional District",
+   "districthndl": 1407
+  },
+  {
+   "account_id": "dev",
+   "external_id": "CG018",
+   "name": "18th Congressional District",
+   "type": "Congressional District",
+   "districthndl": 1408
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK18",
+   "name": "Lion's Gate Community Services District",
+   "type": "Special Annexation Election District",
+   "districthndl": 959
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK-26",
+   "name": "City of Campbell Community Facilities District No. 1",
+   "type": "Community Facilities District",
+   "districthndl": 1479
+  },
+  {
+   "account_id": "dev",
+   "external_id": "PK-25",
+   "name": "Community Facilities District No. 2011-1",
+   "type": "Community Facilities District",
+   "districthndl": 920
+  },
+  {
+   "account_id": "dev",
+   "external_id": "CG019",
+   "name": "19th Congressional District",
+   "type": "Congressional District",
+   "districthndl": 1409
+  },
+  {
+   "account_id": "dev",
+   "external_id": "CG020",
+   "name": "20th Congressional District",
+   "type": "Congressional District",
+   "districthndl": 1410
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SS015",
+   "name": "15th Senatorial District",
+   "type": "State Senator",
+   "districthndl": 1405
+  },
+  {
+   "account_id": "dev",
+   "external_id": "SS017",
+   "name": "17th Senatorial District",
+   "type": "State Senator",
+   "districthndl": 1406
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-958",
+   "name": "2010 CT - 5123.13",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1444
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-959",
+   "name": "2010 CT - 5123.14",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1445
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-960",
+   "name": "2010 CT - 5124.01",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1446
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-961",
+   "name": "2010 CT - 5124.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1447
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-962",
+   "name": "2010 CT - 5125.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1448
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-963",
+   "name": "2010 CT - 5125.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1449
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-948",
+   "name": "2010 CT - 5120.53",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1434
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-949",
+   "name": "2010 CT - 5121",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1435
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-950",
+   "name": "2010 CT - 5122",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1436
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-951",
+   "name": "2010 CT - 5123.05",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1437
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-952",
+   "name": "2010 CT - 5123.07",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1438
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-953",
+   "name": "2010 CT - 5123.08",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1439
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-954",
+   "name": "2010 CT - 5123.09",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1440
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-955",
+   "name": "2010 CT - 5123.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1441
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-956",
+   "name": "2010 CT - 5123.11",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1442
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-957",
+   "name": "2010 CT - 5123.12",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1443
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-967",
+   "name": "2010 CT - 5125.10",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1453
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-968",
+   "name": "2010 CT - 5126.02",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1454
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-969",
+   "name": "2010 CT - 5126.03",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1455
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-970",
+   "name": "2010 CT - 5126.04",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1456
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-971",
+   "name": "2010 CT - 5130",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1457
+  },
+  {
+   "account_id": "dev",
+   "external_id": "ZT-972",
+   "name": "2010 CT - 5135",
+   "type": "Census Tract District (2010)",
+   "districthndl": 1458
+  },
+  {
+   "account_id": "dev",
+   "external_id": "",
+   "name": "",
+   "type": "",
+   "districthndl": 0
+  }
+ ],
+ "precincts": [],
+ "parties": [],
+ "offices": [
+  {
+   "account_id": "dev",
+   "external_id": "1030",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 10,
+   "id": "1030",
+   "name": "Governor",
+   "ballothead": "STATE",
+   "officemaster": 2,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1040",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 30,
+   "id": "1040",
+   "name": "Lieutenant Governor",
+   "ballothead": "STATE",
+   "officemaster": 3,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1050",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 50,
+   "id": "1050",
+   "name": "Secretary of State",
+   "ballothead": "STATE",
+   "officemaster": 4,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1060",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 70,
+   "id": "1060",
+   "name": "Controller",
+   "ballothead": "STATE",
+   "officemaster": 5,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1070",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 90,
+   "id": "1070",
+   "name": "Treasurer",
+   "ballothead": "STATE",
+   "officemaster": 6,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1080",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 110,
+   "id": "1080",
+   "name": "Attorney General",
+   "ballothead": "STATE",
+   "officemaster": 7,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1090",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 130,
+   "id": "1090",
+   "name": "Insurance Commissioner",
+   "ballothead": "STATE",
+   "officemaster": 8,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1100",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 150,
+   "id": "1100",
+   "name": "Member, State Board of Equalization, District 2",
+   "ballothead": "STATE",
+   "officemaster": 9,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "2621",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 170,
+   "id": "2621",
+   "name": "Judge of the Superior Court, Office No. 21",
+   "ballothead": "JUDICIAL",
+   "officemaster": 107,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "2624",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 190,
+   "id": "2624",
+   "name": "Judge of the Superior Court, Office No. 24",
+   "ballothead": "JUDICIAL",
+   "officemaster": 110,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "3001",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 210,
+   "id": "3001",
+   "name": "State Superintendent of Public Instruction",
+   "ballothead": "SCHOOL",
+   "officemaster": 147,
+   "writeins": 1
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4401",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 230,
+   "id": "4401",
+   "name": "Member, Board of Supervisors, District 1",
+   "ballothead": "COUNTY",
+   "officemaster": 299,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4404",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 250,
+   "id": "4404",
+   "name": "Member, Board of Supervisors, District 4",
+   "ballothead": "COUNTY",
+   "officemaster": 302,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4410",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 270,
+   "id": "4410",
+   "name": "Assessor",
+   "ballothead": "COUNTY",
+   "officemaster": 304,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4420",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 290,
+   "id": "4420",
+   "name": "District Attorney",
+   "ballothead": "COUNTY",
+   "officemaster": 305,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4430",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 310,
+   "id": "4430",
+   "name": "Sheriff",
+   "ballothead": "COUNTY",
+   "officemaster": 306,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5200",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 330,
+   "id": "5200",
+   "name": "Mayor",
+   "ballothead": "CITY",
+   "officemaster": 348,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5201",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 350,
+   "id": "5201",
+   "name": "Member, City Council, District 1",
+   "ballothead": "CITY",
+   "officemaster": 461,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5203",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 370,
+   "id": "5203",
+   "name": "Member, City Council, District 3",
+   "ballothead": "CITY",
+   "officemaster": 351,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5205",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 390,
+   "id": "5205",
+   "name": "Member, City Council, District 5",
+   "ballothead": "CITY",
+   "officemaster": 353,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5207",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 410,
+   "id": "5207",
+   "name": "Member, City Council, District 7",
+   "ballothead": "CITY",
+   "officemaster": 355,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5209",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 430,
+   "id": "5209",
+   "name": "Member, City Council, District 9",
+   "ballothead": "CITY",
+   "officemaster": 357,
+   "writeins": 0
+  },
+  {
+   "account_id": "dev",
+   "external_id": "undefined",
+   "num_selections": 1,
+   "num_writeins": 0,
+   "sequence": 450,
+   "id": "undefined",
+   "name": "",
+   "ballothead": "",
+   "officemaster": 0,
+   "writeins": null
+  }
+ ],
+ "candidates": [
+  {
+   "account_id": "dev",
+   "external_id": "3",
+   "name": "LUIS J. RODRIGUEZ",
+   "candidateID": "3",
+   "designation": "Author/Community Organizer",
+   "partyName": "GRN ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 10
+  },
+  {
+   "account_id": "dev",
+   "external_id": "17",
+   "name": "ALMA MARIE WINSTON",
+   "candidateID": "17",
+   "designation": "Project Funding CEO",
+   "partyName": "REP ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 20
+  },
+  {
+   "account_id": "dev",
+   "external_id": "10",
+   "name": "EDMUND G. \"JERRY\" BROWN",
+   "candidateID": "10",
+   "designation": "Governor of California",
+   "partyName": "DEM ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 30
+  },
+  {
+   "account_id": "dev",
+   "external_id": "11",
+   "name": "JANEL HYESHIA BUYCKS",
+   "candidateID": "11",
+   "designation": "Minister/Business Owner",
+   "partyName": "NPP ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 40
+  },
+  {
+   "account_id": "dev",
+   "external_id": "9",
+   "name": "ANDREW BLOUNT",
+   "candidateID": "9",
+   "designation": "Mayor/Businessperson",
+   "partyName": "REP ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 50
+  },
+  {
+   "account_id": "dev",
+   "external_id": "13",
+   "name": "RAKESH KUMAR CHRISTIAN",
+   "candidateID": "13",
+   "designation": "Small Business Owner",
+   "partyName": "NPP ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 60
+  },
+  {
+   "account_id": "dev",
+   "external_id": "12",
+   "name": "GLENN CHAMP",
+   "candidateID": "12",
+   "designation": "Business Owner/Engineer",
+   "partyName": "REP ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 70
+  },
+  {
+   "account_id": "dev",
+   "external_id": "14",
+   "name": "NEEL KASHKARI",
+   "candidateID": "14",
+   "designation": "Businessman",
+   "partyName": "REP ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 80
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4",
+   "name": "TIM DONNELLY",
+   "candidateID": "4",
+   "designation": "California State Assemblyman",
+   "partyName": "REP ",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 90
+  },
+  {
+   "account_id": "dev",
+   "external_id": "8",
+   "name": "",
+   "candidateID": "8",
+   "designation": "",
+   "partyName": "",
+   "contestID": 1030,
+   "titles": [],
+   "sequence": 100
+  }
+ ],
+ "measures": [],
+ "boxes": [
+  {
+   "account_id": "dev",
+   "external_id": "1030",
+   "external_election_id": "1",
+   "external_ref_id": "1030",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 10
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1040",
+   "external_election_id": "1",
+   "external_ref_id": "1040",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 30
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1050",
+   "external_election_id": "1",
+   "external_ref_id": "1050",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 50
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1060",
+   "external_election_id": "1",
+   "external_ref_id": "1060",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 70
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1070",
+   "external_election_id": "1",
+   "external_ref_id": "1070",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 90
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1080",
+   "external_election_id": "1",
+   "external_ref_id": "1080",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 110
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1090",
+   "external_election_id": "1",
+   "external_ref_id": "1090",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 130
+  },
+  {
+   "account_id": "dev",
+   "external_id": "1100",
+   "external_election_id": "1",
+   "external_ref_id": "1100",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 150
+  },
+  {
+   "account_id": "dev",
+   "external_id": "2621",
+   "external_election_id": "1",
+   "external_ref_id": "2621",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 170
+  },
+  {
+   "account_id": "dev",
+   "external_id": "2624",
+   "external_election_id": "1",
+   "external_ref_id": "2624",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 190
+  },
+  {
+   "account_id": "dev",
+   "external_id": "3001",
+   "external_election_id": "1",
+   "external_ref_id": "3001",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 210
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4401",
+   "external_election_id": "1",
+   "external_ref_id": "4401",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 230
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4404",
+   "external_election_id": "1",
+   "external_ref_id": "4404",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 250
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4410",
+   "external_election_id": "1",
+   "external_ref_id": "4410",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 270
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4420",
+   "external_election_id": "1",
+   "external_ref_id": "4420",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 290
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4430",
+   "external_election_id": "1",
+   "external_ref_id": "4430",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 310
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5200",
+   "external_election_id": "1",
+   "external_ref_id": "5200",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 330
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5201",
+   "external_election_id": "1",
+   "external_ref_id": "5201",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 350
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5203",
+   "external_election_id": "1",
+   "external_ref_id": "5203",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 370
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5205",
+   "external_election_id": "1",
+   "external_ref_id": "5205",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 390
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5207",
+   "external_election_id": "1",
+   "external_ref_id": "5207",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 410
+  },
+  {
+   "account_id": "dev",
+   "external_id": "5209",
+   "external_election_id": "1",
+   "external_ref_id": "5209",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 430
+  },
+  {
+   "account_id": "dev",
+   "external_id": "undefined",
+   "external_election_id": "1",
+   "external_ref_id": "undefined",
+   "external_district_ids": [],
+   "external_option_ids": [],
+   "external_party_ids": [],
+   "type": "contest",
+   "titles": [],
+   "text": [],
+   "num_selections": 1,
+   "sequence": 450
+  }
+ ],
+ "options": [
+  {
+   "account_id": "dev",
+   "external_id": "3",
+   "external_election_id": "1",
+   "external_ref_id": "3",
+   "titles": [],
+   "sequence": 10,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "17",
+   "external_election_id": "1",
+   "external_ref_id": "17",
+   "titles": [],
+   "sequence": 20,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "10",
+   "external_election_id": "1",
+   "external_ref_id": "10",
+   "titles": [],
+   "sequence": 30,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "11",
+   "external_election_id": "1",
+   "external_ref_id": "11",
+   "titles": [],
+   "sequence": 40,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "9",
+   "external_election_id": "1",
+   "external_ref_id": "9",
+   "titles": [],
+   "sequence": 50,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "13",
+   "external_election_id": "1",
+   "external_ref_id": "13",
+   "titles": [],
+   "sequence": 60,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "12",
+   "external_election_id": "1",
+   "external_ref_id": "12",
+   "titles": [],
+   "sequence": 70,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "14",
+   "external_election_id": "1",
+   "external_ref_id": "14",
+   "titles": [],
+   "sequence": 80,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "4",
+   "external_election_id": "1",
+   "external_ref_id": "4",
+   "titles": [],
+   "sequence": 90,
+   "type": "default"
+  },
+  {
+   "account_id": "dev",
+   "external_id": "8",
+   "external_election_id": "1",
+   "external_ref_id": "8",
+   "titles": [],
+   "sequence": 100,
+   "type": "default"
+  }
+ ],
+ "styles": []
+}

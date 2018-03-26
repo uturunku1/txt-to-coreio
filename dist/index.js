@@ -54,31 +54,16 @@ var Parser = /** @class */ (function () {
             return;
         }
     }
-    Parser.prototype.runChecks = function (directory) {
-        var files = [];
-        fs.readdirSync(this.dir).forEach(function (file) {
-            if (path.extname(file).toLowerCase() == '.txt') {
-                files.push(file);
-            }
-            else {
-                console.warn('invalid file format', file);
-            }
-        });
-        fileNameDistricts = files.find(function (i) { return i.includes('DistrictExtract'); });
-        fileNameCandidates = files.find(function (i) { return i.includes('CandidateExtract'); });
-        fileNameContests = files.find(function (i) { return i.includes('ContestExtract'); });
-        if (fileNameDistricts === undefined || fileNameCandidates === undefined || fileNameContests === undefined) {
-            return true;
-        }
-    };
     Parser.prototype.parse = function (accountId, electionId) {
         return __awaiter(this, void 0, void 0, function () {
             var _this = this;
-            var districts, candidates, contests;
+            var languages, districts, candidates, contests;
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0:
                         this.coreio = new coreio_1.CoreIO(accountId, electionId);
+                        languages = [{ id: '2', name: 'English', include: true, code: 'en' }, { id: '3', name: 'Spanish', include: true, code: 'es' }, { id: '8', name: 'Mandarin', include: true, code: 'zh-hant' }, { id: '9', name: 'Cantonese', include: true, code: 'cantonese' }, { id: '14', name: 'Taiwanese', include: true, code: 'taiwanese' }];
+                        languages.forEach(function (lang) { return _this.coreio.addLanguage(lang.id, lang); });
                         return [4 /*yield*/, this.getDistricts()];
                     case 1:
                         districts = _a.sent();
@@ -96,10 +81,17 @@ var Parser = /** @class */ (function () {
                         candidates.forEach(function (choice) {
                             try {
                                 // console.log(choice);
-                                _this.coreio.addCandidate(choice.candidateID, choice);
+                                console.log('party name:', choice.party_hndl);
+                                _this.coreio.addCandidate(choice.candidate_id, {
+                                    party_name: choice.party_name,
+                                    contest_id: choice.contest_id,
+                                    party_hndl: choice.party_hndl,
+                                    titles: choice.titleManager.getTextArray(languages),
+                                    sequence: choice.sequence,
+                                });
                             }
                             catch (error) {
-                                console.warn('This choice id already exists:', choice.candidateID);
+                                console.warn('This choice id already exists:', choice.candidate_id);
                             }
                         });
                         this.coreio.createOptionsFromCandidates();
@@ -189,6 +181,23 @@ var Parser = /** @class */ (function () {
             });
         });
     };
+    Parser.prototype.runChecks = function (directory) {
+        var files = [];
+        fs.readdirSync(this.dir).forEach(function (file) {
+            if (path.extname(file).toLowerCase() == '.txt') {
+                files.push(file);
+            }
+            else {
+                console.warn('invalid file format', file);
+            }
+        });
+        fileNameDistricts = files.find(function (i) { return i.includes('DistrictExtract'); });
+        fileNameCandidates = files.find(function (i) { return i.includes('CandidateExtract'); });
+        fileNameContests = files.find(function (i) { return i.includes('ContestExtract'); });
+        if (fileNameDistricts === undefined || fileNameCandidates === undefined || fileNameContests === undefined) {
+            return true;
+        }
+    };
     Parser.prototype.parseAndSave = function (accountId, electionId) {
         return __awaiter(this, void 0, void 0, function () {
             var parseResults, serializedData;
@@ -198,7 +207,7 @@ var Parser = /** @class */ (function () {
                     case 1:
                         parseResults = _a.sent();
                         serializedData = JSON.stringify(this.coreio.getData(), null, ' ');
-                        return [4 /*yield*/, fileprocess_1.write('./output/data.json', serializedData)];
+                        return [4 /*yield*/, fileprocess_1.write('./output/more.json', serializedData)];
                     case 2:
                         _a.sent();
                         console.log("Done Writing to JSON file");

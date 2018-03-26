@@ -1,4 +1,4 @@
-import { District, Choice, Contest } from './models2';
+import { District, Choice, Contest, Language } from './models2';
 import {CoreIO} from './coreio';
 import { parseCsvFile } from "./PapaWrapper";
 import { write } from './fileprocess';
@@ -21,25 +21,11 @@ class Parser {
     }
   }
 
-  runChecks(directory){
-    let files = []
-    fs.readdirSync(this.dir).forEach(file => {
-        if(path.extname(file).toLowerCase() == '.txt'){
-          files.push(file);
-        } else{
-          console.warn('invalid file format', file);
-        }
-    });
-    fileNameDistricts= files.find(i=>i.includes('DistrictExtract'));
-    fileNameCandidates= files.find(i=>i.includes('CandidateExtract'));
-    fileNameContests= files.find(i=>i.includes('ContestExtract'));
-    if(fileNameDistricts===undefined ||fileNameCandidates===undefined||fileNameContests===undefined){
-      return true;
-    }
-  }
-
   async parse(accountId: string, electionId: string) {
     this.coreio = new CoreIO(accountId, electionId);
+
+    const languages = [{ id: '2', name: 'English', include: true, code: 'en' }, { id: '3', name: 'Spanish', include: true, code: 'es' }, { id: '8', name: 'Mandarin', include: true, code: 'zh-hant' }, { id: '9', name: 'Cantonese', include: true, code: 'cantonese' }, { id: '14', name: 'Taiwanese', include: true, code: 'taiwanese' } ];
+    languages.forEach(lang => this.coreio.addLanguage(lang.id, lang));
 
     const districts = await this.getDistricts();
     districts.forEach(district=>{
@@ -53,12 +39,20 @@ class Parser {
     candidates.forEach(choice=>{
         try {
           // console.log(choice);
-          this.coreio.addCandidate(choice.candidateID, choice);
+          console.log('party name:',choice.party_hndl)
+          this.coreio.addCandidate(choice.candidate_id, {
+          party_name: choice.party_name,
+          contest_id: choice.contest_id,
+          party_hndl: choice.party_hndl,
+          titles: choice.titleManager.getTextArray(languages),
+          sequence: choice.sequence,
+        });
         } catch (error) {
-              console.warn('This choice id already exists:', choice.candidateID);
+              console.warn('This choice id already exists:', choice.candidate_id);
           }
       });
       this.coreio.createOptionsFromCandidates();
+
       const contests = await this.getContests();
       contests.forEach(contest => {
         try {
@@ -102,10 +96,27 @@ class Parser {
     });
   }
 
+  runChecks(directory){
+    let files = []
+    fs.readdirSync(this.dir).forEach(file => {
+        if(path.extname(file).toLowerCase() == '.txt'){
+          files.push(file);
+        } else{
+          console.warn('invalid file format', file);
+        }
+    });
+    fileNameDistricts= files.find(i=>i.includes('DistrictExtract'));
+    fileNameCandidates= files.find(i=>i.includes('CandidateExtract'));
+    fileNameContests= files.find(i=>i.includes('ContestExtract'));
+    if(fileNameDistricts===undefined ||fileNameCandidates===undefined||fileNameContests===undefined){
+      return true;
+    }
+  }
+
   async parseAndSave(accountId: string, electionId: string): Promise<void> {
       const parseResults = await this.parse(accountId, electionId);
       const serializedData = JSON.stringify(this.coreio.getData(), null, ' ');
-      await write('./output/data.json', serializedData);
+      await write('./output/more.json', serializedData);
       console.log("Done Writing to JSON file");
   }
 
