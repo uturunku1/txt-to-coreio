@@ -167,137 +167,131 @@ export class Party {
 
 export class Contest {
   static sequence = 10;
-
   id: string;
-  text: TranslatableText[];
+  name: string;
+  ballothead: string;
+  // text: TranslatableText[];
   selections: number;
   writeins: number;
   sequence: number;
-  termlength: number;
-  type: 'contest'|'measure'|'text';
+  officemaster: number;
+  // termlength: number;
+  // type: 'contest'|'measure'|'text';
 
-  external_district_ids: string[] = [];
+  // external_district_ids: string[] = [];
 
-  name: string;
-  titleManager: TranslatableTextManager;
-  textManager: TranslatableTextManager;
-  district: string;
-  boxSelections: number;
-  boxWriteins: number;
-  headerNames: string[] = [];
-
+  // titleManager: TranslatableTextManager;
+  // textManager: TranslatableTextManager;
+  // district: string;
+  // boxSelections: number;
+  // boxWriteins: number;
+  // headerNames: string[] = [];
   constructor(data: ContestData) {
-    this.id = data.name;
-    this.selections = +data.officevotefor;
-    this.writeins = +data.officewriteins;
-    this.boxSelections = data.overridevotefor === '1' ? +data.votefor : +data.officevotefor;
-    this.boxWriteins = data.overridewriteins === '1' ? +data.writeins : +data.officewriteins;
-    this.termlength = +data.termlength;
+    this.id = String(data.icontestid);
+    this.name = data.szofficetitle;
+    this.officemaster = data.lofficemasterhndl;
+    this.ballothead = data.szballotheading;
+    this.selections = +data.inumtovotefor;
+    this.writeins = +data.iwriteins;
+    // this.boxSelections = data.overridevotefor === '1' ? +data.votefor : +data.officevotefor;
+    // this.boxWriteins = data.overridewriteins === '1' ? +data.writeins : +data.officewriteins;
 
-    this.type = 'contest';
-    if (data.type === 'Candidacy') {
-      this.type = 'contest';
-    } else if(data.type === 'Measure') {
-      this.type = 'measure'
-    } else if(data.type === 'Instructional') {
-      this.type = 'text';
-    } else {
-      console.warn('Unsupported type' + data.type);
-    }
+    // this.type = 'contest';
+    // if (data.type === 'Candidacy') {
+    //   this.type = 'contest';
+    // } else if(data.type === 'Measure') {
+    //   this.type = 'measure'
+    // } else if(data.type === 'Instructional') {
+    //   this.type = 'text';
+    // } else {
+    //   console.warn('Unsupported type' + data.type);
+    // }
 
     // Assign headers so we can map them later
-    for (const key of Object.keys(data)) {
-      if (key.substr(0, 2) === 'ch') {
-        this.headerNames.push(data[key]);
-      }
-    }
+    // for (const key of Object.keys(data)) {
+    //   if (key.substr(0, 2) === 'ch') {
+    //     this.headerNames.push(data[key]);
+    //   }
+    // }
 
     // @todo: Do we get sequence from order exported, id, or reporting order?
     // @assumption - Getting contest order from order appearing in file
     this.sequence = Contest.sequence;
 
-    this.titleManager = new TranslatableTextManager();
-    this.textManager = new TranslatableTextManager();
-    this.name = data.name;
-    this.district = data.district;
+    // this.titleManager = new TranslatableTextManager();
+    // this.textManager = new TranslatableTextManager();
+    // this.name = data.name;
+    // this.district = data.district;
 
     Contest.sequence += 10;
   }
 
-  setDisplayData(data: ContestDisplayData[]) {
-    data.filter(item => {
-      return item.name === this.name // Match the contest
-        && item.purpose === 'Audio' // Audio is the field that holds translations
-    }).forEach(item => {
-      // @todo: How to deal with proposition text?
-      const tus = +item.numoftu;
-      if (this.type === 'contest') {
-        for (let i = 0; i < tus; i++) {
-          // @assumption - All TUs after the first are subtitles
-          // @todo - Potentially make import templates so we can define TU# to style mapping
-          const style: TranslatableStyle = i === 0 ? 'default' : 'subtitle';
-          this.titleManager.add(i, item[`tu${i+1}`], item.language, style);
-        }
-      } else if (this.type === 'measure') {
-        // @assumption - First TU is title and all following are text
-        // Pull the first text unit as the title
-        if (tus > 0) {
-          this.titleManager.add(0, item['tu1'], item.language);
-        }
-
-        // The rest of them fall under text
-        for (let i = 1; i < tus; i++) {
-          this.textManager.add(i-1, item[`tu${i + 1}`], item.language);
-        }
-      }
+  // setDisplayData(data: ContestDisplayData[]) {
+  //   data.filter(item => {
+  //     return item.name === this.name // Match the contest
+  //       && item.purpose === 'Audio' // Audio is the field that holds translations
+  //   }).forEach(item => {
+  //     // @todo: How to deal with proposition text?
+  //     const tus = +item.numoftu;
+  //     if (this.type === 'contest') {
+  //       for (let i = 0; i < tus; i++) {
+  //         // @assumption - All TUs after the first are subtitles
+  //         // @todo - Potentially make import templates so we can define TU# to style mapping
+  //         const style: TranslatableStyle = i === 0 ? 'default' : 'subtitle';
+  //         this.titleManager.add(i, item[`tu${i+1}`], item.language, style);
+  //       }
+  //     } else if (this.type === 'measure') {
+  //       // @assumption - First TU is title and all following are text
+  //       // Pull the first text unit as the title
+  //       if (tus > 0) {
+  //         this.titleManager.add(0, item['tu1'], item.language);
+  //       }
+  //
+  //       // The rest of them fall under text
+  //       for (let i = 1; i < tus; i++) {
+  //         this.textManager.add(i-1, item[`tu${i + 1}`], item.language);
+  //       }
+  //     }
 
       // @todo: tus/rtf - Sometimes it's possible to have only rtf defined.
       // We can't/don't want to rely on rtf because it has special formatting.
-      const appearance = item.appearance.toLowerCase();
-      if (tus === 0 && appearance === 'rtf' && item.rtftext) {
-        this.titleManager.add(0, item.rtftext, item.language);
-      }
-    })
-  }
+//       const appearance = item.appearance.toLowerCase();
+//       if (tus === 0 && appearance === 'rtf' && item.rtftext) {
+//         this.titleManager.add(0, item.rtftext, item.language);
+//       }
+//     })
+//   }
 }
 
 export class Choice {
   static sequence = 10;
-
-  id: string;
+  candidateID: string;
   name: string;
+  // type: string;
   sequence: number;
-  type: string;
-  incumbent: boolean;
-
+  contestID: number;
+  designation: string;
   partyName: string;
   contestName: string;
-
   titleManager: TranslatableTextManager;
-
   constructor(data: ChoiceData) {
-    this.id = data.id;
-    this.name = data.name;
-    this.type = 'default';
-    if (data.type === 'Write In') {
-      this.type = 'writein';
-    } else if (data.type === 'Qualified Writein') {
-      // @assumption - Skip qualified writeins
-      this.type = 'skip';
-    }
-
+    this.candidateID = String(data.icandidateid);
+    this.name = data.szcandidateballotname;
+    this.partyName = data.spartyabbr;
+    this.contestID = data.icontestid;
+    // this.type = 'default';
+    this.designation = data.szballotdesignation;
+    // if (data.type === 'Write In') {
+    //   this.type = 'writein';
+    // } else if (data.type === 'Qualified Writein') {
+    //   // @assumption - Skip qualified writeins
+    //   this.type = 'skip';
+    // }
     // @todo: Candidate order
     this.sequence = Choice.sequence;
-
-    // @todo: Candidate party?
-    this.partyName = data.party1;
-    this.contestName = data.contest;
-    this.incumbent = data.incumbent === '1';
     this.titleManager = new TranslatableTextManager();
-
     // @todo: Write ins aren't provided in display table
     this.titleManager.add(0, this.name, 'English');
-
     Choice.sequence += 10;
   }
 
@@ -412,55 +406,26 @@ export class BallotTypePrecinctMapper {
 }
 
 interface ContestData {
-  id: string;
-  name: string;
-  district: string;
-  districttype: string;
-  description: string;
-  row: string;
-  externalid: string;
-  renderingtype: string;
-  office: string;
-  votefor: string;
-  overridevotefor: string;
-  officevotefor: string;
-  writeins: string;
-  overridewriteins: string;
-  officewriteins: string;
-  ballotmarkers: string;
-  overrideballotmarkers: string;
-  officeballotmarkers: string;
-  paperindex: string;
-  overridepaperindex: string;
-  officepaperindex: string;
-  type: string;
-  major: string;
-  termlength: string;
-  acclamationtype: string;
-  votingsystem: string;
-  numberofofficeranks: string;
-  numberofcontestranks: string;
-  officepage: string;
-  officecolumn: string;
-  officecontestspan: string;
-  officecandidatespan: string;
-  officecontestposition: string;
-  contestpage: string;
-  contestcolumn: string;
-  contestspan: string;
-  candidatecolumnspan: string;
-  contestposition: string;
-  screenplacement: string;
-  disablerotation: string;
-  writeinlinecount: string;
-  cannotbeduplicated: string;
-  disabled: string;
-  reportingorder: string;
-  eg1: string;
-  sp1: string;
-  ch1: string;
-  ch2: string;
-  ch3: string;
+  selectionabbr: string;
+  lofficemasterhndl: number;
+  icontestid: number;
+  lpartyhndl: string;
+  spartyabbr: string;
+  szofficeabbr1: string;
+  szofficeabbr2: string;
+  ldistricthndl: number;
+  sdistrictid: string;
+  lsubdistricthndl: string;
+  isubdistrict: number;
+  szgrouphdg: string;
+  szballotheading: string;
+  szsubheading: string;
+  szofficetitle: string;
+  llanguagehndl: number;
+  slanguageabbr: string;
+  inumtovotefor: number;
+  iwriteins: number;
+  scandidatesequence: string;
 }
 interface ContestDisplayData {
   id: string;
@@ -480,29 +445,21 @@ interface ContestDisplayData {
   tu3: string;
 }
 interface ChoiceData {
-  id: string;
-  name: string;
-  contest: string;
-  choicegroup: string;
-  crossovergroup: string;
-  cellreference: string;
-  firstname: string;
-  lastname: string;
-  gender: string;
-  birthyear: string;
-  birthmonth: string;
-  birthday: string;
-  incumbent: string;
-  lineoverride: string;
-  contestindex: string;
-  type: string;
-  nonrotatable: string;
-  externalid: string;
-  disabled: string;
-  imagename: string;
-  party1: string;
-  cr1: string;
-  pe1: string;
+  selectionabbr: string;
+  icontestid: number;
+  icandidateid: number;
+  szcandnamelast: string;
+  szcandnamefirst: string;
+  szcandnamemiddle: string;
+  scandnamesuffix: string;
+  szcandidateballotname: string;
+  szcandidateabbr: string;
+  llanguagehndl: number;
+  slanguageabbr: string;
+  szballotdesignation: string;
+  lpartyhndl: number;
+  spartyabbr: string;
+  ivotingposition: number;
 }
 interface ChoiceDisplayData {
   id: string;

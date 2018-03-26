@@ -244,6 +244,7 @@ var District = /** @class */ (function () {
         this.external_id = '';
         this.name = '';
         this.type = '';
+        this.districthndl = 0;
         Object.keys(this).forEach(function (key) {
             if (defaultValues[key] !== undefined) {
                 _this[key] = defaultValues[key];
@@ -297,14 +298,20 @@ var Office = /** @class */ (function () {
         var _this = this;
         this.account_id = '';
         this.external_id = '';
-        this.titles = [];
-        this.text = [];
+        // titles: TranslatableText[] = [];
+        // text: TranslatableText[] = [];
         this.num_selections = 1;
         this.num_writeins = 0;
         this.sequence = 0;
-        this.term_start = 0;
-        this.term = 0;
-        this.external_district_ids = [];
+        // term_start: number = 0;
+        // term: number = 0;
+        // external_district_ids: string[] = [];
+        this.id = '';
+        this.name = '';
+        this.ballothead = '';
+        this.officemaster = 0;
+        // text: TranslatableText[];
+        this.writeins = 0;
         Object.keys(this).forEach(function (key) {
             if (defaultValues[key] !== undefined) {
                 _this[key] = defaultValues[key];
@@ -382,6 +389,13 @@ var Candidate = /** @class */ (function () {
         var _this = this;
         this.account_id = '';
         this.external_id = '';
+        this.name = '';
+        // type: string = '';
+        this.candidateID = '';
+        this.designation = '';
+        this.partyName = '';
+        // contestName: string='';
+        this.contestID = 0;
         this.titles = [];
         this.sequence = 0;
         Object.keys(this).forEach(function (key) {

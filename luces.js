@@ -1,7 +1,7 @@
 'use strict';
 var fs = require('fs');
 var Papa = require("papaparse");
-var file = fs.readFileSync(__dirname + '/input/SequoiaDistrictExtract.TXT', 'utf8');
+var file = fs.readFileSync(__dirname + '/input/SequoiaContestExtract.TXT', 'utf8');
 
 Papa.parse(file, {
     header: true,
@@ -12,7 +12,7 @@ Papa.parse(file, {
         console.log(error);
     },
     complete: (res)=>{
-       fs.writeFileSync('districts.json', JSON.stringify(res.data, null, ' '));
+       fs.writeFileSync('constests.json', JSON.stringify(res.data, null, ' '));
 	   console.log('done writing');
    }
 });

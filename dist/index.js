@@ -41,30 +41,40 @@ var PapaWrapper_1 = require("./PapaWrapper");
 var fileprocess_1 = require("./fileprocess");
 var fs = require('fs');
 var path = require('path');
-var fileNameDistricts = 'SequoiaDistrictExtract.TXT';
+var fileNameDistricts;
+var fileNameCandidates;
+var fileNameContests;
 var Parser = /** @class */ (function () {
+    // files: string[]=[];
     function Parser(dir) {
-        var _this = this;
         this.dir = dir;
-        this.files = [];
-        console.log(this); //Parser { dir: './input' }
+        var errors = this.runChecks(this.dir);
+        if (errors == true) {
+            console.error('Missing one of the files needed to run this program.');
+            return;
+        }
+    }
+    Parser.prototype.runChecks = function (directory) {
+        var files = [];
         fs.readdirSync(this.dir).forEach(function (file) {
             if (path.extname(file).toLowerCase() == '.txt') {
-                if (file === fileNameDistricts) {
-                    //push key district and filename?
-                    (_this.files).push(_this.dir + '/' + fileNameDistricts);
-                }
+                files.push(file);
             }
             else {
-                console.log('invalid file', file);
+                console.warn('invalid file format', file);
             }
-            //and runChecks for contest file
         });
-    }
+        fileNameDistricts = files.find(function (i) { return i.includes('DistrictExtract'); });
+        fileNameCandidates = files.find(function (i) { return i.includes('CandidateExtract'); });
+        fileNameContests = files.find(function (i) { return i.includes('ContestExtract'); });
+        if (fileNameDistricts === undefined || fileNameCandidates === undefined || fileNameContests === undefined) {
+            return true;
+        }
+    };
     Parser.prototype.parse = function (accountId, electionId) {
         return __awaiter(this, void 0, void 0, function () {
             var _this = this;
-            var districts;
+            var districts, candidates, contests;
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0:
@@ -72,16 +82,39 @@ var Parser = /** @class */ (function () {
                         return [4 /*yield*/, this.getDistricts()];
                     case 1:
                         districts = _a.sent();
-                        // console.log('districtsmap:',districts);
                         districts.forEach(function (district) {
                             try {
                                 _this.coreio.addDistrict(district.id, district);
                             }
                             catch (error) {
-                                console.error('warning: This id already exists:', district.id);
+                                console.warn('This district id already exists:', district.id);
                             }
-                            // this.coreio.addDistrict(district.id,district);
                         });
+                        return [4 /*yield*/, this.getChoices()];
+                    case 2:
+                        candidates = _a.sent();
+                        candidates.forEach(function (choice) {
+                            try {
+                                // console.log(choice);
+                                _this.coreio.addCandidate(choice.candidateID, choice);
+                            }
+                            catch (error) {
+                                console.warn('This choice id already exists:', choice.candidateID);
+                            }
+                        });
+                        this.coreio.createOptionsFromCandidates();
+                        return [4 /*yield*/, this.getContests()];
+                    case 3:
+                        contests = _a.sent();
+                        contests.forEach(function (contest) {
+                            try {
+                                _this.coreio.addOffice(contest.id, contest);
+                            }
+                            catch (error) {
+                                console.warn('This contest id already exists:', contest.id);
+                            }
+                        });
+                        this.coreio.createBoxesFromOffices();
                         return [2 /*return*/];
                 }
             });
@@ -89,27 +122,59 @@ var Parser = /** @class */ (function () {
     };
     Parser.prototype.getDistricts = function () {
         return __awaiter(this, void 0, void 0, function () {
-            var districts;
+            var papaDistricts;
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, this.callPapaAndNormalized()];
+                    case 0: return [4 /*yield*/, this.callPapaAndNormalized(fileNameDistricts)];
                     case 1:
-                        districts = _a.sent();
-                        return [2 /*return*/, districts.map(function (district) {
+                        papaDistricts = _a.sent();
+                        return [2 /*return*/, papaDistricts.map(function (district) {
                                 return new models2_1.District(district);
                             })];
                 }
             });
         });
     };
-    Parser.prototype.callPapaAndNormalized = function () {
+    Parser.prototype.getChoices = function () {
+        return __awaiter(this, void 0, void 0, function () {
+            var papaChoices;
+            return __generator(this, function (_a) {
+                switch (_a.label) {
+                    case 0: return [4 /*yield*/, this.callPapaAndNormalized(fileNameCandidates)];
+                    case 1:
+                        papaChoices = _a.sent();
+                        //pass to models2 class choice
+                        return [2 /*return*/, papaChoices.map(function (candidate) {
+                                return new models2_1.Choice(candidate);
+                                // choice.setDisplayData(papaChoices);
+                            })];
+                }
+            });
+        });
+    };
+    Parser.prototype.getContests = function () {
+        return __awaiter(this, void 0, void 0, function () {
+            var papaContests;
+            return __generator(this, function (_a) {
+                switch (_a.label) {
+                    case 0: return [4 /*yield*/, this.callPapaAndNormalized(fileNameContests)];
+                    case 1:
+                        papaContests = _a.sent();
+                        return [2 /*return*/, papaContests.map(function (contest) {
+                                return new models2_1.Contest(contest);
+                            })];
+                }
+            });
+        });
+    };
+    Parser.prototype.callPapaAndNormalized = function (fileName) {
         return __awaiter(this, void 0, void 0, function () {
             var _a;
             return __generator(this, function (_b) {
                 switch (_b.label) {
                     case 0:
                         _a = this;
-                        return [4 /*yield*/, PapaWrapper_1.parseCsvFile(this.dir + '/' + fileNameDistricts)];
+                        return [4 /*yield*/, PapaWrapper_1.parseCsvFile(this.dir + '/' + fileName)];
                     case 1:
                         _a.papa = _b.sent();
                         return [2 /*return*/, (this.papa).data.map(function (row) {

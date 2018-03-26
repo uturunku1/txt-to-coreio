@@ -1,53 +1,97 @@
-import { District } from './models2';
+import { District, Choice, Contest } from './models2';
 import {CoreIO} from './coreio';
 import { parseCsvFile } from "./PapaWrapper";
 import { write } from './fileprocess';
 import * as Papa from 'papaparse';
 const fs = require('fs');
 const path = require('path');
-const fileNameDistricts = 'SequoiaDistrictExtract.TXT';
+let fileNameDistricts;
+let fileNameCandidates;
+let fileNameContests;
 
 class Parser {
-  papa: Papa; //define type class
+  papa: Papa;
   coreio: CoreIO;
-  files: string[]=[];
+  // files: string[]=[];
   constructor(private dir: string) {
-    console.log(this);//Parser { dir: './input' }
+    const errors = this.runChecks(this.dir);
+    if (errors==true) {
+      console.error('Missing one of the files needed to run this program.');
+      return;
+    }
+  }
+
+  runChecks(directory){
+    let files = []
     fs.readdirSync(this.dir).forEach(file => {
         if(path.extname(file).toLowerCase() == '.txt'){
-          if (file === fileNameDistricts) {
-            //push key district and filename?
-            (this.files).push(this.dir+'/'+fileNameDistricts);
-          }
+          files.push(file);
         } else{
-          console.log('invalid file', file);
+          console.warn('invalid file format', file);
         }
-        //and runChecks for contest file
     });
+    fileNameDistricts= files.find(i=>i.includes('DistrictExtract'));
+    fileNameCandidates= files.find(i=>i.includes('CandidateExtract'));
+    fileNameContests= files.find(i=>i.includes('ContestExtract'));
+    if(fileNameDistricts===undefined ||fileNameCandidates===undefined||fileNameContests===undefined){
+      return true;
+    }
   }
 
   async parse(accountId: string, electionId: string) {
     this.coreio = new CoreIO(accountId, electionId);
+
     const districts = await this.getDistricts();
-    // console.log('districtsmap:',districts);
     districts.forEach(district=>{
       try {
         this.coreio.addDistrict(district.id,district);
       } catch (error) {
-            console.error('warning: This id already exists:', district.id);
+            console.warn('This district id already exists:', district.id);
         }
-      // this.coreio.addDistrict(district.id,district);
     });
-    //Error: District PK05 already exists,Error: District *520 already exists(5),Error: District PK01 already exists(4),Error: District PK09 already exists(6),Error: District SCC-2 already exists(3).
+    const candidates = await this.getChoices();
+    candidates.forEach(choice=>{
+        try {
+          // console.log(choice);
+          this.coreio.addCandidate(choice.candidateID, choice);
+        } catch (error) {
+              console.warn('This choice id already exists:', choice.candidateID);
+          }
+      });
+      this.coreio.createOptionsFromCandidates();
+      const contests = await this.getContests();
+      contests.forEach(contest => {
+        try {
+          this.coreio.addOffice(contest.id,contest);
+        } catch (error) {
+              console.warn('This contest id already exists:', contest.id);
+          }
+      });
+      this.coreio.createBoxesFromOffices();
   }
   async getDistricts(){
-    const districts = await this.callPapaAndNormalized();
-    return districts.map(district=>{
+    const papaDistricts = await this.callPapaAndNormalized(fileNameDistricts);
+    return papaDistricts.map(district=>{
       return new District(district);
     })
   }
-  async callPapaAndNormalized(): Promise<any[]> {
-    this.papa = await parseCsvFile(this.dir+'/'+fileNameDistricts);
+  async getChoices(){
+    const papaChoices = await this.callPapaAndNormalized(fileNameCandidates);
+//pass to models2 class choice
+    return papaChoices.map(candidate => {
+      return new Choice(candidate);
+      // choice.setDisplayData(papaChoices);
+    });
+  }
+  async getContests(){
+    const papaContests = await this.callPapaAndNormalized(fileNameContests);
+
+    return papaContests.map(contest => {
+      return new Contest(contest);
+    });
+  }
+  async callPapaAndNormalized(fileName): Promise<any[]> {
+    this.papa = await parseCsvFile(this.dir+'/'+fileName);
     return (this.papa).data.map(row=>{
       const ret= {};
       for (let key in row) {
