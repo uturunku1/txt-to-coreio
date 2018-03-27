@@ -293,23 +293,25 @@ var Party = /** @class */ (function () {
 }());
 exports.Party = Party;
 var Office = /** @class */ (function () {
-    // titles: TranslatableText[] = [];
-    // text: TranslatableText[] = [];
-    // term_start: number = 0;
-    // term: number = 0;
-    // external_district_ids: string[] = [];
     function Office(defaultValues) {
         if (defaultValues === void 0) { defaultValues = {}; }
         var _this = this;
         this.account_id = '';
         this.external_id = '';
+        this.titles = [];
+        this.text = [];
         this.num_selections = 1;
         this.num_writeins = 0;
         this.sequence = 0;
-        this.id = '';
-        this.name = '';
-        this.ballothead = '';
-        this.officemaster = 0;
+        this.term_start = 0;
+        this.term = 0;
+        this.districthndl = 0;
+        this.grouphdg = '';
+        // id: string='';
+        // name: string = '';
+        // ballothead: string='';
+        // officemaster:number=0;
+        this.external_district_ids = [];
         Object.keys(this).forEach(function (key) {
             if (defaultValues[key] !== undefined) {
                 _this[key] = defaultValues[key];

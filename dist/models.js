@@ -84,10 +84,10 @@ var Language = /** @class */ (function () {
 exports.Language = Language;
 var District = /** @class */ (function () {
     function District(data) {
-        this.id = data.externalid ? data.externalid : data.id;
-        this.type = data.type;
-        this.name = data.name;
-        this.combination = data.combination;
+        this.id = data.selecdistrictid;
+        this.type = data.szdistricttypeofficialdesc;
+        this.name = data.szelecdistrictname;
+        this.districthndl = data.ldistricthndl;
     }
     return District;
 }());
@@ -143,123 +143,68 @@ exports.Party = Party;
 var Contest = /** @class */ (function () {
     function Contest(data) {
         this.external_district_ids = [];
+        // officemaster: number;
+        // type: 'contest'|'measure'|'text';
+        // boxSelections: number;
+        // boxWriteins: number;
         this.headerNames = [];
-        this.id = data.name;
-        this.selections = +data.officevotefor;
-        this.writeins = +data.officewriteins;
-        this.boxSelections = data.overridevotefor === '1' ? +data.votefor : +data.officevotefor;
-        this.boxWriteins = data.overridewriteins === '1' ? +data.writeins : +data.officewriteins;
-        this.termlength = +data.termlength;
-        this.type = 'contest';
-        if (data.type === 'Candidacy') {
-            this.type = 'contest';
-        }
-        else if (data.type === 'Measure') {
-            this.type = 'measure';
-        }
-        else if (data.type === 'Instructional') {
-            this.type = 'text';
-        }
-        else {
-            console.warn('Unsupported type' + data.type);
-        }
-        // Assign headers so we can map them later
+        this.id = String(data.icontestid);
+        this.selections = +data.inumtovotefor;
+        this.num_writeins = +data.iwriteins;
+        this.sequence = Contest.sequence;
+        this.name = data.szofficetitle;
+        this.grouphdg = data.szgrouphdg;
+        // this.officemaster = data.lofficemasterhndl;
+        this.ballothead = data.szballotheading;
+        // this.boxSelections = data.overridevotefor === '1' ? +data.votefor : +data.officevotefor;
+        // this.boxWriteins = data.overridewriteins === '1' ? +data.writeins : +data.officewriteins;
+        // this.type = 'contest';
+        // if (data.type === 'Candidacy') {
+        //   this.type = 'contest';
+        // } else if(data.type === 'Measure') {
+        //   this.type = 'measure'
+        // } else if(data.type === 'Instructional') {
+        //   this.type = 'text';
+        // } else {
+        //   console.warn('Unsupported type' + data.type);
+        // }
+        // @todo: Do we get sequence from order exported, id, or reporting order?
+        // @assumption - Getting contest order from order appearing in file
+        this.titleManager = new TranslatableTextManager();
+        this.textManager = new TranslatableTextManager();
+        this.district = data.sdistrictid;
+        this.districthndl = data.ldistricthndl;
+        Contest.sequence += 10;
+        //Assign headers so we can map them later
         for (var _i = 0, _a = Object.keys(data); _i < _a.length; _i++) {
             var key = _a[_i];
             if (key.substr(0, 2) === 'ch') {
                 this.headerNames.push(data[key]);
             }
         }
-        // @todo: Do we get sequence from order exported, id, or reporting order?
-        // @assumption - Getting contest order from order appearing in file
-        this.sequence = Contest.sequence;
-        this.titleManager = new TranslatableTextManager();
-        this.textManager = new TranslatableTextManager();
-        this.name = data.name;
-        this.district = data.district;
-        Contest.sequence += 10;
+        this.titleManager.add(0, this.name, 'English');
+        this.titleManager.add(1, this.ballothead, 'English');
     }
-    Contest.prototype.setDisplayData = function (data) {
-        var _this = this;
-        data.filter(function (item) {
-            return item.name === _this.name // Match the contest
-                && item.purpose === 'Audio'; // Audio is the field that holds translations
-        }).forEach(function (item) {
-            // @todo: How to deal with proposition text?
-            var tus = +item.numoftu;
-            if (_this.type === 'contest') {
-                for (var i = 0; i < tus; i++) {
-                    // @assumption - All TUs after the first are subtitles
-                    // @todo - Potentially make import templates so we can define TU# to style mapping
-                    var style = i === 0 ? 'default' : 'subtitle';
-                    _this.titleManager.add(i, item["tu" + (i + 1)], item.language, style);
-                }
-            }
-            else if (_this.type === 'measure') {
-                // @assumption - First TU is title and all following are text
-                // Pull the first text unit as the title
-                if (tus > 0) {
-                    _this.titleManager.add(0, item['tu1'], item.language);
-                }
-                // The rest of them fall under text
-                for (var i = 1; i < tus; i++) {
-                    _this.textManager.add(i - 1, item["tu" + (i + 1)], item.language);
-                }
-            }
-            // @todo: tus/rtf - Sometimes it's possible to have only rtf defined.
-            // We can't/don't want to rely on rtf because it has special formatting.
-            var appearance = item.appearance.toLowerCase();
-            if (tus === 0 && appearance === 'rtf' && item.rtftext) {
-                _this.titleManager.add(0, item.rtftext, item.language);
-            }
-        });
-    };
     Contest.sequence = 10;
     return Contest;
 }());
 exports.Contest = Contest;
 var Choice = /** @class */ (function () {
     function Choice(data) {
-        this.id = data.id;
-        this.name = data.name;
-        this.type = 'default';
-        if (data.type === 'Write In') {
-            this.type = 'writein';
-        }
-        else if (data.type === 'Qualified Writein') {
-            // @assumption - Skip qualified writeins
-            this.type = 'skip';
-        }
-        // @todo: Candidate order
+        this.name = data.szcandidateballotname;
         this.sequence = Choice.sequence;
-        // @todo: Candidate party?
-        this.partyName = data.party1;
-        this.contestName = data.contest;
-        this.incumbent = data.incumbent === '1';
+        this.candidate_id = String(data.icandidateid);
+        this.designation = data.szballotdesignation;
+        this.party_name = data.spartyabbr;
+        this.contest_id = data.icontestid;
+        this.party_hndl = data.lpartyhndl;
+        this.type = 'default';
         this.titleManager = new TranslatableTextManager();
         // @todo: Write ins aren't provided in display table
         this.titleManager.add(0, this.name, 'English');
+        this.titleManager.add(1, this.designation, 'English');
         Choice.sequence += 10;
     }
-    Choice.prototype.setDisplayData = function (displayData) {
-        var _this = this;
-        displayData.filter(function (item) {
-            return item.choicename === _this.name // Match the choice name
-                && item.contestname === _this.contestName // Match the contest
-                && item.purpose === 'Audio'; // Audio is the field that holds translations
-        }).forEach(function (item) {
-            var tus = +item.numoftu;
-            for (var i = 0; i < tus; i++) {
-                _this.titleManager.add(i, item["tu" + (i + 1)], item.language);
-            }
-            // @todo: tus/rtf - Sometimes it's possible to have only rtf defined.
-            // We can't/don't want to rely on rtf because it has special formatting.
-            var appearance = item.appearance.toLowerCase();
-            if (tus === 0 && appearance === 'rtf' && item.rtftext) {
-                _this.titleManager.add(0, item.rtftext, item.language);
-            }
-        });
-    };
     Choice.sequence = 10;
     return Choice;
 }());

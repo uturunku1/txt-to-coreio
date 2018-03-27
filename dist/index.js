@@ -35,7 +35,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var models2_1 = require("./models2");
+var models_1 = require("./models");
 var coreio_1 = require("./coreio");
 var PapaWrapper_1 = require("./PapaWrapper");
 var fileprocess_1 = require("./fileprocess");
@@ -44,6 +44,7 @@ var path = require('path');
 var fileNameDistricts;
 var fileNameCandidates;
 var fileNameContests;
+var fileNamePrecincts;
 var Parser = /** @class */ (function () {
     // files: string[]=[];
     function Parser(dir) {
@@ -57,7 +58,7 @@ var Parser = /** @class */ (function () {
     Parser.prototype.parse = function (accountId, electionId) {
         return __awaiter(this, void 0, void 0, function () {
             var _this = this;
-            var languages, districts, candidates, contests;
+            var languages, districts, precincts, candidates, contests;
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0:
@@ -74,6 +75,20 @@ var Parser = /** @class */ (function () {
                             catch (error) {
                                 console.warn('This district id already exists:', district.id);
                             }
+                        });
+                        precincts = this.getPrecincts();
+                        precincts.forEach(function (precinct) {
+                            _this.coreio.addPrecinct(precinct.id, precinct);
+                            precinct.districtNames.forEach(function (name) {
+                                var found = districts.find(function (district) { return district.combination === name; });
+                                if (found) {
+                                    return _this.coreio.mapPrecinctToDistrict(precinct.id, found.id);
+                                }
+                                else {
+                                    console.warn('Unable to find district with name', name, 'for precinct', precinct.pname);
+                                    return null;
+                                }
+                            });
                         });
                         return [4 /*yield*/, this.getChoices()];
                     case 2:
@@ -99,14 +114,38 @@ var Parser = /** @class */ (function () {
                     case 3:
                         contests = _a.sent();
                         contests.forEach(function (contest) {
+                            var external_district_ids = [];
+                            // let district = districts.find(d=>d.name===contest.district);
+                            var district = districts.find(function (d) { return d.id === contest.district; });
+                            if (!district) {
+                                console.warn('Unable to find district', contest.district, 'for contest', contest.name);
+                            }
+                            else {
+                                external_district_ids.push(district.id);
+                            }
                             try {
-                                _this.coreio.addOffice(contest.id, contest);
+                                _this.coreio.addOffice(contest.id, {
+                                    titles: contest.titleManager.getTextArray(languages),
+                                    text: contest.textManager.getTextArray(languages),
+                                    num_selections: contest.selections,
+                                    num_writeins: contest.num_writeins,
+                                    sequence: contest.sequence,
+                                    // @assumption - It's ok to default the year to this year.
+                                    term_start: new Date().getFullYear(),
+                                    districthndl: contest.districthndl,
+                                    term: contest.termlength,
+                                    grouphdg: contest.grouphdg,
+                                    // name: contest.name,
+                                    // ballothead: contest.ballothead,
+                                    external_district_ids: external_district_ids,
+                                });
                             }
                             catch (error) {
                                 console.warn('This contest id already exists:', contest.id);
                             }
                         });
                         this.coreio.createBoxesFromOffices();
+                        this.coreio.createBoxesFromMeasures();
                         return [2 /*return*/];
                 }
             });
@@ -121,7 +160,22 @@ var Parser = /** @class */ (function () {
                     case 1:
                         papaDistricts = _a.sent();
                         return [2 /*return*/, papaDistricts.map(function (district) {
-                                return new models2_1.District(district);
+                                return new models_1.District(district);
+                            })];
+                }
+            });
+        });
+    };
+    Parser.prototype.getPrecincts = function () {
+        return __awaiter(this, void 0, void 0, function () {
+            var papaPrecincts;
+            return __generator(this, function (_a) {
+                switch (_a.label) {
+                    case 0: return [4 /*yield*/, this.callPapaAndNormalized(fileNamePrecincts)];
+                    case 1:
+                        papaPrecincts = _a.sent();
+                        return [2 /*return*/, papaPrecincts.map(function (precinct) {
+                                return new models_1.Precinct(precinct);
                             })];
                 }
             });
@@ -137,7 +191,7 @@ var Parser = /** @class */ (function () {
                         papaChoices = _a.sent();
                         //pass to models2 class choice
                         return [2 /*return*/, papaChoices.map(function (candidate) {
-                                return new models2_1.Choice(candidate);
+                                return new models_1.Choice(candidate);
                                 // choice.setDisplayData(papaChoices);
                             })];
                 }
@@ -153,7 +207,7 @@ var Parser = /** @class */ (function () {
                     case 1:
                         papaContests = _a.sent();
                         return [2 /*return*/, papaContests.map(function (contest) {
-                                return new models2_1.Contest(contest);
+                                return new models_1.Contest(contest);
                             })];
                 }
             });
@@ -194,7 +248,8 @@ var Parser = /** @class */ (function () {
         fileNameDistricts = files.find(function (i) { return i.includes('DistrictExtract'); });
         fileNameCandidates = files.find(function (i) { return i.includes('CandidateExtract'); });
         fileNameContests = files.find(function (i) { return i.includes('ContestExtract'); });
-        if (fileNameDistricts === undefined || fileNameCandidates === undefined || fileNameContests === undefined) {
+        fileNamePrecincts = files.find(function (i) { return i.includes('Precinct'); });
+        if (fileNameDistricts === undefined || fileNameCandidates === undefined || fileNameContests === undefined || fileNamePrecincts === undefined) {
             return true;
         }
     };

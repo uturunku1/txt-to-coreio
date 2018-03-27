@@ -1,4 +1,4 @@
-import { District, Choice, Contest, Language } from './models2';
+import { District, Choice, Contest, Language, Precinct } from './models';
 import {CoreIO} from './coreio';
 import { parseCsvFile } from "./PapaWrapper";
 import { write } from './fileprocess';
@@ -8,6 +8,7 @@ const path = require('path');
 let fileNameDistricts;
 let fileNameCandidates;
 let fileNameContests;
+let fileNamePrecincts;
 
 class Parser {
   papa: Papa;
@@ -35,6 +36,22 @@ class Parser {
             console.warn('This district id already exists:', district.id);
         }
     });
+
+    const precincts = this.getPrecincts();
+    precincts.forEach(precinct => {
+      this.coreio.addPrecinct(precinct.id, precinct);
+
+      precinct.districtNames.forEach(name => {
+        const found = districts.find(district => district.combination === name);
+        if (found) {
+          return this.coreio.mapPrecinctToDistrict(precinct.id, found.id);
+        } else {
+          console.warn('Unable to find district with name', name, 'for precinct', precinct.pname);
+          return null;
+        }
+      });
+    });
+
     const candidates = await this.getChoices();
     candidates.forEach(choice=>{
         try {
@@ -55,19 +72,49 @@ class Parser {
 
       const contests = await this.getContests();
       contests.forEach(contest => {
+        const external_district_ids = [];
+        // let district = districts.find(d=>d.name===contest.district);
+        let district = districts.find(d=>d.id===contest.district)
+        if (!district) {
+        console.warn('Unable to find district', contest.district, 'for contest', contest.name);
+        } else {
+          external_district_ids.push(district.id);
+        }
         try {
-          this.coreio.addOffice(contest.id,contest);
+          this.coreio.addOffice(contest.id,{
+          titles: contest.titleManager.getTextArray(languages),
+          text: contest.textManager.getTextArray(languages),
+          num_selections: contest.selections,
+          num_writeins: contest.num_writeins,
+          sequence: contest.sequence,
+          // @assumption - It's ok to default the year to this year.
+          term_start: new Date().getFullYear(),
+          districthndl: contest.districthndl,
+          term: contest.termlength,
+          grouphdg: contest.grouphdg,
+          // name: contest.name,
+          // ballothead: contest.ballothead,
+          external_district_ids,
+        });
         } catch (error) {
               console.warn('This contest id already exists:', contest.id);
           }
       });
       this.coreio.createBoxesFromOffices();
+      this.coreio.createBoxesFromMeasures();
+
   }
   async getDistricts(){
     const papaDistricts = await this.callPapaAndNormalized(fileNameDistricts);
     return papaDistricts.map(district=>{
       return new District(district);
     })
+  }
+  async getPrecincts(){
+    const papaPrecincts = await this.callPapaAndNormalized(fileNamePrecincts);
+    return papaPrecincts.map(precinct => {
+      return new Precinct(precinct);
+    });
   }
   async getChoices(){
     const papaChoices = await this.callPapaAndNormalized(fileNameCandidates);
@@ -108,7 +155,8 @@ class Parser {
     fileNameDistricts= files.find(i=>i.includes('DistrictExtract'));
     fileNameCandidates= files.find(i=>i.includes('CandidateExtract'));
     fileNameContests= files.find(i=>i.includes('ContestExtract'));
-    if(fileNameDistricts===undefined ||fileNameCandidates===undefined||fileNameContests===undefined){
+    fileNamePrecincts= files.find(i=>i.includes('Precinct'))
+    if(fileNameDistricts===undefined ||fileNameCandidates===undefined||fileNameContests===undefined||fileNamePrecincts===undefined){
       return true;
     }
   }

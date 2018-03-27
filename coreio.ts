@@ -308,19 +308,21 @@ export class Party {
 export class Office {
   account_id = '';
   external_id = '';
+  titles: TranslatableText[] = [];
+  text: TranslatableText[] = [];
   num_selections: number = 1;
   num_writeins: number = 0;
   sequence: number = 0;
-  id: string='';
-  name: string = '';
-  ballothead: string='';
-  officemaster:number=0;
+  term_start: number = 0;
+  term: number = 0;
+  districthndl:number=0;
+  grouphdg: string ='';
+  // id: string='';
+  // name: string = '';
+  // ballothead: string='';
+  // officemaster:number=0;
 
-  // titles: TranslatableText[] = [];
-  // text: TranslatableText[] = [];
-  // term_start: number = 0;
-  // term: number = 0;
-  // external_district_ids: string[] = [];
+  external_district_ids: string[] = [];
   constructor(defaultValues: Object = {}) {
     Object.keys(this).forEach(key => {
       if (defaultValues[key] !== undefined) {
